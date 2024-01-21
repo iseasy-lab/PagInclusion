@@ -83,7 +83,7 @@
    <unicode value="Unidad"></unicode>
   </list>
   <string role="key" value="_name"></string>
-  <unicode value="Herramientas_para_creacin_de_videos"></unicode>
+  <unicode value="Herramientas_para_Edicion_de_Imagenes_y_Video"></unicode>
   <string role="key" value="_nextIdeviceId"></string>
   <int value="67"></int>
   <string role="key" value="_nextNodeId"></string>
@@ -154,7 +154,7 @@ text through the text editing buttons associated with the field."></unicode>
                <instance class="exe.engine.field.TextField">
                 <dictionary>
                  <string role="key" value="_id"></string>
-                 <int value="269"></int>
+                 <int value="465"></int>
                  <string role="key" value="_idevice"></string>
                  <none></none>
                  <string role="key" value="_instruc"></string>
@@ -179,7 +179,7 @@ text through the text editing buttons associated with the field."></unicode>
                  <string role="key" value="_storageName"></string>
                  <string value="150EPN.png"></string>
                  <string role="key" value="_userName"></string>
-                 <string value="c:\\users\\mariab~1\\appdata\\local\\temp\\tmpjcobck\\150EPN.png"></string>
+                 <string value="c:\\users\\tandr\\appdata\\local\\temp\\tmpfxezzb\\150EPN.png"></string>
                  <string role="key" value="checksum"></string>
                  <string value="5375c29db5e32723720292eb69617273"></string>
                  <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -240,106 +240,6 @@ text through the text editing buttons associated with the field."></unicode>
         <string role="key" value="userResources"></string>
         <list>
          <reference key="5"></reference>
-         <instance class="exe.engine.resource.Resource" reference="42">
-          <dictionary>
-           <string role="key" value="_idevice"></string>
-           <reference key="1"></reference>
-           <string role="key" value="_package"></string>
-           <reference key="2"></reference>
-           <string role="key" value="_storageName"></string>
-           <string value="150EPN.png"></string>
-           <string role="key" value="_userName"></string>
-           <string value="c:\\users\\mariab~1\\appdata\\local\\temp\\tmpjcobck\\150EPN.png"></string>
-           <string role="key" value="checksum"></string>
-           <string value="5375c29db5e32723720292eb69617273"></string>
-           <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-           <int value="2"></int>
-           <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-           <int value="2"></int>
-           <string role="key" value="warningMsg"></string>
-           <string value=""></string>
-          </dictionary>
-         </instance>
-         <instance class="exe.engine.resource.Resource" reference="43">
-          <dictionary>
-           <string role="key" value="_idevice"></string>
-           <reference key="1"></reference>
-           <string role="key" value="_package"></string>
-           <reference key="2"></reference>
-           <string role="key" value="_storageName"></string>
-           <string value="150EPN.png"></string>
-           <string role="key" value="_userName"></string>
-           <string value="c:\\users\\mariab~1\\appdata\\local\\temp\\tmpjcobck\\150EPN.png"></string>
-           <string role="key" value="checksum"></string>
-           <string value="5375c29db5e32723720292eb69617273"></string>
-           <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-           <int value="2"></int>
-           <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-           <int value="2"></int>
-           <string role="key" value="warningMsg"></string>
-           <string value=""></string>
-          </dictionary>
-         </instance>
-         <instance class="exe.engine.resource.Resource" reference="44">
-          <dictionary>
-           <string role="key" value="_idevice"></string>
-           <reference key="1"></reference>
-           <string role="key" value="_package"></string>
-           <reference key="2"></reference>
-           <string role="key" value="_storageName"></string>
-           <string value="150EPN.png"></string>
-           <string role="key" value="_userName"></string>
-           <string value="c:\\users\\mariab~1\\appdata\\local\\temp\\tmpjcobck\\150EPN.png"></string>
-           <string role="key" value="checksum"></string>
-           <string value="5375c29db5e32723720292eb69617273"></string>
-           <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-           <int value="2"></int>
-           <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-           <int value="2"></int>
-           <string role="key" value="warningMsg"></string>
-           <string value=""></string>
-          </dictionary>
-         </instance>
-         <instance class="exe.engine.resource.Resource" reference="45">
-          <dictionary>
-           <string role="key" value="_idevice"></string>
-           <reference key="1"></reference>
-           <string role="key" value="_package"></string>
-           <reference key="2"></reference>
-           <string role="key" value="_storageName"></string>
-           <string value="150EPN.png"></string>
-           <string role="key" value="_userName"></string>
-           <string value="c:\\users\\mariab~1\\appdata\\local\\temp\\tmpjcobck\\150EPN.png"></string>
-           <string role="key" value="checksum"></string>
-           <string value="5375c29db5e32723720292eb69617273"></string>
-           <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-           <int value="2"></int>
-           <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-           <int value="2"></int>
-           <string role="key" value="warningMsg"></string>
-           <string value=""></string>
-          </dictionary>
-         </instance>
-         <instance class="exe.engine.resource.Resource" reference="46">
-          <dictionary>
-           <string role="key" value="_idevice"></string>
-           <reference key="1"></reference>
-           <string role="key" value="_package"></string>
-           <reference key="2"></reference>
-           <string role="key" value="_storageName"></string>
-           <string value="150EPN.png"></string>
-           <string role="key" value="_userName"></string>
-           <string value="c:\\users\\mariab~1\\appdata\\local\\temp\\tmpjcobck\\150EPN.png"></string>
-           <string role="key" value="checksum"></string>
-           <string value="5375c29db5e32723720292eb69617273"></string>
-           <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-           <int value="2"></int>
-           <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-           <int value="2"></int>
-           <string role="key" value="warningMsg"></string>
-           <string value=""></string>
-          </dictionary>
-         </instance>
         </list>
         <string role="key" value="version"></string>
         <int value="0"></int>
@@ -422,7 +322,7 @@ text through the text editing buttons associated with the field."></unicode>
            <string role="key" value="_exportResources"></string>
            <list></list>
            <string role="key" value="_iDeviceDir"></string>
-           <string value="C:\\Users\\Maria Belen\\AppData\\Roaming\\exe\\scripts\\idevices\\text"></string>
+           <string value="text"></string>
            <string role="key" value="_purpose"></string>
            <string value=""></string>
            <string role="key" value="_tip"></string>
@@ -531,7 +431,7 @@ text through the text editing buttons associated with the field."></unicode>
       <instance class="exe.engine.node.Node" reference="11">
        <dictionary>
         <string role="key" value="_title"></string>
-        <unicode value="Herramientas para creación de videos"></unicode>
+        <unicode value="Herramientas para edición de Imagenes y Videos"></unicode>
         <string role="key" value="idevices"></string>
         <list>
          <instance class="exe.engine.jsidevice.JsIdevice" reference="9">
@@ -586,7 +486,7 @@ text through the text editing buttons associated with the field."></unicode>
            <string role="key" value="_exportResources"></string>
            <list></list>
            <string role="key" value="_iDeviceDir"></string>
-           <string value="C:\\Users\\Maria Belen\\AppData\\Roaming\\exe\\scripts\\idevices\\text"></string>
+           <string value="text"></string>
            <string role="key" value="_purpose"></string>
            <string value=""></string>
            <string role="key" value="_tip"></string>
@@ -646,7 +546,7 @@ text through the text editing buttons associated with the field."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="270"></int>
+                     <int value="466"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -671,7 +571,7 @@ text through the text editing buttons associated with the field."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="AnimotoCarrusel.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\mariab~1\\appdata\\local\\temp\\tmpjcobck\\AnimotoCarrusel.png"></string>
+                     <string value="c:\\users\\tandr\\appdata\\local\\temp\\tmpfxezzb\\AnimotoCarrusel.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="89b3f27744816f3f90d9a3d37e4a713e"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -698,7 +598,7 @@ text through the text editing buttons associated with the field."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="273"></int>
+                     <int value="469"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -723,7 +623,7 @@ text through the text editing buttons associated with the field."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="PowtoonCarrusel.1.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\mariab~1\\appdata\\local\\temp\\tmpjcobck\\PowtoonCarrusel.1.jpg"></string>
+                     <string value="c:\\users\\tandr\\appdata\\local\\temp\\tmpfxezzb\\PowtoonCarrusel.1.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="ee166570338a146d9141f09ae2addf98"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -750,7 +650,7 @@ text through the text editing buttons associated with the field."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="275"></int>
+                     <int value="471"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -775,7 +675,7 @@ text through the text editing buttons associated with the field."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="WideoCarrusel.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\mariab~1\\appdata\\local\\temp\\tmpjcobck\\WideoCarrusel.jpg"></string>
+                     <string value="c:\\users\\tandr\\appdata\\local\\temp\\tmpfxezzb\\WideoCarrusel.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="f85ddc79d86b6babee5e0a73e89d78d6"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -831,488 +731,8 @@ text through the text editing buttons associated with the field."></unicode>
            <string role="key" value="userResources"></string>
            <list>
             <reference key="12"></reference>
-            <instance class="exe.engine.resource.Resource" reference="47">
-             <dictionary>
-              <string role="key" value="_idevice"></string>
-              <reference key="9"></reference>
-              <string role="key" value="_package"></string>
-              <reference key="2"></reference>
-              <string role="key" value="_storageName"></string>
-              <string value="AnimotoCarrusel.png"></string>
-              <string role="key" value="_userName"></string>
-              <string value="c:\\users\\mariab~1\\appdata\\local\\temp\\tmpjcobck\\AnimotoCarrusel.png"></string>
-              <string role="key" value="checksum"></string>
-              <string value="89b3f27744816f3f90d9a3d37e4a713e"></string>
-              <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="warningMsg"></string>
-              <string value=""></string>
-             </dictionary>
-            </instance>
-            <instance class="exe.engine.resource.Resource" reference="48">
-             <dictionary>
-              <string role="key" value="_idevice"></string>
-              <reference key="9"></reference>
-              <string role="key" value="_package"></string>
-              <reference key="2"></reference>
-              <string role="key" value="_storageName"></string>
-              <string value="AnimotoCarrusel.png"></string>
-              <string role="key" value="_userName"></string>
-              <string value="c:\\users\\mariab~1\\appdata\\local\\temp\\tmpjcobck\\AnimotoCarrusel.png"></string>
-              <string role="key" value="checksum"></string>
-              <string value="89b3f27744816f3f90d9a3d37e4a713e"></string>
-              <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="warningMsg"></string>
-              <string value=""></string>
-             </dictionary>
-            </instance>
-            <instance class="exe.engine.resource.Resource" reference="49">
-             <dictionary>
-              <string role="key" value="_idevice"></string>
-              <reference key="9"></reference>
-              <string role="key" value="_package"></string>
-              <reference key="2"></reference>
-              <string role="key" value="_storageName"></string>
-              <string value="AnimotoCarrusel.png"></string>
-              <string role="key" value="_userName"></string>
-              <string value="c:\\users\\mariab~1\\appdata\\local\\temp\\tmpjcobck\\AnimotoCarrusel.png"></string>
-              <string role="key" value="checksum"></string>
-              <string value="89b3f27744816f3f90d9a3d37e4a713e"></string>
-              <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="warningMsg"></string>
-              <string value=""></string>
-             </dictionary>
-            </instance>
-            <instance class="exe.engine.resource.Resource" reference="50">
-             <dictionary>
-              <string role="key" value="_idevice"></string>
-              <reference key="9"></reference>
-              <string role="key" value="_package"></string>
-              <reference key="2"></reference>
-              <string role="key" value="_storageName"></string>
-              <string value="AnimotoCarrusel.png"></string>
-              <string role="key" value="_userName"></string>
-              <string value="c:\\users\\mariab~1\\appdata\\local\\temp\\tmpjcobck\\AnimotoCarrusel.png"></string>
-              <string role="key" value="checksum"></string>
-              <string value="89b3f27744816f3f90d9a3d37e4a713e"></string>
-              <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="warningMsg"></string>
-              <string value=""></string>
-             </dictionary>
-            </instance>
-            <instance class="exe.engine.resource.Resource" reference="51">
-             <dictionary>
-              <string role="key" value="_idevice"></string>
-              <reference key="9"></reference>
-              <string role="key" value="_package"></string>
-              <reference key="2"></reference>
-              <string role="key" value="_storageName"></string>
-              <string value="AnimotoCarrusel.png"></string>
-              <string role="key" value="_userName"></string>
-              <string value="c:\\users\\mariab~1\\appdata\\local\\temp\\tmpjcobck\\AnimotoCarrusel.png"></string>
-              <string role="key" value="checksum"></string>
-              <string value="89b3f27744816f3f90d9a3d37e4a713e"></string>
-              <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="warningMsg"></string>
-              <string value=""></string>
-             </dictionary>
-            </instance>
-            <instance class="exe.engine.resource.Resource" reference="52">
-             <dictionary>
-              <string role="key" value="_idevice"></string>
-              <reference key="9"></reference>
-              <string role="key" value="_package"></string>
-              <reference key="2"></reference>
-              <string role="key" value="_storageName"></string>
-              <string value="AnimotoCarrusel.png"></string>
-              <string role="key" value="_userName"></string>
-              <string value="c:\\users\\mariab~1\\appdata\\local\\temp\\tmpjcobck\\AnimotoCarrusel.png"></string>
-              <string role="key" value="checksum"></string>
-              <string value="89b3f27744816f3f90d9a3d37e4a713e"></string>
-              <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="warningMsg"></string>
-              <string value=""></string>
-             </dictionary>
-            </instance>
-            <instance class="exe.engine.resource.Resource" reference="58">
-             <dictionary>
-              <string role="key" value="_idevice"></string>
-              <reference key="9"></reference>
-              <string role="key" value="_package"></string>
-              <reference key="2"></reference>
-              <string role="key" value="_storageName"></string>
-              <string value="Logo_Inclusion_Digital.jpeg"></string>
-              <string role="key" value="_userName"></string>
-              <string value="c:\\users\\mariab~1\\appdata\\local\\temp\\tmpjcobck\\Logo_Inclusion_Digital.jpeg"></string>
-              <string role="key" value="checksum"></string>
-              <string value="b6db4b5cfdfc5888369ae658a8ee502d"></string>
-              <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="warningMsg"></string>
-              <string value=""></string>
-             </dictionary>
-            </instance>
-            <instance class="exe.engine.resource.Resource" reference="59">
-             <dictionary>
-              <string role="key" value="_idevice"></string>
-              <reference key="9"></reference>
-              <string role="key" value="_package"></string>
-              <reference key="2"></reference>
-              <string role="key" value="_storageName"></string>
-              <string value="Logo_Inclusion_Digital.jpeg"></string>
-              <string role="key" value="_userName"></string>
-              <string value="c:\\users\\mariab~1\\appdata\\local\\temp\\tmpjcobck\\Logo_Inclusion_Digital.jpeg"></string>
-              <string role="key" value="checksum"></string>
-              <string value="b6db4b5cfdfc5888369ae658a8ee502d"></string>
-              <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="warningMsg"></string>
-              <string value=""></string>
-             </dictionary>
-            </instance>
-            <instance class="exe.engine.resource.Resource" reference="60">
-             <dictionary>
-              <string role="key" value="_idevice"></string>
-              <reference key="9"></reference>
-              <string role="key" value="_package"></string>
-              <reference key="2"></reference>
-              <string role="key" value="_storageName"></string>
-              <string value="Logo_Inclusion_Digital.jpeg"></string>
-              <string role="key" value="_userName"></string>
-              <string value="c:\\users\\mariab~1\\appdata\\local\\temp\\tmpjcobck\\Logo_Inclusion_Digital.jpeg"></string>
-              <string role="key" value="checksum"></string>
-              <string value="b6db4b5cfdfc5888369ae658a8ee502d"></string>
-              <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="warningMsg"></string>
-              <string value=""></string>
-             </dictionary>
-            </instance>
-            <instance class="exe.engine.resource.Resource" reference="73">
-             <dictionary>
-              <string role="key" value="_idevice"></string>
-              <reference key="9"></reference>
-              <string role="key" value="_package"></string>
-              <reference key="2"></reference>
-              <string role="key" value="_storageName"></string>
-              <string value="Pixorial.jpg"></string>
-              <string role="key" value="_userName"></string>
-              <string value="c:\\users\\mariab~1\\appdata\\local\\temp\\tmpjcobck\\Pixorial.jpg"></string>
-              <string role="key" value="checksum"></string>
-              <string value="e44899a53d2ea1444ea9acd101af0a5e"></string>
-              <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="warningMsg"></string>
-              <string value=""></string>
-             </dictionary>
-            </instance>
             <reference key="13"></reference>
-            <instance class="exe.engine.resource.Resource" reference="74">
-             <dictionary>
-              <string role="key" value="_idevice"></string>
-              <reference key="9"></reference>
-              <string role="key" value="_package"></string>
-              <reference key="2"></reference>
-              <string role="key" value="_storageName"></string>
-              <string value="PowtoonCarrusel.1.jpg"></string>
-              <string role="key" value="_userName"></string>
-              <string value="c:\\users\\mariab~1\\appdata\\local\\temp\\tmpjcobck\\PowtoonCarrusel.1.jpg"></string>
-              <string role="key" value="checksum"></string>
-              <string value="ee166570338a146d9141f09ae2addf98"></string>
-              <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="warningMsg"></string>
-              <string value=""></string>
-             </dictionary>
-            </instance>
-            <instance class="exe.engine.resource.Resource" reference="75">
-             <dictionary>
-              <string role="key" value="_idevice"></string>
-              <reference key="9"></reference>
-              <string role="key" value="_package"></string>
-              <reference key="2"></reference>
-              <string role="key" value="_storageName"></string>
-              <string value="PowtoonCarrusel.1.jpg"></string>
-              <string role="key" value="_userName"></string>
-              <string value="c:\\users\\mariab~1\\appdata\\local\\temp\\tmpjcobck\\PowtoonCarrusel.1.jpg"></string>
-              <string role="key" value="checksum"></string>
-              <string value="ee166570338a146d9141f09ae2addf98"></string>
-              <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="warningMsg"></string>
-              <string value=""></string>
-             </dictionary>
-            </instance>
-            <instance class="exe.engine.resource.Resource" reference="76">
-             <dictionary>
-              <string role="key" value="_idevice"></string>
-              <reference key="9"></reference>
-              <string role="key" value="_package"></string>
-              <reference key="2"></reference>
-              <string role="key" value="_storageName"></string>
-              <string value="PowtoonCarrusel.1.jpg"></string>
-              <string role="key" value="_userName"></string>
-              <string value="c:\\users\\mariab~1\\appdata\\local\\temp\\tmpjcobck\\PowtoonCarrusel.1.jpg"></string>
-              <string role="key" value="checksum"></string>
-              <string value="ee166570338a146d9141f09ae2addf98"></string>
-              <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="warningMsg"></string>
-              <string value=""></string>
-             </dictionary>
-            </instance>
-            <instance class="exe.engine.resource.Resource" reference="77">
-             <dictionary>
-              <string role="key" value="_idevice"></string>
-              <reference key="9"></reference>
-              <string role="key" value="_package"></string>
-              <reference key="2"></reference>
-              <string role="key" value="_storageName"></string>
-              <string value="PowtoonCarrusel.1.jpg"></string>
-              <string role="key" value="_userName"></string>
-              <string value="c:\\users\\mariab~1\\appdata\\local\\temp\\tmpjcobck\\PowtoonCarrusel.1.jpg"></string>
-              <string role="key" value="checksum"></string>
-              <string value="ee166570338a146d9141f09ae2addf98"></string>
-              <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="warningMsg"></string>
-              <string value=""></string>
-             </dictionary>
-            </instance>
-            <instance class="exe.engine.resource.Resource" reference="78">
-             <dictionary>
-              <string role="key" value="_idevice"></string>
-              <reference key="9"></reference>
-              <string role="key" value="_package"></string>
-              <reference key="2"></reference>
-              <string role="key" value="_storageName"></string>
-              <string value="PowtoonCarrusel.1.jpg"></string>
-              <string role="key" value="_userName"></string>
-              <string value="c:\\users\\mariab~1\\appdata\\local\\temp\\tmpjcobck\\PowtoonCarrusel.1.jpg"></string>
-              <string role="key" value="checksum"></string>
-              <string value="ee166570338a146d9141f09ae2addf98"></string>
-              <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="warningMsg"></string>
-              <string value=""></string>
-             </dictionary>
-            </instance>
-            <instance class="exe.engine.resource.Resource" reference="87">
-             <dictionary>
-              <string role="key" value="_idevice"></string>
-              <reference key="9"></reference>
-              <string role="key" value="_package"></string>
-              <reference key="2"></reference>
-              <string role="key" value="_storageName"></string>
-              <string value="PowtoonCarrusel.jpg"></string>
-              <string role="key" value="_userName"></string>
-              <string value="c:\\users\\mariab~1\\appdata\\local\\temp\\tmpjcobck\\PowtoonCarrusel.jpg"></string>
-              <string role="key" value="checksum"></string>
-              <string value="fd986d289374c7861c7faddeee3e5406"></string>
-              <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="warningMsg"></string>
-              <string value=""></string>
-             </dictionary>
-            </instance>
-            <instance class="exe.engine.resource.Resource" reference="79">
-             <dictionary>
-              <string role="key" value="_idevice"></string>
-              <reference key="9"></reference>
-              <string role="key" value="_package"></string>
-              <reference key="2"></reference>
-              <string role="key" value="_storageName"></string>
-              <string value="WhatsApp_Image_2019-11-29_at_12.25.53_AM.jpeg"></string>
-              <string role="key" value="_userName"></string>
-              <string value="c:\\users\\mariab~1\\appdata\\local\\temp\\tmpjcobck\\WhatsApp_Image_2019-11-29_at_12.25.53_AM.jpeg"></string>
-              <string role="key" value="checksum"></string>
-              <string value="ee615622f246cd4e5b766ebfa724fc6a"></string>
-              <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="warningMsg"></string>
-              <string value=""></string>
-             </dictionary>
-            </instance>
-            <instance class="exe.engine.resource.Resource" reference="80">
-             <dictionary>
-              <string role="key" value="_idevice"></string>
-              <reference key="9"></reference>
-              <string role="key" value="_package"></string>
-              <reference key="2"></reference>
-              <string role="key" value="_storageName"></string>
-              <string value="WhatsApp_Image_2019-11-29_at_12.25.53_AM.jpeg"></string>
-              <string role="key" value="_userName"></string>
-              <string value="c:\\users\\mariab~1\\appdata\\local\\temp\\tmpjcobck\\WhatsApp_Image_2019-11-29_at_12.25.53_AM.jpeg"></string>
-              <string role="key" value="checksum"></string>
-              <string value="ee615622f246cd4e5b766ebfa724fc6a"></string>
-              <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="warningMsg"></string>
-              <string value=""></string>
-             </dictionary>
-            </instance>
-            <instance class="exe.engine.resource.Resource" reference="81">
-             <dictionary>
-              <string role="key" value="_idevice"></string>
-              <reference key="9"></reference>
-              <string role="key" value="_package"></string>
-              <reference key="2"></reference>
-              <string role="key" value="_storageName"></string>
-              <string value="WhatsApp_Image_2019-11-29_at_12.25.53_AM.jpeg"></string>
-              <string role="key" value="_userName"></string>
-              <string value="c:\\users\\mariab~1\\appdata\\local\\temp\\tmpjcobck\\WhatsApp_Image_2019-11-29_at_12.25.53_AM.jpeg"></string>
-              <string role="key" value="checksum"></string>
-              <string value="ee615622f246cd4e5b766ebfa724fc6a"></string>
-              <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="warningMsg"></string>
-              <string value=""></string>
-             </dictionary>
-            </instance>
             <reference key="14"></reference>
-            <instance class="exe.engine.resource.Resource" reference="82">
-             <dictionary>
-              <string role="key" value="_idevice"></string>
-              <reference key="9"></reference>
-              <string role="key" value="_package"></string>
-              <reference key="2"></reference>
-              <string role="key" value="_storageName"></string>
-              <string value="WideoCarrusel.jpg"></string>
-              <string role="key" value="_userName"></string>
-              <string value="c:\\users\\mariab~1\\appdata\\local\\temp\\tmpjcobck\\WideoCarrusel.jpg"></string>
-              <string role="key" value="checksum"></string>
-              <string value="f85ddc79d86b6babee5e0a73e89d78d6"></string>
-              <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="warningMsg"></string>
-              <string value=""></string>
-             </dictionary>
-            </instance>
-            <instance class="exe.engine.resource.Resource" reference="83">
-             <dictionary>
-              <string role="key" value="_idevice"></string>
-              <reference key="9"></reference>
-              <string role="key" value="_package"></string>
-              <reference key="2"></reference>
-              <string role="key" value="_storageName"></string>
-              <string value="WideoCarrusel.jpg"></string>
-              <string role="key" value="_userName"></string>
-              <string value="c:\\users\\mariab~1\\appdata\\local\\temp\\tmpjcobck\\WideoCarrusel.jpg"></string>
-              <string role="key" value="checksum"></string>
-              <string value="f85ddc79d86b6babee5e0a73e89d78d6"></string>
-              <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="warningMsg"></string>
-              <string value=""></string>
-             </dictionary>
-            </instance>
-            <instance class="exe.engine.resource.Resource" reference="84">
-             <dictionary>
-              <string role="key" value="_idevice"></string>
-              <reference key="9"></reference>
-              <string role="key" value="_package"></string>
-              <reference key="2"></reference>
-              <string role="key" value="_storageName"></string>
-              <string value="WideoCarrusel.jpg"></string>
-              <string role="key" value="_userName"></string>
-              <string value="c:\\users\\mariab~1\\appdata\\local\\temp\\tmpjcobck\\WideoCarrusel.jpg"></string>
-              <string role="key" value="checksum"></string>
-              <string value="f85ddc79d86b6babee5e0a73e89d78d6"></string>
-              <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="warningMsg"></string>
-              <string value=""></string>
-             </dictionary>
-            </instance>
-            <instance class="exe.engine.resource.Resource" reference="85">
-             <dictionary>
-              <string role="key" value="_idevice"></string>
-              <reference key="9"></reference>
-              <string role="key" value="_package"></string>
-              <reference key="2"></reference>
-              <string role="key" value="_storageName"></string>
-              <string value="WideoCarrusel.jpg"></string>
-              <string role="key" value="_userName"></string>
-              <string value="c:\\users\\mariab~1\\appdata\\local\\temp\\tmpjcobck\\WideoCarrusel.jpg"></string>
-              <string role="key" value="checksum"></string>
-              <string value="f85ddc79d86b6babee5e0a73e89d78d6"></string>
-              <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="warningMsg"></string>
-              <string value=""></string>
-             </dictionary>
-            </instance>
-            <instance class="exe.engine.resource.Resource" reference="86">
-             <dictionary>
-              <string role="key" value="_idevice"></string>
-              <reference key="9"></reference>
-              <string role="key" value="_package"></string>
-              <reference key="2"></reference>
-              <string role="key" value="_storageName"></string>
-              <string value="WideoCarrusel.jpg"></string>
-              <string role="key" value="_userName"></string>
-              <string value="c:\\users\\mariab~1\\appdata\\local\\temp\\tmpjcobck\\WideoCarrusel.jpg"></string>
-              <string role="key" value="checksum"></string>
-              <string value="f85ddc79d86b6babee5e0a73e89d78d6"></string>
-              <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="warningMsg"></string>
-              <string value=""></string>
-             </dictionary>
-            </instance>
            </list>
            <string role="key" value="version"></string>
            <int value="0"></int>
@@ -1330,7 +750,7 @@ text through the text editing buttons associated with the field."></unicode>
         <string role="key" value="exportType"></string>
         <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
-        <string value="exe-node:Introducci%C3%B3n:Herramientas%20para%20creaci%C3%B3n%20de%20videos"></string>
+        <string value="exe-node:Introducci%C3%B3n:Herramientas%20para%20edici%C3%B3n%20de%20Imagenes%20y%20Videos"></string>
         <string role="key" value="parent"></string>
         <reference key="4"></reference>
         <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -1340,7 +760,7 @@ text through the text editing buttons associated with the field."></unicode>
          <instance class="exe.engine.node.Node" reference="17">
           <dictionary>
            <string role="key" value="_title"></string>
-           <unicode value="Powtoon"></unicode>
+           <unicode value="Canva"></unicode>
            <string role="key" value="idevices"></string>
            <list>
             <instance class="exe.engine.freetextidevice.FreeTextIdevice" reference="15">
@@ -1405,7 +825,7 @@ text through the text editing buttons associated with the field."></unicode>
                      <instance class="exe.engine.field.TextField">
                       <dictionary>
                        <string role="key" value="_id"></string>
-                       <int value="272"></int>
+                       <int value="468"></int>
                        <string role="key" value="_idevice"></string>
                        <none></none>
                        <string role="key" value="_instruc"></string>
@@ -1430,7 +850,7 @@ text through the text editing buttons associated with the field."></unicode>
                        <string role="key" value="_storageName"></string>
                        <string value="Powtoon.png"></string>
                        <string role="key" value="_userName"></string>
-                       <string value="c:\\users\\mariab~1\\appdata\\local\\temp\\tmpjcobck\\Powtoon.png"></string>
+                       <string value="c:\\users\\tandr\\appdata\\local\\temp\\tmpfxezzb\\Powtoon.png"></string>
                        <string role="key" value="checksum"></string>
                        <string value="d806c8e6d7389942609164646c948571"></string>
                        <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1491,126 +911,6 @@ text through the text editing buttons associated with the field."></unicode>
               <string role="key" value="userResources"></string>
               <list>
                <reference key="18"></reference>
-               <instance class="exe.engine.resource.Resource" reference="67">
-                <dictionary>
-                 <string role="key" value="_idevice"></string>
-                 <reference key="15"></reference>
-                 <string role="key" value="_package"></string>
-                 <reference key="2"></reference>
-                 <string role="key" value="_storageName"></string>
-                 <string value="Powtoon.png"></string>
-                 <string role="key" value="_userName"></string>
-                 <string value="c:\\users\\mariab~1\\appdata\\local\\temp\\tmpjcobck\\Powtoon.png"></string>
-                 <string role="key" value="checksum"></string>
-                 <string value="d806c8e6d7389942609164646c948571"></string>
-                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-                 <int value="2"></int>
-                 <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-                 <int value="2"></int>
-                 <string role="key" value="warningMsg"></string>
-                 <string value=""></string>
-                </dictionary>
-               </instance>
-               <instance class="exe.engine.resource.Resource" reference="68">
-                <dictionary>
-                 <string role="key" value="_idevice"></string>
-                 <reference key="15"></reference>
-                 <string role="key" value="_package"></string>
-                 <reference key="2"></reference>
-                 <string role="key" value="_storageName"></string>
-                 <string value="Powtoon.png"></string>
-                 <string role="key" value="_userName"></string>
-                 <string value="c:\\users\\mariab~1\\appdata\\local\\temp\\tmpjcobck\\Powtoon.png"></string>
-                 <string role="key" value="checksum"></string>
-                 <string value="d806c8e6d7389942609164646c948571"></string>
-                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-                 <int value="2"></int>
-                 <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-                 <int value="2"></int>
-                 <string role="key" value="warningMsg"></string>
-                 <string value=""></string>
-                </dictionary>
-               </instance>
-               <instance class="exe.engine.resource.Resource" reference="69">
-                <dictionary>
-                 <string role="key" value="_idevice"></string>
-                 <reference key="15"></reference>
-                 <string role="key" value="_package"></string>
-                 <reference key="2"></reference>
-                 <string role="key" value="_storageName"></string>
-                 <string value="Powtoon.png"></string>
-                 <string role="key" value="_userName"></string>
-                 <string value="c:\\users\\mariab~1\\appdata\\local\\temp\\tmpjcobck\\Powtoon.png"></string>
-                 <string role="key" value="checksum"></string>
-                 <string value="d806c8e6d7389942609164646c948571"></string>
-                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-                 <int value="2"></int>
-                 <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-                 <int value="2"></int>
-                 <string role="key" value="warningMsg"></string>
-                 <string value=""></string>
-                </dictionary>
-               </instance>
-               <instance class="exe.engine.resource.Resource" reference="70">
-                <dictionary>
-                 <string role="key" value="_idevice"></string>
-                 <reference key="15"></reference>
-                 <string role="key" value="_package"></string>
-                 <reference key="2"></reference>
-                 <string role="key" value="_storageName"></string>
-                 <string value="Powtoon.png"></string>
-                 <string role="key" value="_userName"></string>
-                 <string value="c:\\users\\mariab~1\\appdata\\local\\temp\\tmpjcobck\\Powtoon.png"></string>
-                 <string role="key" value="checksum"></string>
-                 <string value="d806c8e6d7389942609164646c948571"></string>
-                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-                 <int value="2"></int>
-                 <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-                 <int value="2"></int>
-                 <string role="key" value="warningMsg"></string>
-                 <string value=""></string>
-                </dictionary>
-               </instance>
-               <instance class="exe.engine.resource.Resource" reference="71">
-                <dictionary>
-                 <string role="key" value="_idevice"></string>
-                 <reference key="15"></reference>
-                 <string role="key" value="_package"></string>
-                 <reference key="2"></reference>
-                 <string role="key" value="_storageName"></string>
-                 <string value="Powtoon.png"></string>
-                 <string role="key" value="_userName"></string>
-                 <string value="c:\\users\\mariab~1\\appdata\\local\\temp\\tmpjcobck\\Powtoon.png"></string>
-                 <string role="key" value="checksum"></string>
-                 <string value="d806c8e6d7389942609164646c948571"></string>
-                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-                 <int value="2"></int>
-                 <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-                 <int value="2"></int>
-                 <string role="key" value="warningMsg"></string>
-                 <string value=""></string>
-                </dictionary>
-               </instance>
-               <instance class="exe.engine.resource.Resource" reference="72">
-                <dictionary>
-                 <string role="key" value="_idevice"></string>
-                 <reference key="15"></reference>
-                 <string role="key" value="_package"></string>
-                 <reference key="2"></reference>
-                 <string role="key" value="_storageName"></string>
-                 <string value="Powtoon.png"></string>
-                 <string role="key" value="_userName"></string>
-                 <string value="c:\\users\\mariab~1\\appdata\\local\\temp\\tmpjcobck\\Powtoon.png"></string>
-                 <string role="key" value="checksum"></string>
-                 <string value="d806c8e6d7389942609164646c948571"></string>
-                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-                 <int value="2"></int>
-                 <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-                 <int value="2"></int>
-                 <string role="key" value="warningMsg"></string>
-                 <string value=""></string>
-                </dictionary>
-               </instance>
               </list>
               <string role="key" value="version"></string>
               <int value="0"></int>
@@ -1628,7 +928,7 @@ text through the text editing buttons associated with the field."></unicode>
            <string role="key" value="exportType"></string>
            <string value="website"></string>
            <string role="key" value="last_full_node_path"></string>
-           <string value="exe-node:Introducci%C3%B3n:Herramientas%20para%20creaci%C3%B3n%20de%20videos:Powtoon"></string>
+           <string value="exe-node:Introducci%C3%B3n:Herramientas%20para%20edici%C3%B3n%20de%20Imagenes%20y%20Videos:Canva"></string>
            <string role="key" value="parent"></string>
            <reference key="11"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -1640,7 +940,7 @@ text through the text editing buttons associated with the field."></unicode>
          <instance class="exe.engine.node.Node" reference="21">
           <dictionary>
            <string role="key" value="_title"></string>
-           <unicode value="Wideo"></unicode>
+           <unicode value="Adobe Spark"></unicode>
            <string role="key" value="idevices"></string>
            <list>
             <instance class="exe.engine.jsidevice.JsIdevice" reference="19">
@@ -1695,7 +995,7 @@ text through the text editing buttons associated with the field."></unicode>
               <string role="key" value="_exportResources"></string>
               <list></list>
               <string role="key" value="_iDeviceDir"></string>
-              <string value="C:\\Users\\Maria Belen\\AppData\\Roaming\\exe\\scripts\\idevices\\text"></string>
+              <string value="text"></string>
               <string role="key" value="_purpose"></string>
               <string value=""></string>
               <string role="key" value="_tip"></string>
@@ -1759,7 +1059,7 @@ text through the text editing buttons associated with the field."></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="274"></int>
+                        <int value="470"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -1784,7 +1084,7 @@ text through the text editing buttons associated with the field."></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="wideo.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\mariab~1\\appdata\\local\\temp\\tmpjcobck\\wideo.png"></string>
+                        <string value="c:\\users\\tandr\\appdata\\local\\temp\\tmpfxezzb\\wideo.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="d52990b9fcec3d651380bef6db14c09b"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1840,126 +1140,6 @@ text through the text editing buttons associated with the field."></unicode>
               <string role="key" value="userResources"></string>
               <list>
                <reference key="22"></reference>
-               <instance class="exe.engine.resource.Resource" reference="61">
-                <dictionary>
-                 <string role="key" value="_idevice"></string>
-                 <reference key="19"></reference>
-                 <string role="key" value="_package"></string>
-                 <reference key="2"></reference>
-                 <string role="key" value="_storageName"></string>
-                 <string value="wideo.png"></string>
-                 <string role="key" value="_userName"></string>
-                 <string value="c:\\users\\mariab~1\\appdata\\local\\temp\\tmpjcobck\\wideo.png"></string>
-                 <string role="key" value="checksum"></string>
-                 <string value="d52990b9fcec3d651380bef6db14c09b"></string>
-                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-                 <int value="2"></int>
-                 <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-                 <int value="2"></int>
-                 <string role="key" value="warningMsg"></string>
-                 <string value=""></string>
-                </dictionary>
-               </instance>
-               <instance class="exe.engine.resource.Resource" reference="62">
-                <dictionary>
-                 <string role="key" value="_idevice"></string>
-                 <reference key="19"></reference>
-                 <string role="key" value="_package"></string>
-                 <reference key="2"></reference>
-                 <string role="key" value="_storageName"></string>
-                 <string value="wideo.png"></string>
-                 <string role="key" value="_userName"></string>
-                 <string value="c:\\users\\mariab~1\\appdata\\local\\temp\\tmpjcobck\\wideo.png"></string>
-                 <string role="key" value="checksum"></string>
-                 <string value="d52990b9fcec3d651380bef6db14c09b"></string>
-                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-                 <int value="2"></int>
-                 <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-                 <int value="2"></int>
-                 <string role="key" value="warningMsg"></string>
-                 <string value=""></string>
-                </dictionary>
-               </instance>
-               <instance class="exe.engine.resource.Resource" reference="63">
-                <dictionary>
-                 <string role="key" value="_idevice"></string>
-                 <reference key="19"></reference>
-                 <string role="key" value="_package"></string>
-                 <reference key="2"></reference>
-                 <string role="key" value="_storageName"></string>
-                 <string value="wideo.png"></string>
-                 <string role="key" value="_userName"></string>
-                 <string value="c:\\users\\mariab~1\\appdata\\local\\temp\\tmpjcobck\\wideo.png"></string>
-                 <string role="key" value="checksum"></string>
-                 <string value="d52990b9fcec3d651380bef6db14c09b"></string>
-                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-                 <int value="2"></int>
-                 <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-                 <int value="2"></int>
-                 <string role="key" value="warningMsg"></string>
-                 <string value=""></string>
-                </dictionary>
-               </instance>
-               <instance class="exe.engine.resource.Resource" reference="64">
-                <dictionary>
-                 <string role="key" value="_idevice"></string>
-                 <reference key="19"></reference>
-                 <string role="key" value="_package"></string>
-                 <reference key="2"></reference>
-                 <string role="key" value="_storageName"></string>
-                 <string value="wideo.png"></string>
-                 <string role="key" value="_userName"></string>
-                 <string value="c:\\users\\mariab~1\\appdata\\local\\temp\\tmpjcobck\\wideo.png"></string>
-                 <string role="key" value="checksum"></string>
-                 <string value="d52990b9fcec3d651380bef6db14c09b"></string>
-                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-                 <int value="2"></int>
-                 <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-                 <int value="2"></int>
-                 <string role="key" value="warningMsg"></string>
-                 <string value=""></string>
-                </dictionary>
-               </instance>
-               <instance class="exe.engine.resource.Resource" reference="65">
-                <dictionary>
-                 <string role="key" value="_idevice"></string>
-                 <reference key="19"></reference>
-                 <string role="key" value="_package"></string>
-                 <reference key="2"></reference>
-                 <string role="key" value="_storageName"></string>
-                 <string value="wideo.png"></string>
-                 <string role="key" value="_userName"></string>
-                 <string value="c:\\users\\mariab~1\\appdata\\local\\temp\\tmpjcobck\\wideo.png"></string>
-                 <string role="key" value="checksum"></string>
-                 <string value="d52990b9fcec3d651380bef6db14c09b"></string>
-                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-                 <int value="2"></int>
-                 <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-                 <int value="2"></int>
-                 <string role="key" value="warningMsg"></string>
-                 <string value=""></string>
-                </dictionary>
-               </instance>
-               <instance class="exe.engine.resource.Resource" reference="66">
-                <dictionary>
-                 <string role="key" value="_idevice"></string>
-                 <reference key="19"></reference>
-                 <string role="key" value="_package"></string>
-                 <reference key="2"></reference>
-                 <string role="key" value="_storageName"></string>
-                 <string value="wideo.png"></string>
-                 <string role="key" value="_userName"></string>
-                 <string value="c:\\users\\mariab~1\\appdata\\local\\temp\\tmpjcobck\\wideo.png"></string>
-                 <string role="key" value="checksum"></string>
-                 <string value="d52990b9fcec3d651380bef6db14c09b"></string>
-                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-                 <int value="2"></int>
-                 <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-                 <int value="2"></int>
-                 <string role="key" value="warningMsg"></string>
-                 <string value=""></string>
-                </dictionary>
-               </instance>
               </list>
               <string role="key" value="version"></string>
               <int value="0"></int>
@@ -1977,7 +1157,7 @@ text through the text editing buttons associated with the field."></unicode>
            <string role="key" value="exportType"></string>
            <string value="website"></string>
            <string role="key" value="last_full_node_path"></string>
-           <string value="exe-node:Introducci%C3%B3n:Herramientas%20para%20creaci%C3%B3n%20de%20videos:Wideo"></string>
+           <string value="exe-node:Introducci%C3%B3n:Herramientas%20para%20edici%C3%B3n%20de%20Imagenes%20y%20Videos:Adobe%20Spark"></string>
            <string role="key" value="parent"></string>
            <reference key="11"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -1989,7 +1169,7 @@ text through the text editing buttons associated with the field."></unicode>
          <instance class="exe.engine.node.Node" reference="25">
           <dictionary>
            <string role="key" value="_title"></string>
-           <unicode value="Animoto"></unicode>
+           <unicode value="Clipchamp"></unicode>
            <string role="key" value="idevices"></string>
            <list>
             <instance class="exe.engine.jsidevice.JsIdevice" reference="23">
@@ -2044,7 +1224,7 @@ text through the text editing buttons associated with the field."></unicode>
               <string role="key" value="_exportResources"></string>
               <list></list>
               <string role="key" value="_iDeviceDir"></string>
-              <string value="C:\\Users\\Maria Belen\\AppData\\Roaming\\exe\\scripts\\idevices\\text"></string>
+              <string value="text"></string>
               <string role="key" value="_purpose"></string>
               <string value=""></string>
               <string role="key" value="_tip"></string>
@@ -2107,7 +1287,7 @@ text through the text editing buttons associated with the field."></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="271"></int>
+                        <int value="467"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -2132,7 +1312,7 @@ text through the text editing buttons associated with the field."></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="animotoLogo.jpg"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\mariab~1\\appdata\\local\\temp\\tmpjcobck\\animotoLogo.jpg"></string>
+                        <string value="c:\\users\\tandr\\appdata\\local\\temp\\tmpfxezzb\\animotoLogo.jpg"></string>
                         <string role="key" value="checksum"></string>
                         <string value="abbb6617318eef7c918087e498f6b474"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2188,106 +1368,6 @@ text through the text editing buttons associated with the field."></unicode>
               <string role="key" value="userResources"></string>
               <list>
                <reference key="26"></reference>
-               <instance class="exe.engine.resource.Resource" reference="53">
-                <dictionary>
-                 <string role="key" value="_idevice"></string>
-                 <reference key="23"></reference>
-                 <string role="key" value="_package"></string>
-                 <reference key="2"></reference>
-                 <string role="key" value="_storageName"></string>
-                 <string value="animotoLogo.jpg"></string>
-                 <string role="key" value="_userName"></string>
-                 <string value="c:\\users\\mariab~1\\appdata\\local\\temp\\tmpjcobck\\animotoLogo.jpg"></string>
-                 <string role="key" value="checksum"></string>
-                 <string value="abbb6617318eef7c918087e498f6b474"></string>
-                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-                 <int value="2"></int>
-                 <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-                 <int value="2"></int>
-                 <string role="key" value="warningMsg"></string>
-                 <string value=""></string>
-                </dictionary>
-               </instance>
-               <instance class="exe.engine.resource.Resource" reference="54">
-                <dictionary>
-                 <string role="key" value="_idevice"></string>
-                 <reference key="23"></reference>
-                 <string role="key" value="_package"></string>
-                 <reference key="2"></reference>
-                 <string role="key" value="_storageName"></string>
-                 <string value="animotoLogo.jpg"></string>
-                 <string role="key" value="_userName"></string>
-                 <string value="c:\\users\\mariab~1\\appdata\\local\\temp\\tmpjcobck\\animotoLogo.jpg"></string>
-                 <string role="key" value="checksum"></string>
-                 <string value="abbb6617318eef7c918087e498f6b474"></string>
-                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-                 <int value="2"></int>
-                 <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-                 <int value="2"></int>
-                 <string role="key" value="warningMsg"></string>
-                 <string value=""></string>
-                </dictionary>
-               </instance>
-               <instance class="exe.engine.resource.Resource" reference="55">
-                <dictionary>
-                 <string role="key" value="_idevice"></string>
-                 <reference key="23"></reference>
-                 <string role="key" value="_package"></string>
-                 <reference key="2"></reference>
-                 <string role="key" value="_storageName"></string>
-                 <string value="animotoLogo.jpg"></string>
-                 <string role="key" value="_userName"></string>
-                 <string value="c:\\users\\mariab~1\\appdata\\local\\temp\\tmpjcobck\\animotoLogo.jpg"></string>
-                 <string role="key" value="checksum"></string>
-                 <string value="abbb6617318eef7c918087e498f6b474"></string>
-                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-                 <int value="2"></int>
-                 <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-                 <int value="2"></int>
-                 <string role="key" value="warningMsg"></string>
-                 <string value=""></string>
-                </dictionary>
-               </instance>
-               <instance class="exe.engine.resource.Resource" reference="56">
-                <dictionary>
-                 <string role="key" value="_idevice"></string>
-                 <reference key="23"></reference>
-                 <string role="key" value="_package"></string>
-                 <reference key="2"></reference>
-                 <string role="key" value="_storageName"></string>
-                 <string value="animotoLogo.jpg"></string>
-                 <string role="key" value="_userName"></string>
-                 <string value="c:\\users\\mariab~1\\appdata\\local\\temp\\tmpjcobck\\animotoLogo.jpg"></string>
-                 <string role="key" value="checksum"></string>
-                 <string value="abbb6617318eef7c918087e498f6b474"></string>
-                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-                 <int value="2"></int>
-                 <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-                 <int value="2"></int>
-                 <string role="key" value="warningMsg"></string>
-                 <string value=""></string>
-                </dictionary>
-               </instance>
-               <instance class="exe.engine.resource.Resource" reference="57">
-                <dictionary>
-                 <string role="key" value="_idevice"></string>
-                 <reference key="23"></reference>
-                 <string role="key" value="_package"></string>
-                 <reference key="2"></reference>
-                 <string role="key" value="_storageName"></string>
-                 <string value="animotoLogo.jpg"></string>
-                 <string role="key" value="_userName"></string>
-                 <string value="c:\\users\\mariab~1\\appdata\\local\\temp\\tmpjcobck\\animotoLogo.jpg"></string>
-                 <string role="key" value="checksum"></string>
-                 <string value="abbb6617318eef7c918087e498f6b474"></string>
-                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-                 <int value="2"></int>
-                 <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-                 <int value="2"></int>
-                 <string role="key" value="warningMsg"></string>
-                 <string value=""></string>
-                </dictionary>
-               </instance>
               </list>
               <string role="key" value="version"></string>
               <int value="0"></int>
@@ -2305,7 +1385,7 @@ text through the text editing buttons associated with the field."></unicode>
            <string role="key" value="exportType"></string>
            <string value="website"></string>
            <string role="key" value="last_full_node_path"></string>
-           <string value="exe-node:Introducci%C3%B3n:Herramientas%20para%20creaci%C3%B3n%20de%20videos:Animoto"></string>
+           <string value="exe-node:Introducci%C3%B3n:Herramientas%20para%20edici%C3%B3n%20de%20Imagenes%20y%20Videos:Clipchamp"></string>
            <string role="key" value="parent"></string>
            <reference key="11"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -2544,7 +1624,7 @@ and select the size of the area to display it in."></unicode>
             <string value="download-package.css"></string>
            </list>
            <string role="key" value="_iDeviceDir"></string>
-           <string value="C:\\Users\\Maria Belen\\AppData\\Roaming\\exe\\scripts\\idevices\\download-package"></string>
+           <string value="download-package"></string>
            <string role="key" value="_purpose"></string>
            <string value=""></string>
            <string role="key" value="_tip"></string>
@@ -2726,7 +1806,7 @@ and select the size of the area to display it in."></unicode>
            <string role="key" value="_exportResources"></string>
            <list></list>
            <string role="key" value="_iDeviceDir"></string>
-           <string value="C:\\Users\\Maria Belen\\AppData\\Roaming\\exe\\scripts\\idevices\\text"></string>
+           <string value="text"></string>
            <string role="key" value="_purpose"></string>
            <string value=""></string>
            <string role="key" value="_tip"></string>
@@ -2864,7 +1944,7 @@ and select the size of the area to display it in."></unicode>
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="35"></reference>
+  <reference key="11"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
@@ -4546,94 +3626,36 @@ and select the size of the area to display it in."></unicode>
   <string role="key" value="mxmlwidth"></string>
   <string value=""></string>
   <string role="key" value="release"></string>
-  <string value="2.4.2"></string>
+  <string value="2.8.1"></string>
   <string role="key" value="resources"></string>
   <dictionary>
    <string role="key" value="5375c29db5e32723720292eb69617273"></string>
    <list>
     <reference key="5"></reference>
-    <reference key="42"></reference>
-    <reference key="43"></reference>
-    <reference key="44"></reference>
-    <reference key="45"></reference>
-    <reference key="46"></reference>
    </list>
    <string role="key" value="89b3f27744816f3f90d9a3d37e4a713e"></string>
    <list>
     <reference key="12"></reference>
-    <reference key="47"></reference>
-    <reference key="48"></reference>
-    <reference key="49"></reference>
-    <reference key="50"></reference>
-    <reference key="51"></reference>
-    <reference key="52"></reference>
    </list>
    <string role="key" value="abbb6617318eef7c918087e498f6b474"></string>
    <list>
     <reference key="26"></reference>
-    <reference key="53"></reference>
-    <reference key="54"></reference>
-    <reference key="55"></reference>
-    <reference key="56"></reference>
-    <reference key="57"></reference>
-   </list>
-   <string role="key" value="b6db4b5cfdfc5888369ae658a8ee502d"></string>
-   <list>
-    <reference key="58"></reference>
-    <reference key="59"></reference>
-    <reference key="60"></reference>
    </list>
    <string role="key" value="d52990b9fcec3d651380bef6db14c09b"></string>
    <list>
     <reference key="22"></reference>
-    <reference key="61"></reference>
-    <reference key="62"></reference>
-    <reference key="63"></reference>
-    <reference key="64"></reference>
-    <reference key="65"></reference>
-    <reference key="66"></reference>
    </list>
    <string role="key" value="d806c8e6d7389942609164646c948571"></string>
    <list>
     <reference key="18"></reference>
-    <reference key="67"></reference>
-    <reference key="68"></reference>
-    <reference key="69"></reference>
-    <reference key="70"></reference>
-    <reference key="71"></reference>
-    <reference key="72"></reference>
-   </list>
-   <string role="key" value="e44899a53d2ea1444ea9acd101af0a5e"></string>
-   <list>
-    <reference key="73"></reference>
    </list>
    <string role="key" value="ee166570338a146d9141f09ae2addf98"></string>
    <list>
     <reference key="13"></reference>
-    <reference key="74"></reference>
-    <reference key="75"></reference>
-    <reference key="76"></reference>
-    <reference key="77"></reference>
-    <reference key="78"></reference>
-   </list>
-   <string role="key" value="ee615622f246cd4e5b766ebfa724fc6a"></string>
-   <list>
-    <reference key="79"></reference>
-    <reference key="80"></reference>
-    <reference key="81"></reference>
    </list>
    <string role="key" value="f85ddc79d86b6babee5e0a73e89d78d6"></string>
    <list>
     <reference key="14"></reference>
-    <reference key="82"></reference>
-    <reference key="83"></reference>
-    <reference key="84"></reference>
-    <reference key="85"></reference>
-    <reference key="86"></reference>
-   </list>
-   <string role="key" value="fd986d289374c7861c7faddeee3e5406"></string>
-   <list>
-    <reference key="87"></reference>
    </list>
   </dictionary>
   <string role="key" value="root"></string>
