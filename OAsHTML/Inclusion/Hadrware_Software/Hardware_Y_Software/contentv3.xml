@@ -87,7 +87,7 @@
   <string role="key" value="_nextIdeviceId"></string>
   <int value="73"></int>
   <string role="key" value="_nextNodeId"></string>
-  <int value="18"></int>
+  <int value="50"></int>
   <string role="key" value="_nodeIdDict"></string>
   <dictionary>
    <unicode role="key" value="0"></unicode>
@@ -162,7 +162,7 @@ text through the text editing buttons associated with the field."></unicode>
                <instance class="exe.engine.field.TextField">
                 <dictionary>
                  <string role="key" value="_id"></string>
-                 <int value="349"></int>
+                 <int value="356"></int>
                  <string role="key" value="_idevice"></string>
                  <none></none>
                  <string role="key" value="_instruc"></string>
@@ -176,7 +176,7 @@ text through the text editing buttons associated with the field."></unicode>
                 </dictionary>
                </instance>
                <string role="key" value="_id"></string>
-               <unicode value="52_85.8"></unicode>
+               <unicode value="52_85.9"></unicode>
                <string role="key" value="_imageResource"></string>
                <instance class="exe.engine.resource.Resource" reference="5">
                 <dictionary>
@@ -187,7 +187,7 @@ text through the text editing buttons associated with the field."></unicode>
                  <string role="key" value="_storageName"></string>
                  <string value="150EPN.png"></string>
                  <string role="key" value="_userName"></string>
-                 <string value="c:\\users\\tandr\\appdata\\local\\temp\\tmpq4p9h2\\150EPN.png"></string>
+                 <string value="c:\\users\\tandr\\appdata\\local\\temp\\tmplkc6uk\\150EPN.png"></string>
                  <string role="key" value="checksum"></string>
                  <string value="5375c29db5e32723720292eb69617273"></string>
                  <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -216,7 +216,7 @@ text through the text editing buttons associated with the field."></unicode>
           <string role="key" value="intlinks_to_anchors"></string>
           <dictionary></dictionary>
           <string role="key" value="nextImageId"></string>
-          <int value="9"></int>
+          <int value="10"></int>
           <string role="key" value="parentNode"></string>
           <reference key="4"></reference>
          </dictionary>
@@ -554,7 +554,7 @@ text through the text editing buttons associated with the field."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="350"></int>
+                     <int value="357"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -568,7 +568,7 @@ text through the text editing buttons associated with the field."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="3_51_2.57"></unicode>
+                   <unicode value="3_51_2.60"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="12">
                     <dictionary>
@@ -579,7 +579,7 @@ text through the text editing buttons associated with the field."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="PiktochartCarrusel.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\tandr\\appdata\\local\\temp\\tmpq4p9h2\\PiktochartCarrusel.png"></string>
+                     <string value="c:\\users\\tandr\\appdata\\local\\temp\\tmplkc6uk\\PiktochartCarrusel.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="cd66f94b86cff1e0a0b9599860056b30"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -606,7 +606,7 @@ text through the text editing buttons associated with the field."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="352"></int>
+                     <int value="359"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -620,7 +620,7 @@ text through the text editing buttons associated with the field."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="3_51_2.58"></unicode>
+                   <unicode value="3_51_2.61"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="13">
                     <dictionary>
@@ -631,7 +631,7 @@ text through the text editing buttons associated with the field."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="venngageCarrusel.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\tandr\\appdata\\local\\temp\\tmpq4p9h2\\venngageCarrusel.jpg"></string>
+                     <string value="c:\\users\\tandr\\appdata\\local\\temp\\tmplkc6uk\\venngageCarrusel.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="082960eaa79d43467d1bd63039710a71"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -658,7 +658,7 @@ text through the text editing buttons associated with the field."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="354"></int>
+                     <int value="361"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -672,7 +672,7 @@ text through the text editing buttons associated with the field."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="3_51_2.59"></unicode>
+                   <unicode value="3_51_2.62"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="14">
                     <dictionary>
@@ -683,7 +683,7 @@ text through the text editing buttons associated with the field."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="VismeCarrusel.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\tandr\\appdata\\local\\temp\\tmpq4p9h2\\VismeCarrusel.jpg"></string>
+                     <string value="c:\\users\\tandr\\appdata\\local\\temp\\tmplkc6uk\\VismeCarrusel.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="fc5e28dd648ae61d9812329a498076a9"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -712,7 +712,7 @@ text through the text editing buttons associated with the field."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="60"></int>
+              <int value="63"></int>
               <string role="key" value="parentNode"></string>
               <reference key="11"></reference>
              </dictionary>
@@ -804,17 +804,15 @@ text through the text editing buttons associated with the field."></unicode>
                 <string role="key" value="anchors_linked_from_fields"></string>
                 <dictionary></dictionary>
                 <string role="key" value="content_w_resourcePaths"></string>
-                <unicode content="true" value="&lt;p&gt;&lt;span&gt;&lt;img src=&quot;resources/vismeLogo.jpg&quot; alt=&quot;Icono Visme&quot; width=&quot;200&quot; height=&quot;117&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+                <unicode content="true" value="&lt;p&gt;&lt;span&gt;&lt;img src=&quot;resources/Hardware.jpg&quot; alt=&quot;&quot; width=&quot;238&quot; height=&quot;250&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden view-mode-full&quot;&gt;
 &lt;div class=&quot;field-items&quot;&gt;
-&lt;p class=&quot;field-item even&quot; property=&quot;content:encoded&quot; style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 14pt; font-family: verdana, geneva, sans-serif; color: #000000;&quot;&gt;Visme es una aplicación online que permite crear presentaciones profesionales, banners publicitarios, animaciones, demostraciones de productos e infografías. Esta herramienta permite la Inserción de elementos externos mediante fuentes como YouTube y Vimeo,  imágenes (propias o mediante Flickr), íconos en formato vectorial, elementos interactivos como los de las infografías que cambian según los valores numéricos ingresados, texto animado y con disposiciones predeterminadas por columnas. Visme permite la exportación de contenido a formato de imágenes JPG, la publicación instantánea en la web mediante SlideShare y compartir los resultados en redes sociales [1].&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;El hardware digital constituye la infraestructura física que sustenta el vasto mundo digital en el que vivimos. Desde los procesadores y circuitos integrados hasta los dispositivos de almacenamiento y los periféricos, el hardware es la base sobre la cual se construyen todas las operaciones digitales. Comprender su funcionamiento es esencial para cualquier persona que busque desenvolverse en el ámbito tecnológico. Este manual está diseñado para proporcionar una visión general del hardware digital, explicando sus componentes básicos, su funcionamiento y su importancia en la era digital.&lt;/p&gt;
+&lt;p&gt;En un mundo donde la tecnología avanza a pasos agigantados, el conocimiento del hardware digital se convierte en una herramienta indispensable. Entender cómo interactúan los diferentes componentes, desde los microchips hasta los dispositivos de entrada y salida, permite a los profesionales de la tecnología tomar decisiones informadas y resolver problemas de manera eficiente. Además, el conocimiento del hardware es fundamental para optimizar el rendimiento de los sistemas, garantizar la seguridad de la información y desarrollar nuevas soluciones tecnológicas que impulsen la innovación en diversos campos.&lt;/p&gt;
+&lt;p&gt;Desde el diseño de computadoras personales hasta la implementación de redes empresariales, el hardware digital juega un papel crucial en una amplia gama de aplicaciones. Comprender las características y capacidades de diferentes componentes hardware es esencial para seleccionar la configuración adecuada para cada situación. Además, el mantenimiento y la actualización periódica del hardware son prácticas fundamentales para garantizar su rendimiento óptimo a lo largo del tiempo. En este manual, exploraremos las consideraciones prácticas relacionadas con la selección, instalación y gestión del hardware digital, así como su impacto en el mundo digital en constante evolución.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;ul style=&quot;text-align: justify;&quot;&gt;&lt;/ul&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: verdana, geneva, sans-serif; font-size: 14pt; color: #000000;&quot;&gt;A continuación se muestra un videotutorial de la herramienta:&lt;/span&gt;&lt;/p&gt;
-&lt;figure class=&quot;exe-figure exe-media position-center&quot; style=&quot;width: 560px;&quot;&gt;
-&lt;div class=&quot;figcaption header&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;strong&gt;Videotutorial Visme&lt;/strong&gt;&lt;/span&gt;&lt;/div&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;314&quot; src=&quot;//www.youtube.com/embed/y79gLmd_qBc?autoplay=1&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;
+&lt;figure class=&quot;exe-figure exe-media position-center&quot; style=&quot;width: 560px;&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;314&quot; src=&quot;//www.youtube.com/embed/y79gLmd_qBc?autoplay=1&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;
 &lt;figcaption class=&quot;figcaption&quot;&gt;&lt;span class=&quot;title&quot;&gt;&lt;em&gt;Videotutorial Visme [2]&lt;/em&gt;&lt;/span&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt;&lt;span style=&quot;font-size: 14pt; font-family: verdana, geneva, sans-serif;&quot;&gt;&lt;a href=&quot;https://www.visme.co/&quot; target=&quot;_blank&quot; title=&quot;Enlace de la página de Visme&quot; rel=&quot;noopener&quot;&gt;Enlace de la página de Visme&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;"></unicode>
@@ -837,7 +835,7 @@ text through the text editing buttons associated with the field."></unicode>
                      <instance class="exe.engine.field.TextField">
                       <dictionary>
                        <string role="key" value="_id"></string>
-                       <int value="355"></int>
+                       <int value="363"></int>
                        <string role="key" value="_idevice"></string>
                        <none></none>
                        <string role="key" value="_instruc"></string>
@@ -851,7 +849,7 @@ text through the text editing buttons associated with the field."></unicode>
                       </dictionary>
                      </instance>
                      <string role="key" value="_id"></string>
-                     <unicode value="51_85.15"></unicode>
+                     <unicode value="51_85.17"></unicode>
                      <string role="key" value="_imageResource"></string>
                      <instance class="exe.engine.resource.Resource" reference="18">
                       <dictionary>
@@ -860,11 +858,11 @@ text through the text editing buttons associated with the field."></unicode>
                        <string role="key" value="_package"></string>
                        <reference key="2"></reference>
                        <string role="key" value="_storageName"></string>
-                       <string value="vismeLogo.jpg"></string>
+                       <string value="Hardware.jpg"></string>
                        <string role="key" value="_userName"></string>
-                       <string value="c:\\users\\tandr\\appdata\\local\\temp\\tmpq4p9h2\\vismeLogo.jpg"></string>
+                       <string value="c:\\users\\tandr\\appdata\\local\\temp\\tmpt8cnf7.eXe\\previews\\allyourbase\\Hardware.jpg"></string>
                        <string role="key" value="checksum"></string>
-                       <string value="21d163b3e9c51a1683e8c65624c16585"></string>
+                       <string value="e82e88275c88abec9e74443921a2eabf"></string>
                        <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
                        <int value="2"></int>
                        <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -891,7 +889,7 @@ text through the text editing buttons associated with the field."></unicode>
                 <string role="key" value="intlinks_to_anchors"></string>
                 <dictionary></dictionary>
                 <string role="key" value="nextImageId"></string>
-                <int value="16"></int>
+                <int value="18"></int>
                 <string role="key" value="parentNode"></string>
                 <reference key="17"></reference>
                </dictionary>
@@ -946,7 +944,268 @@ text through the text editing buttons associated with the field."></unicode>
            <string role="key" value="top_anchors_linked_from_fields"></string>
            <list></list>
            <string role="key" value="children"></string>
-           <list></list>
+           <list>
+            <instance class="exe.engine.node.Node" reference="36">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Clase 1"></unicode>
+              <string role="key" value="idevices"></string>
+              <list></list>
+              <string role="key" value="_id"></string>
+              <unicode value="18"></unicode>
+              <string role="key" value="_package"></string>
+              <reference key="2"></reference>
+              <string role="key" value="anchor_fields"></string>
+              <list></list>
+              <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exportType"></string>
+              <string value="website"></string>
+              <string role="key" value="last_full_node_path"></string>
+              <string value="exe-node:Introducci%C3%B3n:Hardware%20y%20Software:Hardware:Clase%201"></string>
+              <string role="key" value="parent"></string>
+              <reference key="17"></reference>
+              <string role="key" value="top_anchors_linked_from_fields"></string>
+              <list></list>
+              <string role="key" value="children"></string>
+              <list></list>
+             </dictionary>
+            </instance>
+            <instance class="exe.engine.node.Node" reference="37">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Clase 2"></unicode>
+              <string role="key" value="idevices"></string>
+              <list></list>
+              <string role="key" value="_id"></string>
+              <unicode value="19"></unicode>
+              <string role="key" value="_package"></string>
+              <reference key="2"></reference>
+              <string role="key" value="anchor_fields"></string>
+              <list></list>
+              <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exportType"></string>
+              <string value="website"></string>
+              <string role="key" value="last_full_node_path"></string>
+              <string value="exe-node:Introducci%C3%B3n:Hardware%20y%20Software:Hardware:Clase%202"></string>
+              <string role="key" value="parent"></string>
+              <reference key="17"></reference>
+              <string role="key" value="top_anchors_linked_from_fields"></string>
+              <list></list>
+              <string role="key" value="children"></string>
+              <list></list>
+             </dictionary>
+            </instance>
+            <instance class="exe.engine.node.Node" reference="38">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Clase 3"></unicode>
+              <string role="key" value="idevices"></string>
+              <list></list>
+              <string role="key" value="_id"></string>
+              <unicode value="20"></unicode>
+              <string role="key" value="_package"></string>
+              <reference key="2"></reference>
+              <string role="key" value="anchor_fields"></string>
+              <list></list>
+              <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exportType"></string>
+              <string value="website"></string>
+              <string role="key" value="last_full_node_path"></string>
+              <string value="exe-node:Introducci%C3%B3n:Hardware%20y%20Software:Hardware:Clase%203"></string>
+              <string role="key" value="parent"></string>
+              <reference key="17"></reference>
+              <string role="key" value="top_anchors_linked_from_fields"></string>
+              <list></list>
+              <string role="key" value="children"></string>
+              <list></list>
+             </dictionary>
+            </instance>
+            <instance class="exe.engine.node.Node" reference="39">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Clase 4"></unicode>
+              <string role="key" value="idevices"></string>
+              <list></list>
+              <string role="key" value="_id"></string>
+              <unicode value="21"></unicode>
+              <string role="key" value="_package"></string>
+              <reference key="2"></reference>
+              <string role="key" value="anchor_fields"></string>
+              <list></list>
+              <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exportType"></string>
+              <string value="website"></string>
+              <string role="key" value="last_full_node_path"></string>
+              <string value="exe-node:Introducci%C3%B3n:Hardware%20y%20Software:Hardware:Clase%204"></string>
+              <string role="key" value="parent"></string>
+              <reference key="17"></reference>
+              <string role="key" value="top_anchors_linked_from_fields"></string>
+              <list></list>
+              <string role="key" value="children"></string>
+              <list></list>
+             </dictionary>
+            </instance>
+            <instance class="exe.engine.node.Node" reference="40">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Clase 5"></unicode>
+              <string role="key" value="idevices"></string>
+              <list></list>
+              <string role="key" value="_id"></string>
+              <unicode value="22"></unicode>
+              <string role="key" value="_package"></string>
+              <reference key="2"></reference>
+              <string role="key" value="anchor_fields"></string>
+              <list></list>
+              <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exportType"></string>
+              <string value="website"></string>
+              <string role="key" value="last_full_node_path"></string>
+              <string value="exe-node:Introducci%C3%B3n:Hardware%20y%20Software:Hardware:Clase%205"></string>
+              <string role="key" value="parent"></string>
+              <reference key="17"></reference>
+              <string role="key" value="top_anchors_linked_from_fields"></string>
+              <list></list>
+              <string role="key" value="children"></string>
+              <list></list>
+             </dictionary>
+            </instance>
+            <instance class="exe.engine.node.Node" reference="41">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Clase 6"></unicode>
+              <string role="key" value="idevices"></string>
+              <list></list>
+              <string role="key" value="_id"></string>
+              <unicode value="23"></unicode>
+              <string role="key" value="_package"></string>
+              <reference key="2"></reference>
+              <string role="key" value="anchor_fields"></string>
+              <list></list>
+              <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exportType"></string>
+              <string value="website"></string>
+              <string role="key" value="last_full_node_path"></string>
+              <string value="exe-node:Introducci%C3%B3n:Hardware%20y%20Software:Hardware:Clase%206"></string>
+              <string role="key" value="parent"></string>
+              <reference key="17"></reference>
+              <string role="key" value="top_anchors_linked_from_fields"></string>
+              <list></list>
+              <string role="key" value="children"></string>
+              <list></list>
+             </dictionary>
+            </instance>
+            <instance class="exe.engine.node.Node" reference="42">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Clase 7"></unicode>
+              <string role="key" value="idevices"></string>
+              <list></list>
+              <string role="key" value="_id"></string>
+              <unicode value="24"></unicode>
+              <string role="key" value="_package"></string>
+              <reference key="2"></reference>
+              <string role="key" value="anchor_fields"></string>
+              <list></list>
+              <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exportType"></string>
+              <string value="website"></string>
+              <string role="key" value="last_full_node_path"></string>
+              <string value="exe-node:Introducci%C3%B3n:Hardware%20y%20Software:Hardware:Clase%207"></string>
+              <string role="key" value="parent"></string>
+              <reference key="17"></reference>
+              <string role="key" value="top_anchors_linked_from_fields"></string>
+              <list></list>
+              <string role="key" value="children"></string>
+              <list></list>
+             </dictionary>
+            </instance>
+            <instance class="exe.engine.node.Node" reference="43">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Clase 8"></unicode>
+              <string role="key" value="idevices"></string>
+              <list></list>
+              <string role="key" value="_id"></string>
+              <unicode value="25"></unicode>
+              <string role="key" value="_package"></string>
+              <reference key="2"></reference>
+              <string role="key" value="anchor_fields"></string>
+              <list></list>
+              <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exportType"></string>
+              <string value="website"></string>
+              <string role="key" value="last_full_node_path"></string>
+              <string value="exe-node:Introducci%C3%B3n:Hardware%20y%20Software:Hardware:Clase%208"></string>
+              <string role="key" value="parent"></string>
+              <reference key="17"></reference>
+              <string role="key" value="top_anchors_linked_from_fields"></string>
+              <list></list>
+              <string role="key" value="children"></string>
+              <list></list>
+             </dictionary>
+            </instance>
+            <instance class="exe.engine.node.Node" reference="44">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Clase 9"></unicode>
+              <string role="key" value="idevices"></string>
+              <list></list>
+              <string role="key" value="_id"></string>
+              <unicode value="26"></unicode>
+              <string role="key" value="_package"></string>
+              <reference key="2"></reference>
+              <string role="key" value="anchor_fields"></string>
+              <list></list>
+              <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exportType"></string>
+              <string value="website"></string>
+              <string role="key" value="last_full_node_path"></string>
+              <string value="exe-node:Introducci%C3%B3n:Hardware%20y%20Software:Hardware:Clase%209"></string>
+              <string role="key" value="parent"></string>
+              <reference key="17"></reference>
+              <string role="key" value="top_anchors_linked_from_fields"></string>
+              <list></list>
+              <string role="key" value="children"></string>
+              <list></list>
+             </dictionary>
+            </instance>
+            <instance class="exe.engine.node.Node" reference="45">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Clase 10"></unicode>
+              <string role="key" value="idevices"></string>
+              <list></list>
+              <string role="key" value="_id"></string>
+              <unicode value="27"></unicode>
+              <string role="key" value="_package"></string>
+              <reference key="2"></reference>
+              <string role="key" value="anchor_fields"></string>
+              <list></list>
+              <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exportType"></string>
+              <string value="website"></string>
+              <string role="key" value="last_full_node_path"></string>
+              <string value="exe-node:Introducci%C3%B3n:Hardware%20y%20Software:Hardware:Clase%2010"></string>
+              <string role="key" value="parent"></string>
+              <reference key="17"></reference>
+              <string role="key" value="top_anchors_linked_from_fields"></string>
+              <list></list>
+              <string role="key" value="children"></string>
+              <list></list>
+             </dictionary>
+            </instance>
+           </list>
           </dictionary>
          </instance>
          <instance class="exe.engine.node.Node" reference="21">
@@ -1039,10 +1298,10 @@ text through the text editing buttons associated with the field."></unicode>
                  <string role="key" value="anchors_linked_from_fields"></string>
                  <dictionary></dictionary>
                  <string role="key" value="content_w_resourcePaths"></string>
-                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;img src=&quot;resources/PiktochartLogo.png&quot; alt=&quot;Logo Picktochart&quot; width=&quot;340&quot; height=&quot;139&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-family: verdana, geneva, sans-serif; font-size: 18.6667px;&quot;&gt;&lt;span&gt;Piktochart es una herramienta en línea totalmente gratuita que permite diseñar y crear infografías. Esta herramienta cuenta con plantillas predefinidas en las cuales es posible insertar y dar formato al texto, agregar contenidos multimedia como imágenes y videos.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: verdana, geneva, sans-serif; color: #000000; font-size: 14pt;&quot;&gt;Piktochart permite c&lt;span style=&quot;text-align: left;&quot;&gt;rear &lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;infografías para resumir lo aprendido en clase de forma visual, organizando el&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt; contenido visual en un espacio reducido &lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;color: #000000; font-family: verdana, geneva, sans-serif; font-size: 18.6667px;&quot;&gt;[3].&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 14pt; font-family: verdana, geneva, sans-serif; color: #000000;&quot;&gt;A continuación se muestra un videotutorial de la herramienta:&lt;/span&gt;&lt;/p&gt;
+                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;img src=&quot;resources/Software.jpg&quot; alt=&quot;&quot; width=&quot;190&quot; height=&quot;126&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;El software digital comprende los programas y sistemas que permiten a los dispositivos realizar funciones específicas. Desde sistemas operativos hasta aplicaciones especializadas, el software impulsa la revolución digital.&lt;/p&gt;
+&lt;p&gt;El conocimiento del software es crucial en la era digital. Permite desarrollar soluciones innovadoras, garantizar la seguridad de los sistemas y mejorar la eficiencia en diversos contextos profesionales y personales.&lt;/p&gt;
+&lt;p&gt;El software digital ofrece una amplia gama de aplicaciones, desde soluciones empresariales hasta herramientas personalizadas. Comprender sus características y requisitos es esencial para seleccionar y gestionar soluciones efectivas a lo largo del tiempo.&lt;/p&gt;
 &lt;figure class=&quot;exe-figure exe-media position-center&quot; style=&quot;width: 560px;&quot;&gt;
 &lt;div class=&quot;figcaption header&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;strong&gt;Videotutorial Piktochart&lt;/strong&gt;&lt;/span&gt;&lt;/div&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;314&quot; src=&quot;//www.youtube.com/embed/4lo6XPRrg9Q?autoplay=1&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;
@@ -1068,7 +1327,7 @@ text through the text editing buttons associated with the field."></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="351"></int>
+                        <int value="364"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -1082,7 +1341,7 @@ text through the text editing buttons associated with the field."></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="35_57_2.15"></unicode>
+                      <unicode value="35_57_2.17"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="22">
                        <dictionary>
@@ -1091,11 +1350,11 @@ text through the text editing buttons associated with the field."></unicode>
                         <string role="key" value="_package"></string>
                         <reference key="2"></reference>
                         <string role="key" value="_storageName"></string>
-                        <string value="PiktochartLogo.png"></string>
+                        <string value="Software.jpg"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\tandr\\appdata\\local\\temp\\tmpq4p9h2\\PiktochartLogo.png"></string>
+                        <string value="c:\\users\\tandr\\appdata\\local\\temp\\tmpt8cnf7.eXe\\previews\\allyourbase\\Software.jpg"></string>
                         <string role="key" value="checksum"></string>
-                        <string value="78b7f26ad9b72154fe5fac6b2d8b0bc9"></string>
+                        <string value="70c906ddf79ae0955a92c81ac0c7d077"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
                         <int value="2"></int>
                         <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -1122,7 +1381,7 @@ text through the text editing buttons associated with the field."></unicode>
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="16"></int>
+                 <int value="18"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="21"></reference>
                 </dictionary>
@@ -1172,7 +1431,268 @@ text through the text editing buttons associated with the field."></unicode>
            <string role="key" value="top_anchors_linked_from_fields"></string>
            <list></list>
            <string role="key" value="children"></string>
-           <list></list>
+           <list>
+            <instance class="exe.engine.node.Node" reference="46">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Clase 1"></unicode>
+              <string role="key" value="idevices"></string>
+              <list></list>
+              <string role="key" value="_id"></string>
+              <unicode value="29"></unicode>
+              <string role="key" value="_package"></string>
+              <reference key="2"></reference>
+              <string role="key" value="anchor_fields"></string>
+              <list></list>
+              <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exportType"></string>
+              <string value="website"></string>
+              <string role="key" value="last_full_node_path"></string>
+              <string value="exe-node:Introducci%C3%B3n:Hardware%20y%20Software:Software:Clase%201"></string>
+              <string role="key" value="parent"></string>
+              <reference key="21"></reference>
+              <string role="key" value="top_anchors_linked_from_fields"></string>
+              <list></list>
+              <string role="key" value="children"></string>
+              <list></list>
+             </dictionary>
+            </instance>
+            <instance class="exe.engine.node.Node" reference="47">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Clase 2"></unicode>
+              <string role="key" value="idevices"></string>
+              <list></list>
+              <string role="key" value="_id"></string>
+              <unicode value="30"></unicode>
+              <string role="key" value="_package"></string>
+              <reference key="2"></reference>
+              <string role="key" value="anchor_fields"></string>
+              <list></list>
+              <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exportType"></string>
+              <string value="website"></string>
+              <string role="key" value="last_full_node_path"></string>
+              <string value="exe-node:Introducci%C3%B3n:Hardware%20y%20Software:Software:Clase%202"></string>
+              <string role="key" value="parent"></string>
+              <reference key="21"></reference>
+              <string role="key" value="top_anchors_linked_from_fields"></string>
+              <list></list>
+              <string role="key" value="children"></string>
+              <list></list>
+             </dictionary>
+            </instance>
+            <instance class="exe.engine.node.Node" reference="48">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Clase 3"></unicode>
+              <string role="key" value="idevices"></string>
+              <list></list>
+              <string role="key" value="_id"></string>
+              <unicode value="31"></unicode>
+              <string role="key" value="_package"></string>
+              <reference key="2"></reference>
+              <string role="key" value="anchor_fields"></string>
+              <list></list>
+              <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exportType"></string>
+              <string value="website"></string>
+              <string role="key" value="last_full_node_path"></string>
+              <string value="exe-node:Introducci%C3%B3n:Hardware%20y%20Software:Software:Clase%203"></string>
+              <string role="key" value="parent"></string>
+              <reference key="21"></reference>
+              <string role="key" value="top_anchors_linked_from_fields"></string>
+              <list></list>
+              <string role="key" value="children"></string>
+              <list></list>
+             </dictionary>
+            </instance>
+            <instance class="exe.engine.node.Node" reference="49">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Clase 4"></unicode>
+              <string role="key" value="idevices"></string>
+              <list></list>
+              <string role="key" value="_id"></string>
+              <unicode value="32"></unicode>
+              <string role="key" value="_package"></string>
+              <reference key="2"></reference>
+              <string role="key" value="anchor_fields"></string>
+              <list></list>
+              <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exportType"></string>
+              <string value="website"></string>
+              <string role="key" value="last_full_node_path"></string>
+              <string value="exe-node:Introducci%C3%B3n:Hardware%20y%20Software:Software:Clase%204"></string>
+              <string role="key" value="parent"></string>
+              <reference key="21"></reference>
+              <string role="key" value="top_anchors_linked_from_fields"></string>
+              <list></list>
+              <string role="key" value="children"></string>
+              <list></list>
+             </dictionary>
+            </instance>
+            <instance class="exe.engine.node.Node" reference="50">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Clase 5"></unicode>
+              <string role="key" value="idevices"></string>
+              <list></list>
+              <string role="key" value="_id"></string>
+              <unicode value="33"></unicode>
+              <string role="key" value="_package"></string>
+              <reference key="2"></reference>
+              <string role="key" value="anchor_fields"></string>
+              <list></list>
+              <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exportType"></string>
+              <string value="website"></string>
+              <string role="key" value="last_full_node_path"></string>
+              <string value="exe-node:Introducci%C3%B3n:Hardware%20y%20Software:Software:Clase%205"></string>
+              <string role="key" value="parent"></string>
+              <reference key="21"></reference>
+              <string role="key" value="top_anchors_linked_from_fields"></string>
+              <list></list>
+              <string role="key" value="children"></string>
+              <list></list>
+             </dictionary>
+            </instance>
+            <instance class="exe.engine.node.Node" reference="51">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Clase 6"></unicode>
+              <string role="key" value="idevices"></string>
+              <list></list>
+              <string role="key" value="_id"></string>
+              <unicode value="34"></unicode>
+              <string role="key" value="_package"></string>
+              <reference key="2"></reference>
+              <string role="key" value="anchor_fields"></string>
+              <list></list>
+              <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exportType"></string>
+              <string value="website"></string>
+              <string role="key" value="last_full_node_path"></string>
+              <string value="exe-node:Introducci%C3%B3n:Hardware%20y%20Software:Software:Clase%206"></string>
+              <string role="key" value="parent"></string>
+              <reference key="21"></reference>
+              <string role="key" value="top_anchors_linked_from_fields"></string>
+              <list></list>
+              <string role="key" value="children"></string>
+              <list></list>
+             </dictionary>
+            </instance>
+            <instance class="exe.engine.node.Node" reference="52">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Clase 7"></unicode>
+              <string role="key" value="idevices"></string>
+              <list></list>
+              <string role="key" value="_id"></string>
+              <unicode value="35"></unicode>
+              <string role="key" value="_package"></string>
+              <reference key="2"></reference>
+              <string role="key" value="anchor_fields"></string>
+              <list></list>
+              <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exportType"></string>
+              <string value="website"></string>
+              <string role="key" value="last_full_node_path"></string>
+              <string value="exe-node:Introducci%C3%B3n:Hardware%20y%20Software:Software:Clase%207"></string>
+              <string role="key" value="parent"></string>
+              <reference key="21"></reference>
+              <string role="key" value="top_anchors_linked_from_fields"></string>
+              <list></list>
+              <string role="key" value="children"></string>
+              <list></list>
+             </dictionary>
+            </instance>
+            <instance class="exe.engine.node.Node" reference="53">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Clase 8"></unicode>
+              <string role="key" value="idevices"></string>
+              <list></list>
+              <string role="key" value="_id"></string>
+              <unicode value="36"></unicode>
+              <string role="key" value="_package"></string>
+              <reference key="2"></reference>
+              <string role="key" value="anchor_fields"></string>
+              <list></list>
+              <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exportType"></string>
+              <string value="website"></string>
+              <string role="key" value="last_full_node_path"></string>
+              <string value="exe-node:Introducci%C3%B3n:Hardware%20y%20Software:Software:Clase%208"></string>
+              <string role="key" value="parent"></string>
+              <reference key="21"></reference>
+              <string role="key" value="top_anchors_linked_from_fields"></string>
+              <list></list>
+              <string role="key" value="children"></string>
+              <list></list>
+             </dictionary>
+            </instance>
+            <instance class="exe.engine.node.Node" reference="54">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Clase 9"></unicode>
+              <string role="key" value="idevices"></string>
+              <list></list>
+              <string role="key" value="_id"></string>
+              <unicode value="37"></unicode>
+              <string role="key" value="_package"></string>
+              <reference key="2"></reference>
+              <string role="key" value="anchor_fields"></string>
+              <list></list>
+              <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exportType"></string>
+              <string value="website"></string>
+              <string role="key" value="last_full_node_path"></string>
+              <string value="exe-node:Introducci%C3%B3n:Hardware%20y%20Software:Software:Clase%209"></string>
+              <string role="key" value="parent"></string>
+              <reference key="21"></reference>
+              <string role="key" value="top_anchors_linked_from_fields"></string>
+              <list></list>
+              <string role="key" value="children"></string>
+              <list></list>
+             </dictionary>
+            </instance>
+            <instance class="exe.engine.node.Node" reference="55">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Clase 10"></unicode>
+              <string role="key" value="idevices"></string>
+              <list></list>
+              <string role="key" value="_id"></string>
+              <unicode value="38"></unicode>
+              <string role="key" value="_package"></string>
+              <reference key="2"></reference>
+              <string role="key" value="anchor_fields"></string>
+              <list></list>
+              <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exportType"></string>
+              <string value="website"></string>
+              <string role="key" value="last_full_node_path"></string>
+              <string value="exe-node:Introducci%C3%B3n:Hardware%20y%20Software:Software:Clase%2010"></string>
+              <string role="key" value="parent"></string>
+              <reference key="21"></reference>
+              <string role="key" value="top_anchors_linked_from_fields"></string>
+              <list></list>
+              <string role="key" value="children"></string>
+              <list></list>
+             </dictionary>
+            </instance>
+           </list>
           </dictionary>
          </instance>
          <instance class="exe.engine.node.Node" reference="25">
@@ -1265,11 +1785,10 @@ text through the text editing buttons associated with the field."></unicode>
                  <string role="key" value="anchors_linked_from_fields"></string>
                  <dictionary></dictionary>
                  <string role="key" value="content_w_resourcePaths"></string>
-                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;img src=&quot;resources/venngageLogo.jpg&quot; width=&quot;384&quot; height=&quot;100&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; alt=&quot;Icono Venngage&quot; /&gt;&lt;span style=&quot;color: #000000; font-family: verdana, geneva, sans-serif; text-align: left;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p class=&quot;itemIntroText&quot; style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 14pt; font-family: verdana, geneva, sans-serif; color: #000000;&quot;&gt;Venngage permite crear de forma gratuita infografías, presentaciones, informes o publicaciones para redes sociales. Esta herramienta ofrece diferentes gráficos para importar datos y crear visualizaciones más interesantes, entre ellos: líneas, área, barras horizontales y verticales, series múltiples, nube de palabras, columnas, entre otros.&lt;/span&gt;&lt;/p&gt;
-&lt;p class=&quot;itemIntroText&quot; style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 14pt; font-family: verdana, geneva, sans-serif; color: #000000;&quot;&gt;Venngage cuenta con varios estilos de textos, iconos, pictogramas, marcos, imágenes y fondos, listos para ser usados en la infografía. Además, cuenta con una barra de herramientas que permite modificar las propiedades de cada objeto para cambiar de color, agregar transparencia, modificar tamaño, duplicar, eliminar, girar y organizar. &lt;/span&gt;&lt;/p&gt;
-&lt;p class=&quot;itemIntroText&quot; style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 14pt; font-family: verdana, geneva, sans-serif; color: #000000;&quot;&gt;También brinda opciones para crear infografías interactivas con recursos como: videos de Youtube, tablas dinámicas, formularios y cuestionarios. Esta herramienta permite publicar los resultados en la página de Venngage.com o compartirlo en las diferentes redes sociales, cuenta con una opción para insertar la infografía en un contenido del sitio web mediante la inserción de código embebi&lt;/span&gt;&lt;strong style=&quot;font-size: 1.1em;&quot;&gt;do &lt;/strong&gt;&lt;span style=&quot;color: #000000; font-family: verdana, geneva, sans-serif; font-size: 14pt;&quot;&gt;[5].&lt;/span&gt;&lt;br /&gt;&lt;span style=&quot;font-size: 14pt; font-family: verdana, geneva, sans-serif; color: #000000;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 14pt; font-family: verdana, geneva, sans-serif; color: #000000;&quot;&gt;A continuación se muestra un videotutorial del uso de esta herramienta:&lt;/span&gt;&lt;/p&gt;
+                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;img src=&quot;resources/USB.jpg&quot; alt=&quot;&quot; width=&quot;139&quot; height=&quot;97&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;br /&gt;&lt;span style=&quot;color: #000000; font-family: verdana, geneva, sans-serif; text-align: left;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Los dispositivos USB son herramientas fundamentales en el mundo digital, permitiendo la conexión y transferencia de datos entre dispositivos de manera rápida y eficiente. Desde unidades de almacenamiento hasta periféricos como teclados y ratones, los puertos USB son omnipresentes en una amplia gama de dispositivos electrónicos.&lt;/p&gt;
+&lt;p&gt;La versatilidad y la portabilidad de los dispositivos USB los hacen indispensables en la era digital. Facilitan la transferencia de archivos, la conexión de periféricos y la carga de dispositivos móviles, simplificando la interacción entre dispositivos y mejorando la productividad en el día a día.&lt;/p&gt;
+&lt;p&gt;Los dispositivos USB tienen una variedad de aplicaciones prácticas, desde el almacenamiento de datos hasta la instalación de sistemas operativos. Comprender sus capacidades y limitaciones es crucial para aprovechar al máximo su potencial en diferentes escenarios, garantizando una experiencia fluida y segura en el mundo digital.&lt;/p&gt;
 &lt;figure class=&quot;exe-figure exe-media position-center&quot; style=&quot;width: 560px;&quot;&gt;
 &lt;div class=&quot;figcaption header&quot;&gt;&lt;strong&gt;Videotutorial Venngage&lt;/strong&gt;&lt;/div&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;314&quot; src=&quot;//www.youtube.com/embed/l5s_tXx6QGI?autoplay=1&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;
@@ -1295,7 +1814,7 @@ text through the text editing buttons associated with the field."></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="353"></int>
+                        <int value="365"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -1309,7 +1828,7 @@ text through the text editing buttons associated with the field."></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="36_58_2.15"></unicode>
+                      <unicode value="36_58_2.17"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="26">
                        <dictionary>
@@ -1318,11 +1837,11 @@ text through the text editing buttons associated with the field."></unicode>
                         <string role="key" value="_package"></string>
                         <reference key="2"></reference>
                         <string role="key" value="_storageName"></string>
-                        <string value="venngageLogo.jpg"></string>
+                        <string value="USB.jpg"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\tandr\\appdata\\local\\temp\\tmpq4p9h2\\venngageLogo.jpg"></string>
+                        <string value="c:\\users\\tandr\\appdata\\local\\temp\\tmpt8cnf7.eXe\\previews\\allyourbase\\USB.jpg"></string>
                         <string role="key" value="checksum"></string>
-                        <string value="5d28663f3ed2ef4ad14c40643836a276"></string>
+                        <string value="aaac74d8596f0970c0fdace424b9742d"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
                         <int value="2"></int>
                         <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -1349,7 +1868,7 @@ text through the text editing buttons associated with the field."></unicode>
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="16"></int>
+                 <int value="18"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="25"></reference>
                 </dictionary>
@@ -1399,7 +1918,268 @@ text through the text editing buttons associated with the field."></unicode>
            <string role="key" value="top_anchors_linked_from_fields"></string>
            <list></list>
            <string role="key" value="children"></string>
-           <list></list>
+           <list>
+            <instance class="exe.engine.node.Node" reference="56">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Clase 1"></unicode>
+              <string role="key" value="idevices"></string>
+              <list></list>
+              <string role="key" value="_id"></string>
+              <unicode value="40"></unicode>
+              <string role="key" value="_package"></string>
+              <reference key="2"></reference>
+              <string role="key" value="anchor_fields"></string>
+              <list></list>
+              <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exportType"></string>
+              <string value="website"></string>
+              <string role="key" value="last_full_node_path"></string>
+              <string value="exe-node:Introducci%C3%B3n:Hardware%20y%20Software:USB:Clase%201"></string>
+              <string role="key" value="parent"></string>
+              <reference key="25"></reference>
+              <string role="key" value="top_anchors_linked_from_fields"></string>
+              <list></list>
+              <string role="key" value="children"></string>
+              <list></list>
+             </dictionary>
+            </instance>
+            <instance class="exe.engine.node.Node" reference="57">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Clase 2"></unicode>
+              <string role="key" value="idevices"></string>
+              <list></list>
+              <string role="key" value="_id"></string>
+              <unicode value="41"></unicode>
+              <string role="key" value="_package"></string>
+              <reference key="2"></reference>
+              <string role="key" value="anchor_fields"></string>
+              <list></list>
+              <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exportType"></string>
+              <string value="website"></string>
+              <string role="key" value="last_full_node_path"></string>
+              <string value="exe-node:Introducci%C3%B3n:Hardware%20y%20Software:USB:Clase%202"></string>
+              <string role="key" value="parent"></string>
+              <reference key="25"></reference>
+              <string role="key" value="top_anchors_linked_from_fields"></string>
+              <list></list>
+              <string role="key" value="children"></string>
+              <list></list>
+             </dictionary>
+            </instance>
+            <instance class="exe.engine.node.Node" reference="58">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Clase 3"></unicode>
+              <string role="key" value="idevices"></string>
+              <list></list>
+              <string role="key" value="_id"></string>
+              <unicode value="42"></unicode>
+              <string role="key" value="_package"></string>
+              <reference key="2"></reference>
+              <string role="key" value="anchor_fields"></string>
+              <list></list>
+              <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exportType"></string>
+              <string value="website"></string>
+              <string role="key" value="last_full_node_path"></string>
+              <string value="exe-node:Introducci%C3%B3n:Hardware%20y%20Software:USB:Clase%203"></string>
+              <string role="key" value="parent"></string>
+              <reference key="25"></reference>
+              <string role="key" value="top_anchors_linked_from_fields"></string>
+              <list></list>
+              <string role="key" value="children"></string>
+              <list></list>
+             </dictionary>
+            </instance>
+            <instance class="exe.engine.node.Node" reference="59">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Clase 4"></unicode>
+              <string role="key" value="idevices"></string>
+              <list></list>
+              <string role="key" value="_id"></string>
+              <unicode value="43"></unicode>
+              <string role="key" value="_package"></string>
+              <reference key="2"></reference>
+              <string role="key" value="anchor_fields"></string>
+              <list></list>
+              <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exportType"></string>
+              <string value="website"></string>
+              <string role="key" value="last_full_node_path"></string>
+              <string value="exe-node:Introducci%C3%B3n:Hardware%20y%20Software:USB:Clase%204"></string>
+              <string role="key" value="parent"></string>
+              <reference key="25"></reference>
+              <string role="key" value="top_anchors_linked_from_fields"></string>
+              <list></list>
+              <string role="key" value="children"></string>
+              <list></list>
+             </dictionary>
+            </instance>
+            <instance class="exe.engine.node.Node" reference="60">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Clase 5"></unicode>
+              <string role="key" value="idevices"></string>
+              <list></list>
+              <string role="key" value="_id"></string>
+              <unicode value="44"></unicode>
+              <string role="key" value="_package"></string>
+              <reference key="2"></reference>
+              <string role="key" value="anchor_fields"></string>
+              <list></list>
+              <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exportType"></string>
+              <string value="website"></string>
+              <string role="key" value="last_full_node_path"></string>
+              <string value="exe-node:Introducci%C3%B3n:Hardware%20y%20Software:USB:Clase%205"></string>
+              <string role="key" value="parent"></string>
+              <reference key="25"></reference>
+              <string role="key" value="top_anchors_linked_from_fields"></string>
+              <list></list>
+              <string role="key" value="children"></string>
+              <list></list>
+             </dictionary>
+            </instance>
+            <instance class="exe.engine.node.Node" reference="61">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Clase 6"></unicode>
+              <string role="key" value="idevices"></string>
+              <list></list>
+              <string role="key" value="_id"></string>
+              <unicode value="45"></unicode>
+              <string role="key" value="_package"></string>
+              <reference key="2"></reference>
+              <string role="key" value="anchor_fields"></string>
+              <list></list>
+              <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exportType"></string>
+              <string value="website"></string>
+              <string role="key" value="last_full_node_path"></string>
+              <string value="exe-node:Introducci%C3%B3n:Hardware%20y%20Software:USB:Clase%206"></string>
+              <string role="key" value="parent"></string>
+              <reference key="25"></reference>
+              <string role="key" value="top_anchors_linked_from_fields"></string>
+              <list></list>
+              <string role="key" value="children"></string>
+              <list></list>
+             </dictionary>
+            </instance>
+            <instance class="exe.engine.node.Node" reference="62">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Clase 7"></unicode>
+              <string role="key" value="idevices"></string>
+              <list></list>
+              <string role="key" value="_id"></string>
+              <unicode value="46"></unicode>
+              <string role="key" value="_package"></string>
+              <reference key="2"></reference>
+              <string role="key" value="anchor_fields"></string>
+              <list></list>
+              <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exportType"></string>
+              <string value="website"></string>
+              <string role="key" value="last_full_node_path"></string>
+              <string value="exe-node:Introducci%C3%B3n:Hardware%20y%20Software:USB:Clase%207"></string>
+              <string role="key" value="parent"></string>
+              <reference key="25"></reference>
+              <string role="key" value="top_anchors_linked_from_fields"></string>
+              <list></list>
+              <string role="key" value="children"></string>
+              <list></list>
+             </dictionary>
+            </instance>
+            <instance class="exe.engine.node.Node" reference="63">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Clase 8"></unicode>
+              <string role="key" value="idevices"></string>
+              <list></list>
+              <string role="key" value="_id"></string>
+              <unicode value="47"></unicode>
+              <string role="key" value="_package"></string>
+              <reference key="2"></reference>
+              <string role="key" value="anchor_fields"></string>
+              <list></list>
+              <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exportType"></string>
+              <string value="website"></string>
+              <string role="key" value="last_full_node_path"></string>
+              <string value="exe-node:Introducci%C3%B3n:Hardware%20y%20Software:USB:Clase%208"></string>
+              <string role="key" value="parent"></string>
+              <reference key="25"></reference>
+              <string role="key" value="top_anchors_linked_from_fields"></string>
+              <list></list>
+              <string role="key" value="children"></string>
+              <list></list>
+             </dictionary>
+            </instance>
+            <instance class="exe.engine.node.Node" reference="64">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Clase 9"></unicode>
+              <string role="key" value="idevices"></string>
+              <list></list>
+              <string role="key" value="_id"></string>
+              <unicode value="48"></unicode>
+              <string role="key" value="_package"></string>
+              <reference key="2"></reference>
+              <string role="key" value="anchor_fields"></string>
+              <list></list>
+              <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exportType"></string>
+              <string value="website"></string>
+              <string role="key" value="last_full_node_path"></string>
+              <string value="exe-node:Introducci%C3%B3n:Hardware%20y%20Software:USB:Clase%209"></string>
+              <string role="key" value="parent"></string>
+              <reference key="25"></reference>
+              <string role="key" value="top_anchors_linked_from_fields"></string>
+              <list></list>
+              <string role="key" value="children"></string>
+              <list></list>
+             </dictionary>
+            </instance>
+            <instance class="exe.engine.node.Node" reference="65">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Clase 10"></unicode>
+              <string role="key" value="idevices"></string>
+              <list></list>
+              <string role="key" value="_id"></string>
+              <unicode value="49"></unicode>
+              <string role="key" value="_package"></string>
+              <reference key="2"></reference>
+              <string role="key" value="anchor_fields"></string>
+              <list></list>
+              <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exportType"></string>
+              <string value="website"></string>
+              <string role="key" value="last_full_node_path"></string>
+              <string value="exe-node:Introducci%C3%B3n:Hardware%20y%20Software:USB:Clase%2010"></string>
+              <string role="key" value="parent"></string>
+              <reference key="25"></reference>
+              <string role="key" value="top_anchors_linked_from_fields"></string>
+              <list></list>
+              <string role="key" value="children"></string>
+              <list></list>
+             </dictionary>
+            </instance>
+           </list>
           </dictionary>
          </instance>
         </list>
@@ -1936,10 +2716,70 @@ and select the size of the area to display it in."></unicode>
    <reference key="25"></reference>
    <unicode role="key" value="17"></unicode>
    <reference key="32"></reference>
+   <unicode role="key" value="18"></unicode>
+   <reference key="36"></reference>
+   <unicode role="key" value="19"></unicode>
+   <reference key="37"></reference>
+   <unicode role="key" value="20"></unicode>
+   <reference key="38"></reference>
+   <unicode role="key" value="21"></unicode>
+   <reference key="39"></reference>
+   <unicode role="key" value="22"></unicode>
+   <reference key="40"></reference>
+   <unicode role="key" value="23"></unicode>
+   <reference key="41"></reference>
+   <unicode role="key" value="24"></unicode>
+   <reference key="42"></reference>
+   <unicode role="key" value="25"></unicode>
+   <reference key="43"></reference>
+   <unicode role="key" value="26"></unicode>
+   <reference key="44"></reference>
+   <unicode role="key" value="27"></unicode>
+   <reference key="45"></reference>
+   <unicode role="key" value="29"></unicode>
+   <reference key="46"></reference>
    <unicode role="key" value="3"></unicode>
    <reference key="8"></reference>
+   <unicode role="key" value="30"></unicode>
+   <reference key="47"></reference>
+   <unicode role="key" value="31"></unicode>
+   <reference key="48"></reference>
+   <unicode role="key" value="32"></unicode>
+   <reference key="49"></reference>
+   <unicode role="key" value="33"></unicode>
+   <reference key="50"></reference>
+   <unicode role="key" value="34"></unicode>
+   <reference key="51"></reference>
+   <unicode role="key" value="35"></unicode>
+   <reference key="52"></reference>
+   <unicode role="key" value="36"></unicode>
+   <reference key="53"></reference>
+   <unicode role="key" value="37"></unicode>
+   <reference key="54"></reference>
+   <unicode role="key" value="38"></unicode>
+   <reference key="55"></reference>
    <unicode role="key" value="4"></unicode>
    <reference key="17"></reference>
+   <unicode role="key" value="40"></unicode>
+   <reference key="56"></reference>
+   <unicode role="key" value="41"></unicode>
+   <reference key="57"></reference>
+   <unicode role="key" value="42"></unicode>
+   <reference key="58"></reference>
+   <unicode role="key" value="43"></unicode>
+   <reference key="59"></reference>
+   <unicode role="key" value="44"></unicode>
+   <reference key="60"></reference>
+   <unicode role="key" value="45"></unicode>
+   <reference key="61"></reference>
+   <unicode role="key" value="46"></unicode>
+   <reference key="62"></reference>
+   <unicode role="key" value="47"></unicode>
+   <reference key="63"></reference>
+   <unicode role="key" value="48"></unicode>
+   <reference key="64"></reference>
+   <unicode role="key" value="49"></unicode>
+   <reference key="65"></reference>
    <unicode role="key" value="7"></unicode>
    <reference key="29"></reference>
   </dictionary>
@@ -1952,7 +2792,7 @@ and select the size of the area to display it in."></unicode>
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="11"></reference>
+  <reference key="25"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
@@ -2324,7 +3164,7 @@ and select the size of the area to display it in."></unicode>
        <instance class="exe.engine.lom.lomsubs.contributeSub">
         <dictionary>
          <string role="key" value="date"></string>
-         <instance class="exe.engine.lom.lomsubs.dateSub" reference="36">
+         <instance class="exe.engine.lom.lomsubs.dateSub" reference="66">
           <dictionary>
            <string role="key" value="dateTime"></string>
            <instance class="exe.engine.lom.lomsubs.DateTimeValueSub">
@@ -2363,7 +3203,7 @@ and select the size of the area to display it in."></unicode>
          </instance>
          <string role="key" value="entity"></string>
          <list>
-          <instance class="exe.engine.lom.lomsubs.entitySub" reference="37">
+          <instance class="exe.engine.lom.lomsubs.entitySub" reference="67">
            <dictionary>
             <string role="key" value="extensiontype_"></string>
             <none></none>
@@ -2378,7 +3218,7 @@ and select the size of the area to display it in."></unicode>
            <string role="key" value="extensiontype_"></string>
            <none></none>
            <string role="key" value="source"></string>
-           <instance class="exe.engine.lom.lomsubs.sourceValueSub" reference="38">
+           <instance class="exe.engine.lom.lomsubs.sourceValueSub" reference="68">
             <dictionary>
              <string role="key" value="extensiontype_"></string>
              <none></none>
@@ -2428,10 +3268,10 @@ and select the size of the area to display it in."></unicode>
        <instance class="exe.engine.lom.lomsubs.contributeMetaSub">
         <dictionary>
          <string role="key" value="date"></string>
-         <reference key="36"></reference>
+         <reference key="66"></reference>
          <string role="key" value="entity"></string>
          <list>
-          <reference key="37"></reference>
+          <reference key="67"></reference>
          </list>
          <string role="key" value="role"></string>
          <instance class="exe.engine.lom.lomsubs.roleSub">
@@ -2439,7 +3279,7 @@ and select the size of the area to display it in."></unicode>
            <string role="key" value="extensiontype_"></string>
            <none></none>
            <string role="key" value="source"></string>
-           <reference key="38"></reference>
+           <reference key="68"></reference>
            <string role="key" value="uniqueElementName"></string>
            <string value="role"></string>
            <string role="key" value="value"></string>
@@ -3695,25 +4535,25 @@ and select the size of the area to display it in."></unicode>
    <list>
     <reference key="13"></reference>
    </list>
-   <string role="key" value="21d163b3e9c51a1683e8c65624c16585"></string>
-   <list>
-    <reference key="18"></reference>
-   </list>
    <string role="key" value="5375c29db5e32723720292eb69617273"></string>
    <list>
     <reference key="5"></reference>
    </list>
-   <string role="key" value="5d28663f3ed2ef4ad14c40643836a276"></string>
-   <list>
-    <reference key="26"></reference>
-   </list>
-   <string role="key" value="78b7f26ad9b72154fe5fac6b2d8b0bc9"></string>
+   <string role="key" value="70c906ddf79ae0955a92c81ac0c7d077"></string>
    <list>
     <reference key="22"></reference>
+   </list>
+   <string role="key" value="aaac74d8596f0970c0fdace424b9742d"></string>
+   <list>
+    <reference key="26"></reference>
    </list>
    <string role="key" value="cd66f94b86cff1e0a0b9599860056b30"></string>
    <list>
     <reference key="12"></reference>
+   </list>
+   <string role="key" value="e82e88275c88abec9e74443921a2eabf"></string>
+   <list>
+    <reference key="18"></reference>
    </list>
    <string role="key" value="fc5e28dd648ae61d9812329a498076a9"></string>
    <list>
