@@ -69,7 +69,7 @@
   <string role="key" value="_intendedEndUserRoleType"></string>
   <unicode value="learner"></unicode>
   <string role="key" value="_isChanged"></string>
-  <bool value="1"></bool>
+  <bool value="0"></bool>
   <string role="key" value="_isTemplate"></string>
   <bool value="0"></bool>
   <string role="key" value="_lang"></string>
@@ -85,7 +85,7 @@
   <string role="key" value="_name"></string>
   <unicode value="Herramientas_pargestion_de_correo_electronico"></unicode>
   <string role="key" value="_nextIdeviceId"></string>
-  <int value="95"></int>
+  <int value="109"></int>
   <string role="key" value="_nextNodeId"></string>
   <int value="42"></int>
   <string role="key" value="_nodeIdDict"></string>
@@ -162,7 +162,7 @@ text through the text editing buttons associated with the field."></unicode>
                <instance class="exe.engine.field.TextField">
                 <dictionary>
                  <string role="key" value="_id"></string>
-                 <int value="439"></int>
+                 <int value="649"></int>
                  <string role="key" value="_idevice"></string>
                  <none></none>
                  <string role="key" value="_instruc"></string>
@@ -176,7 +176,7 @@ text through the text editing buttons associated with the field."></unicode>
                 </dictionary>
                </instance>
                <string role="key" value="_id"></string>
-               <unicode value="52_85.9"></unicode>
+               <unicode value="52_85.11"></unicode>
                <string role="key" value="_imageResource"></string>
                <instance class="exe.engine.resource.Resource" reference="5">
                 <dictionary>
@@ -187,7 +187,7 @@ text through the text editing buttons associated with the field."></unicode>
                  <string role="key" value="_storageName"></string>
                  <string value="150EPN.png"></string>
                  <string role="key" value="_userName"></string>
-                 <string value="c:\\users\\aplic\\appdata\\local\\temp\\tmprcm6h7\\150EPN.png"></string>
+                 <string value="c:\\users\\inclus~1\\appdata\\local\\temp\\tmpqpymiq\\150EPN.png"></string>
                  <string role="key" value="checksum"></string>
                  <string value="5375c29db5e32723720292eb69617273"></string>
                  <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -216,7 +216,7 @@ text through the text editing buttons associated with the field."></unicode>
           <string role="key" value="intlinks_to_anchors"></string>
           <dictionary></dictionary>
           <string role="key" value="nextImageId"></string>
-          <int value="10"></int>
+          <int value="12"></int>
           <string role="key" value="parentNode"></string>
           <reference key="4"></reference>
          </dictionary>
@@ -363,7 +363,7 @@ text through the text editing buttons associated with the field."></unicode>
               <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
               <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;ul&gt;
-&lt;li&gt;&lt;span style=&quot;font-size: 14pt; font-family: verdana, geneva, sans-serif; color: #000000;&quot;&gt;Presentar una serie de herramientas para la creación de infografías en el ámbito de las tecnologías para la educación.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 14pt; font-family: verdana, geneva, sans-serif; color: #000000;&quot;&gt;Presentar una serie de herramientas para para gestión de correo electrónico.&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
               <int value="4"></int>
@@ -436,12 +436,254 @@ text through the text editing buttons associated with the field."></unicode>
         <list></list>
        </dictionary>
       </instance>
-      <instance class="exe.engine.node.Node" reference="19">
+      <instance class="exe.engine.node.Node" reference="11">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="Herramientas para la gestión de correo electrónico"></unicode>
         <string role="key" value="idevices"></string>
-        <list></list>
+        <list>
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="9">
+          <dictionary>
+           <string role="key" value="_title"></string>
+           <unicode value="Temas"></unicode>
+           <string role="key" value="_attributes"></string>
+           <list>
+            <tuple>
+             <string value="title"></string>
+             <list>
+              <string value="Title"></string>
+              <int value="0"></int>
+              <int value="0"></int>
+             </list>
+            </tuple>
+            <tuple>
+             <string value="category"></string>
+             <list>
+              <string value="Category"></string>
+              <int value="0"></int>
+              <int value="1"></int>
+             </list>
+            </tuple>
+            <tuple>
+             <string value="css-class"></string>
+             <list>
+              <string value="CSS class"></string>
+              <int value="0"></int>
+              <int value="2"></int>
+             </list>
+            </tuple>
+            <tuple>
+             <string value="icon"></string>
+             <list>
+              <string value="Icon"></string>
+              <int value="0"></int>
+              <int value="3"></int>
+             </list>
+            </tuple>
+           </list>
+           <string role="key" value="_author"></string>
+           <string value=""></string>
+           <string role="key" value="_iDeviceDir"></string>
+           <string value="text"></string>
+           <string role="key" value="_purpose"></string>
+           <string value=""></string>
+           <string role="key" value="_tip"></string>
+           <string value=""></string>
+           <string role="key" value="_typeName"></string>
+           <unicode value="Text"></unicode>
+           <string role="key" value="_valid"></string>
+           <bool value="1"></bool>
+           <string role="key" value="class_"></string>
+           <unicode value="text"></unicode>
+           <string role="key" value="edit"></string>
+           <bool value="0"></bool>
+           <string role="key" value="emphasis"></string>
+           <int value="1"></int>
+           <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+           <int value="1"></int>
+           <string role="key" value="fields"></string>
+           <list>
+            <instance class="exe.engine.field.TextAreaField" reference="10">
+             <dictionary>
+              <string role="key" value="_id"></string>
+              <unicode value="149_2"></unicode>
+              <string role="key" value="_idevice"></string>
+              <reference key="9"></reference>
+              <string role="key" value="_instruc"></string>
+              <string value=""></string>
+              <string role="key" value="_name"></string>
+              <string value=""></string>
+              <string role="key" value="anchor_names"></string>
+              <list></list>
+              <string role="key" value="anchors_linked_from_fields"></string>
+              <dictionary></dictionary>
+              <string role="key" value="content_w_resourcePaths"></string>
+              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;div class=&quot;exe-fx exe-carousel&quot;&gt;
+&lt;h2&gt;Gmail&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;resources/Gmail_Logo.png&quot; alt=&quot;Gmail&quot; width=&quot;920&quot; height=&quot;613&quot; /&gt;&lt;/p&gt;
+&lt;h2&gt;Outlook&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;resources/Outlook.jpeg&quot; alt=&quot;Outlook&quot; width=&quot;1001&quot; height=&quot;667&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+              <int value="4"></int>
+              <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+              <int value="3"></int>
+              <string role="key" value="htmlTag"></string>
+              <string value="div"></string>
+              <string role="key" value="images"></string>
+              <instance class="exe.engine.galleryidevice.GalleryImages">
+               <dictionary>
+                <string role="key" value=".listitems"></string>
+                <list>
+                 <instance class="exe.engine.galleryidevice.GalleryImage">
+                  <dictionary>
+                   <string role="key" value="_caption"></string>
+                   <instance class="exe.engine.field.TextField">
+                    <dictionary>
+                     <string role="key" value="_id"></string>
+                     <int value="650"></int>
+                     <string role="key" value="_idevice"></string>
+                     <none></none>
+                     <string role="key" value="_instruc"></string>
+                     <string value=""></string>
+                     <string role="key" value="_name"></string>
+                     <string value=""></string>
+                     <string role="key" value="content"></string>
+                     <string value=""></string>
+                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                     <int value="4"></int>
+                    </dictionary>
+                   </instance>
+                   <string role="key" value="_id"></string>
+                   <unicode value="95_149_2.2"></unicode>
+                   <string role="key" value="_imageResource"></string>
+                   <instance class="exe.engine.resource.Resource" reference="12">
+                    <dictionary>
+                     <string role="key" value="_idevice"></string>
+                     <reference key="9"></reference>
+                     <string role="key" value="_package"></string>
+                     <reference key="2"></reference>
+                     <string role="key" value="_storageName"></string>
+                     <string value="Gmail_Logo.png"></string>
+                     <string role="key" value="_userName"></string>
+                     <string value="c:\\users\\inclus~1\\appdata\\local\\temp\\tmpqpymiq\\Gmail_Logo.png"></string>
+                     <string role="key" value="checksum"></string>
+                     <string value="1983916dac084b9c5cf6f9e27c1c2f24"></string>
+                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                     <int value="2"></int>
+                     <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                     <int value="2"></int>
+                     <string role="key" value="warningMsg"></string>
+                     <string value=""></string>
+                    </dictionary>
+                   </instance>
+                   <string role="key" value="_parent"></string>
+                   <reference key="10"></reference>
+                   <string role="key" value="_thumbnailResource"></string>
+                   <none></none>
+                   <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                   <int value="3"></int>
+                   <string role="key" value="makeThumbnail"></string>
+                   <bool value="0"></bool>
+                  </dictionary>
+                 </instance>
+                 <instance class="exe.engine.galleryidevice.GalleryImage">
+                  <dictionary>
+                   <string role="key" value="_caption"></string>
+                   <instance class="exe.engine.field.TextField">
+                    <dictionary>
+                     <string role="key" value="_id"></string>
+                     <int value="652"></int>
+                     <string role="key" value="_idevice"></string>
+                     <none></none>
+                     <string role="key" value="_instruc"></string>
+                     <string value=""></string>
+                     <string role="key" value="_name"></string>
+                     <string value=""></string>
+                     <string role="key" value="content"></string>
+                     <string value=""></string>
+                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                     <int value="4"></int>
+                    </dictionary>
+                   </instance>
+                   <string role="key" value="_id"></string>
+                   <unicode value="95_149_2.3"></unicode>
+                   <string role="key" value="_imageResource"></string>
+                   <instance class="exe.engine.resource.Resource" reference="13">
+                    <dictionary>
+                     <string role="key" value="_idevice"></string>
+                     <reference key="9"></reference>
+                     <string role="key" value="_package"></string>
+                     <reference key="2"></reference>
+                     <string role="key" value="_storageName"></string>
+                     <string value="Outlook.jpeg"></string>
+                     <string role="key" value="_userName"></string>
+                     <string value="c:\\users\\inclus~1\\appdata\\local\\temp\\tmpqpymiq\\Outlook.jpeg"></string>
+                     <string role="key" value="checksum"></string>
+                     <string value="c6a36d3b3b638b81311a2328d1fb407e"></string>
+                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                     <int value="2"></int>
+                     <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                     <int value="2"></int>
+                     <string role="key" value="warningMsg"></string>
+                     <string value=""></string>
+                    </dictionary>
+                   </instance>
+                   <string role="key" value="_parent"></string>
+                   <reference key="10"></reference>
+                   <string role="key" value="_thumbnailResource"></string>
+                   <none></none>
+                   <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                   <int value="3"></int>
+                   <string role="key" value="makeThumbnail"></string>
+                   <bool value="0"></bool>
+                  </dictionary>
+                 </instance>
+                </list>
+                <string role="key" value="idevice"></string>
+                <reference key="10"></reference>
+               </dictionary>
+              </instance>
+              <string role="key" value="intlinks_to_anchors"></string>
+              <dictionary></dictionary>
+              <string role="key" value="nextImageId"></string>
+              <int value="4"></int>
+              <string role="key" value="parentNode"></string>
+              <reference key="11"></reference>
+             </dictionary>
+            </instance>
+           </list>
+           <string role="key" value="icon"></string>
+           <unicode value=""></unicode>
+           <string role="key" value="id"></string>
+           <unicode value="95"></unicode>
+           <string role="key" value="ideviceCategory"></string>
+           <unicode value="Text and Tasks"></unicode>
+           <string role="key" value="lastIdevice"></string>
+           <bool value="0"></bool>
+           <string role="key" value="nextFieldId"></string>
+           <int value="3"></int>
+           <string role="key" value="originalicon"></string>
+           <string value=""></string>
+           <string role="key" value="parentNode"></string>
+           <reference key="11"></reference>
+           <string role="key" value="systemResources"></string>
+           <list></list>
+           <string role="key" value="undo"></string>
+           <bool value="1"></bool>
+           <string role="key" value="userResources"></string>
+           <list>
+            <reference key="12"></reference>
+            <reference key="13"></reference>
+           </list>
+           <string role="key" value="version"></string>
+           <int value="0"></int>
+          </dictionary>
+         </instance>
+        </list>
         <string role="key" value="_id"></string>
         <unicode value="19"></unicode>
         <string role="key" value="_package"></string>
@@ -460,13 +702,13 @@ text through the text editing buttons associated with the field."></unicode>
         <list></list>
         <string role="key" value="children"></string>
         <list>
-         <instance class="exe.engine.node.Node" reference="11">
+         <instance class="exe.engine.node.Node" reference="16">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Gmail"></unicode>
            <string role="key" value="idevices"></string>
            <list>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="9">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="14">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value=""></unicode>
@@ -527,12 +769,12 @@ text through the text editing buttons associated with the field."></unicode>
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="10">
+               <instance class="exe.engine.field.TextAreaField" reference="15">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <unicode value="120_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="9"></reference>
+                 <reference key="14"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
@@ -557,7 +799,7 @@ text through the text editing buttons associated with the field."></unicode>
                    <string role="key" value=".listitems"></string>
                    <list></list>
                    <string role="key" value="idevice"></string>
-                   <reference key="10"></reference>
+                   <reference key="15"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
@@ -565,7 +807,7 @@ text through the text editing buttons associated with the field."></unicode>
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <reference key="11"></reference>
+                 <reference key="16"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -582,7 +824,7 @@ text through the text editing buttons associated with the field."></unicode>
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="11"></reference>
+              <reference key="16"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
@@ -593,7 +835,7 @@ text through the text editing buttons associated with the field."></unicode>
               <int value="0"></int>
              </dictionary>
             </instance>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="12">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="17">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value=""></unicode>
@@ -654,12 +896,12 @@ text through the text editing buttons associated with the field."></unicode>
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="13">
+               <instance class="exe.engine.field.TextAreaField" reference="18">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <unicode value="121_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="12"></reference>
+                 <reference key="17"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
@@ -690,7 +932,7 @@ text through the text editing buttons associated with the field."></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="440"></int>
+                        <int value="651"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -704,18 +946,18 @@ text through the text editing buttons associated with the field."></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="74_121_2.1"></unicode>
+                      <unicode value="74_121_2.3"></unicode>
                       <string role="key" value="_imageResource"></string>
-                      <instance class="exe.engine.resource.Resource" reference="14">
+                      <instance class="exe.engine.resource.Resource" reference="19">
                        <dictionary>
                         <string role="key" value="_idevice"></string>
-                        <reference key="12"></reference>
+                        <reference key="17"></reference>
                         <string role="key" value="_package"></string>
                         <reference key="2"></reference>
                         <string role="key" value="_storageName"></string>
                         <string value="Gmail_Logo.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\aplic\\appdata\\local\\temp\\tmprcm6h7\\Gmail_Logo.png"></string>
+                        <string value="c:\\users\\inclus~1\\appdata\\local\\temp\\tmpqpymiq\\Gmail_Logo.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="1983916dac084b9c5cf6f9e27c1c2f24"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -727,7 +969,7 @@ text through the text editing buttons associated with the field."></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_parent"></string>
-                      <reference key="13"></reference>
+                      <reference key="18"></reference>
                       <string role="key" value="_thumbnailResource"></string>
                       <none></none>
                       <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -738,15 +980,15 @@ text through the text editing buttons associated with the field."></unicode>
                     </instance>
                    </list>
                    <string role="key" value="idevice"></string>
-                   <reference key="13"></reference>
+                   <reference key="18"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="2"></int>
+                 <int value="4"></int>
                  <string role="key" value="parentNode"></string>
-                 <reference key="11"></reference>
+                 <reference key="16"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -763,20 +1005,20 @@ text through the text editing buttons associated with the field."></unicode>
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="11"></reference>
+              <reference key="16"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
               <bool value="1"></bool>
               <string role="key" value="userResources"></string>
               <list>
-               <reference key="14"></reference>
+               <reference key="19"></reference>
               </list>
               <string role="key" value="version"></string>
               <int value="0"></int>
              </dictionary>
             </instance>
-            <instance class="exe.engine.fileattachidevice.FileAttachIdeviceInc" reference="15">
+            <instance class="exe.engine.fileattachidevice.FileAttachIdeviceInc" reference="20">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Manual de usuario Gmail"></unicode>
@@ -796,12 +1038,12 @@ text through the text editing buttons associated with the field."></unicode>
               <int value="2"></int>
               <string role="key" value="fileAttachmentFields"></string>
               <list>
-               <instance class="exe.engine.extendedfieldengine.FileField" reference="16">
+               <instance class="exe.engine.extendedfieldengine.FileField" reference="21">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <int value="83"></int>
                  <string role="key" value="_idevice"></string>
-                 <reference key="15"></reference>
+                 <reference key="20"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value="File Field Help"></string>
                  <string role="key" value="_name"></string>
@@ -818,13 +1060,13 @@ text through the text editing buttons associated with the field."></unicode>
                    <string role="key" value="_id"></string>
                    <int value="84"></int>
                    <string role="key" value="_idevice"></string>
-                   <reference key="16"></reference>
+                   <reference key="21"></reference>
                    <string role="key" value="_instruc"></string>
                    <string value=""></string>
                    <string role="key" value="_name"></string>
                    <string value="Description"></string>
                    <string role="key" value="content"></string>
-                   <unicode value="GUIA_VIDEOS_TUTORIALES_19_EDICION_GMAIL.pdf"></unicode>
+                   <unicode value="Manual Gmail"></unicode>
                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                    <int value="4"></int>
                   </dictionary>
@@ -832,16 +1074,16 @@ text through the text editing buttons associated with the field."></unicode>
                  <string role="key" value="fileInstruc"></string>
                  <string value="Upload a file"></string>
                  <string role="key" value="fileResource"></string>
-                 <instance class="exe.engine.resource.Resource" reference="18">
+                 <instance class="exe.engine.resource.Resource" reference="23">
                   <dictionary>
                    <string role="key" value="_idevice"></string>
-                   <reference key="15"></reference>
+                   <reference key="20"></reference>
                    <string role="key" value="_package"></string>
                    <reference key="2"></reference>
                    <string role="key" value="_storageName"></string>
                    <string value="GUIA_VIDEOS_TUTORIALES_19_EDICION_GMAIL.pdf"></string>
                    <string role="key" value="_userName"></string>
-                   <string value="C:\\Users\\Aplic\\Downloads\\GUIA_VIDEOS_TUTORIALES_19_EDICION_GMAIL.pdf"></string>
+                   <string value="c:\\users\\inclus~1\\appdata\\local\\temp\\tmpqpymiq\\GUIA_VIDEOS_TUTORIALES_19_EDICION_GMAIL.pdf"></string>
                    <string role="key" value="checksum"></string>
                    <string value="0f391fd84b77a2f6690c2fad9cf49dde"></string>
                    <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -862,12 +1104,12 @@ text through the text editing buttons associated with the field."></unicode>
               <string role="key" value="id"></string>
               <unicode value="88"></unicode>
               <string role="key" value="introHTML"></string>
-              <instance class="exe.engine.field.TextAreaField" reference="17">
+              <instance class="exe.engine.field.TextAreaField" reference="22">
                <dictionary>
                 <string role="key" value="_id"></string>
                 <int value="82"></int>
                 <string role="key" value="_idevice"></string>
-                <reference key="15"></reference>
+                <reference key="20"></reference>
                 <string role="key" value="_instruc"></string>
                 <string value="Instructions"></string>
                 <string role="key" value="_name"></string>
@@ -892,7 +1134,7 @@ text through the text editing buttons associated with the field."></unicode>
                   <string role="key" value=".listitems"></string>
                   <list></list>
                   <string role="key" value="idevice"></string>
-                  <reference key="17"></reference>
+                  <reference key="22"></reference>
                  </dictionary>
                 </instance>
                 <string role="key" value="intlinks_to_anchors"></string>
@@ -900,7 +1142,7 @@ text through the text editing buttons associated with the field."></unicode>
                 <string role="key" value="nextImageId"></string>
                 <int value="0"></int>
                 <string role="key" value="parentNode"></string>
-                <none></none>
+                <reference key="16"></reference>
                </dictionary>
               </instance>
               <string role="key" value="lastIdevice"></string>
@@ -910,14 +1152,14 @@ text through the text editing buttons associated with the field."></unicode>
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="11"></reference>
+              <reference key="16"></reference>
               <string role="key" value="showDesc"></string>
               <instance class="exe.engine.extendedfieldengine.ChoiceField">
                <dictionary>
                 <string role="key" value="_id"></string>
                 <int value="81"></int>
                 <string role="key" value="_idevice"></string>
-                <reference key="15"></reference>
+                <reference key="20"></reference>
                 <string role="key" value="_instruc"></string>
                 <string value="Show Description"></string>
                 <string role="key" value="_name"></string>
@@ -947,7 +1189,7 @@ text through the text editing buttons associated with the field."></unicode>
               <bool value="0"></bool>
               <string role="key" value="userResources"></string>
               <list>
-               <reference key="18"></reference>
+               <reference key="23"></reference>
               </list>
               <string role="key" value="version"></string>
               <int value="0"></int>
@@ -967,18 +1209,18 @@ text through the text editing buttons associated with the field."></unicode>
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:Introducci%C3%B3n:Herramientas%20para%20la%20gesti%C3%B3n%20de%20correo%20electr%C3%B3nico:Gmail"></string>
            <string role="key" value="parent"></string>
-           <reference key="19"></reference>
+           <reference key="11"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
            <list></list>
            <string role="key" value="children"></string>
            <list>
-            <instance class="exe.engine.node.Node" reference="22">
+            <instance class="exe.engine.node.Node" reference="26">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Clase 1"></unicode>
               <string role="key" value="idevices"></string>
               <list>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="20">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="24">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Creación de una Cuenta en Gmai"></unicode>
@@ -1039,12 +1281,12 @@ text through the text editing buttons associated with the field."></unicode>
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="21">
+                  <instance class="exe.engine.field.TextAreaField" reference="25">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="122_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="20"></reference>
+                    <reference key="24"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -1073,7 +1315,7 @@ text through the text editing buttons associated with the field."></unicode>
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="21"></reference>
+                      <reference key="25"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -1081,7 +1323,7 @@ text through the text editing buttons associated with the field."></unicode>
                     <string role="key" value="nextImageId"></string>
                     <int value="28"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="22"></reference>
+                    <reference key="26"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -1098,7 +1340,7 @@ text through the text editing buttons associated with the field."></unicode>
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="22"></reference>
+                 <reference key="26"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -1123,20 +1365,20 @@ text through the text editing buttons associated with the field."></unicode>
               <string role="key" value="last_full_node_path"></string>
               <string value="exe-node:Introducci%C3%B3n:Herramientas%20para%20la%20gesti%C3%B3n%20de%20correo%20electr%C3%B3nico:Gmail:Clase%201"></string>
               <string role="key" value="parent"></string>
-              <reference key="11"></reference>
+              <reference key="16"></reference>
               <string role="key" value="top_anchors_linked_from_fields"></string>
               <list></list>
               <string role="key" value="children"></string>
               <list></list>
              </dictionary>
             </instance>
-            <instance class="exe.engine.node.Node" reference="25">
+            <instance class="exe.engine.node.Node" reference="29">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Clase 2"></unicode>
               <string role="key" value="idevices"></string>
               <list>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="23">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="27">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Iniciar sesión"></unicode>
@@ -1197,12 +1439,12 @@ text through the text editing buttons associated with the field."></unicode>
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="24">
+                  <instance class="exe.engine.field.TextAreaField" reference="28">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="123_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="23"></reference>
+                    <reference key="27"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -1230,7 +1472,7 @@ text through the text editing buttons associated with the field."></unicode>
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="24"></reference>
+                      <reference key="28"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -1238,7 +1480,7 @@ text through the text editing buttons associated with the field."></unicode>
                     <string role="key" value="nextImageId"></string>
                     <int value="8"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="25"></reference>
+                    <reference key="29"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -1255,7 +1497,7 @@ text through the text editing buttons associated with the field."></unicode>
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="25"></reference>
+                 <reference key="29"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -1280,20 +1522,20 @@ text through the text editing buttons associated with the field."></unicode>
               <string role="key" value="last_full_node_path"></string>
               <string value="exe-node:Introducci%C3%B3n:Herramientas%20para%20la%20gesti%C3%B3n%20de%20correo%20electr%C3%B3nico:Gmail:Clase%202"></string>
               <string role="key" value="parent"></string>
-              <reference key="11"></reference>
+              <reference key="16"></reference>
               <string role="key" value="top_anchors_linked_from_fields"></string>
               <list></list>
               <string role="key" value="children"></string>
               <list></list>
              </dictionary>
             </instance>
-            <instance class="exe.engine.node.Node" reference="28">
+            <instance class="exe.engine.node.Node" reference="32">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Clase 3"></unicode>
               <string role="key" value="idevices"></string>
               <list>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="26">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="30">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Visión General de la Interfaz"></unicode>
@@ -1354,12 +1596,12 @@ text through the text editing buttons associated with the field."></unicode>
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="27">
+                  <instance class="exe.engine.field.TextAreaField" reference="31">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="124_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="26"></reference>
+                    <reference key="30"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -1387,7 +1629,7 @@ text through the text editing buttons associated with the field."></unicode>
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="27"></reference>
+                      <reference key="31"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -1395,7 +1637,7 @@ text through the text editing buttons associated with the field."></unicode>
                     <string role="key" value="nextImageId"></string>
                     <int value="12"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="28"></reference>
+                    <reference key="32"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -1412,7 +1654,7 @@ text through the text editing buttons associated with the field."></unicode>
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="28"></reference>
+                 <reference key="32"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -1437,20 +1679,20 @@ text through the text editing buttons associated with the field."></unicode>
               <string role="key" value="last_full_node_path"></string>
               <string value="exe-node:Introducci%C3%B3n:Herramientas%20para%20la%20gesti%C3%B3n%20de%20correo%20electr%C3%B3nico:Gmail:Clase%203"></string>
               <string role="key" value="parent"></string>
-              <reference key="11"></reference>
+              <reference key="16"></reference>
               <string role="key" value="top_anchors_linked_from_fields"></string>
               <list></list>
               <string role="key" value="children"></string>
               <list></list>
              </dictionary>
             </instance>
-            <instance class="exe.engine.node.Node" reference="31">
+            <instance class="exe.engine.node.Node" reference="35">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Clase 4"></unicode>
               <string role="key" value="idevices"></string>
               <list>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="29">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="33">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Enviar un Correo Electrónico"></unicode>
@@ -1511,12 +1753,12 @@ text through the text editing buttons associated with the field."></unicode>
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="30">
+                  <instance class="exe.engine.field.TextAreaField" reference="34">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="126_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="29"></reference>
+                    <reference key="33"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -1544,7 +1786,7 @@ text through the text editing buttons associated with the field."></unicode>
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="30"></reference>
+                      <reference key="34"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -1552,7 +1794,7 @@ text through the text editing buttons associated with the field."></unicode>
                     <string role="key" value="nextImageId"></string>
                     <int value="16"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="31"></reference>
+                    <reference key="35"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -1569,7 +1811,7 @@ text through the text editing buttons associated with the field."></unicode>
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="31"></reference>
+                 <reference key="35"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -1594,20 +1836,20 @@ text through the text editing buttons associated with the field."></unicode>
               <string role="key" value="last_full_node_path"></string>
               <string value="exe-node:Introducci%C3%B3n:Herramientas%20para%20la%20gesti%C3%B3n%20de%20correo%20electr%C3%B3nico:Gmail:Clase%204"></string>
               <string role="key" value="parent"></string>
-              <reference key="11"></reference>
+              <reference key="16"></reference>
               <string role="key" value="top_anchors_linked_from_fields"></string>
               <list></list>
               <string role="key" value="children"></string>
               <list></list>
              </dictionary>
             </instance>
-            <instance class="exe.engine.node.Node" reference="34">
+            <instance class="exe.engine.node.Node" reference="38">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Clase 5"></unicode>
               <string role="key" value="idevices"></string>
               <list>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="32">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="36">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Enviar un Correo Electrónico con CC y CCO en Gmail"></unicode>
@@ -1668,12 +1910,12 @@ text through the text editing buttons associated with the field."></unicode>
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="33">
+                  <instance class="exe.engine.field.TextAreaField" reference="37">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="127_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="32"></reference>
+                    <reference key="36"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -1701,7 +1943,7 @@ text through the text editing buttons associated with the field."></unicode>
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="33"></reference>
+                      <reference key="37"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -1709,7 +1951,7 @@ text through the text editing buttons associated with the field."></unicode>
                     <string role="key" value="nextImageId"></string>
                     <int value="6"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="34"></reference>
+                    <reference key="38"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -1726,7 +1968,7 @@ text through the text editing buttons associated with the field."></unicode>
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="34"></reference>
+                 <reference key="38"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -1751,20 +1993,20 @@ text through the text editing buttons associated with the field."></unicode>
               <string role="key" value="last_full_node_path"></string>
               <string value="exe-node:Introducci%C3%B3n:Herramientas%20para%20la%20gesti%C3%B3n%20de%20correo%20electr%C3%B3nico:Gmail:Clase%205"></string>
               <string role="key" value="parent"></string>
-              <reference key="11"></reference>
+              <reference key="16"></reference>
               <string role="key" value="top_anchors_linked_from_fields"></string>
               <list></list>
               <string role="key" value="children"></string>
               <list></list>
              </dictionary>
             </instance>
-            <instance class="exe.engine.node.Node" reference="37">
+            <instance class="exe.engine.node.Node" reference="41">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Clase 6"></unicode>
               <string role="key" value="idevices"></string>
               <list>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="35">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="39">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Organizar Correos con Etiquetas y Filtros en Gmail"></unicode>
@@ -1825,12 +2067,12 @@ text through the text editing buttons associated with the field."></unicode>
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="36">
+                  <instance class="exe.engine.field.TextAreaField" reference="40">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="128_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="35"></reference>
+                    <reference key="39"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -1858,7 +2100,7 @@ text through the text editing buttons associated with the field."></unicode>
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="36"></reference>
+                      <reference key="40"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -1866,7 +2108,7 @@ text through the text editing buttons associated with the field."></unicode>
                     <string role="key" value="nextImageId"></string>
                     <int value="26"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="37"></reference>
+                    <reference key="41"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -1883,7 +2125,7 @@ text through the text editing buttons associated with the field."></unicode>
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="37"></reference>
+                 <reference key="41"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -1908,20 +2150,20 @@ text through the text editing buttons associated with the field."></unicode>
               <string role="key" value="last_full_node_path"></string>
               <string value="exe-node:Introducci%C3%B3n:Herramientas%20para%20la%20gesti%C3%B3n%20de%20correo%20electr%C3%B3nico:Gmail:Clase%206"></string>
               <string role="key" value="parent"></string>
-              <reference key="11"></reference>
+              <reference key="16"></reference>
               <string role="key" value="top_anchors_linked_from_fields"></string>
               <list></list>
               <string role="key" value="children"></string>
               <list></list>
              </dictionary>
             </instance>
-            <instance class="exe.engine.node.Node" reference="40">
+            <instance class="exe.engine.node.Node" reference="44">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Clase 7"></unicode>
               <string role="key" value="idevices"></string>
               <list>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="38">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="42">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Eliminar Correos en Gmail"></unicode>
@@ -1982,12 +2224,12 @@ text through the text editing buttons associated with the field."></unicode>
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="39">
+                  <instance class="exe.engine.field.TextAreaField" reference="43">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="129_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="38"></reference>
+                    <reference key="42"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -2015,7 +2257,7 @@ text through the text editing buttons associated with the field."></unicode>
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="39"></reference>
+                      <reference key="43"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -2023,7 +2265,7 @@ text through the text editing buttons associated with the field."></unicode>
                     <string role="key" value="nextImageId"></string>
                     <int value="27"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="40"></reference>
+                    <reference key="44"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -2040,7 +2282,7 @@ text through the text editing buttons associated with the field."></unicode>
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="40"></reference>
+                 <reference key="44"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -2065,20 +2307,20 @@ text through the text editing buttons associated with the field."></unicode>
               <string role="key" value="last_full_node_path"></string>
               <string value="exe-node:Introducci%C3%B3n:Herramientas%20para%20la%20gesti%C3%B3n%20de%20correo%20electr%C3%B3nico:Gmail:Clase%207"></string>
               <string role="key" value="parent"></string>
-              <reference key="11"></reference>
+              <reference key="16"></reference>
               <string role="key" value="top_anchors_linked_from_fields"></string>
               <list></list>
               <string role="key" value="children"></string>
               <list></list>
              </dictionary>
             </instance>
-            <instance class="exe.engine.node.Node" reference="43">
+            <instance class="exe.engine.node.Node" reference="47">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Clase 8"></unicode>
               <string role="key" value="idevices"></string>
               <list>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="41">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="45">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Archivar correos Electronicos"></unicode>
@@ -2139,12 +2381,12 @@ text through the text editing buttons associated with the field."></unicode>
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="42">
+                  <instance class="exe.engine.field.TextAreaField" reference="46">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="132_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="41"></reference>
+                    <reference key="45"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -2172,7 +2414,7 @@ text through the text editing buttons associated with the field."></unicode>
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="42"></reference>
+                      <reference key="46"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -2180,7 +2422,7 @@ text through the text editing buttons associated with the field."></unicode>
                     <string role="key" value="nextImageId"></string>
                     <int value="10"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="43"></reference>
+                    <reference key="47"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -2197,7 +2439,7 @@ text through the text editing buttons associated with the field."></unicode>
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="43"></reference>
+                 <reference key="47"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -2222,20 +2464,20 @@ text through the text editing buttons associated with the field."></unicode>
               <string role="key" value="last_full_node_path"></string>
               <string value="exe-node:Introducci%C3%B3n:Herramientas%20para%20la%20gesti%C3%B3n%20de%20correo%20electr%C3%B3nico:Gmail:Clase%208"></string>
               <string role="key" value="parent"></string>
-              <reference key="11"></reference>
+              <reference key="16"></reference>
               <string role="key" value="top_anchors_linked_from_fields"></string>
               <list></list>
               <string role="key" value="children"></string>
               <list></list>
              </dictionary>
             </instance>
-            <instance class="exe.engine.node.Node" reference="46">
+            <instance class="exe.engine.node.Node" reference="50">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Clase 9"></unicode>
               <string role="key" value="idevices"></string>
               <list>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="44">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="48">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Entender y Responder Correos en Gmail"></unicode>
@@ -2296,12 +2538,12 @@ text through the text editing buttons associated with the field."></unicode>
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="45">
+                  <instance class="exe.engine.field.TextAreaField" reference="49">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="130_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="44"></reference>
+                    <reference key="48"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -2329,7 +2571,7 @@ text through the text editing buttons associated with the field."></unicode>
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="45"></reference>
+                      <reference key="49"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -2337,7 +2579,7 @@ text through the text editing buttons associated with the field."></unicode>
                     <string role="key" value="nextImageId"></string>
                     <int value="16"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="46"></reference>
+                    <reference key="50"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -2354,7 +2596,7 @@ text through the text editing buttons associated with the field."></unicode>
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="46"></reference>
+                 <reference key="50"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -2379,20 +2621,20 @@ text through the text editing buttons associated with the field."></unicode>
               <string role="key" value="last_full_node_path"></string>
               <string value="exe-node:Introducci%C3%B3n:Herramientas%20para%20la%20gesti%C3%B3n%20de%20correo%20electr%C3%B3nico:Gmail:Clase%209"></string>
               <string role="key" value="parent"></string>
-              <reference key="11"></reference>
+              <reference key="16"></reference>
               <string role="key" value="top_anchors_linked_from_fields"></string>
               <list></list>
               <string role="key" value="children"></string>
               <list></list>
              </dictionary>
             </instance>
-            <instance class="exe.engine.node.Node" reference="49">
+            <instance class="exe.engine.node.Node" reference="53">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Clase 10"></unicode>
               <string role="key" value="idevices"></string>
               <list>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="47">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="51">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Añadir y Gestionar Contactos en Gmail"></unicode>
@@ -2453,12 +2695,12 @@ text through the text editing buttons associated with the field."></unicode>
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="48">
+                  <instance class="exe.engine.field.TextAreaField" reference="52">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="131_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="47"></reference>
+                    <reference key="51"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -2486,7 +2728,7 @@ text through the text editing buttons associated with the field."></unicode>
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="48"></reference>
+                      <reference key="52"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -2494,7 +2736,7 @@ text through the text editing buttons associated with the field."></unicode>
                     <string role="key" value="nextImageId"></string>
                     <int value="20"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="49"></reference>
+                    <reference key="53"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -2511,7 +2753,7 @@ text through the text editing buttons associated with the field."></unicode>
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="49"></reference>
+                 <reference key="53"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -2536,7 +2778,7 @@ text through the text editing buttons associated with the field."></unicode>
               <string role="key" value="last_full_node_path"></string>
               <string value="exe-node:Introducci%C3%B3n:Herramientas%20para%20la%20gesti%C3%B3n%20de%20correo%20electr%C3%B3nico:Gmail:Clase%2010"></string>
               <string role="key" value="parent"></string>
-              <reference key="11"></reference>
+              <reference key="16"></reference>
               <string role="key" value="top_anchors_linked_from_fields"></string>
               <list></list>
               <string role="key" value="children"></string>
@@ -2546,12 +2788,315 @@ text through the text editing buttons associated with the field."></unicode>
            </list>
           </dictionary>
          </instance>
-         <instance class="exe.engine.node.Node" reference="50">
+         <instance class="exe.engine.node.Node" reference="56">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Outlook"></unicode>
            <string role="key" value="idevices"></string>
-           <list></list>
+           <list>
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="54">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Introducción"></unicode>
+              <string role="key" value="_attributes"></string>
+              <list>
+               <tuple>
+                <string value="title"></string>
+                <list>
+                 <string value="Title"></string>
+                 <int value="0"></int>
+                 <int value="0"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="category"></string>
+                <list>
+                 <string value="Category"></string>
+                 <int value="0"></int>
+                 <int value="1"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="css-class"></string>
+                <list>
+                 <string value="CSS class"></string>
+                 <int value="0"></int>
+                 <int value="2"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="icon"></string>
+                <list>
+                 <string value="Icon"></string>
+                 <int value="0"></int>
+                 <int value="3"></int>
+                </list>
+               </tuple>
+              </list>
+              <string role="key" value="_author"></string>
+              <string value=""></string>
+              <string role="key" value="_iDeviceDir"></string>
+              <string value="text"></string>
+              <string role="key" value="_purpose"></string>
+              <string value=""></string>
+              <string role="key" value="_tip"></string>
+              <string value=""></string>
+              <string role="key" value="_typeName"></string>
+              <unicode value="Text"></unicode>
+              <string role="key" value="_valid"></string>
+              <bool value="1"></bool>
+              <string role="key" value="class_"></string>
+              <unicode value="text"></unicode>
+              <string role="key" value="edit"></string>
+              <bool value="0"></bool>
+              <string role="key" value="emphasis"></string>
+              <int value="1"></int>
+              <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+              <int value="1"></int>
+              <string role="key" value="fields"></string>
+              <list>
+               <instance class="exe.engine.field.TextAreaField" reference="55">
+                <dictionary>
+                 <string role="key" value="_id"></string>
+                 <unicode value="138_2"></unicode>
+                 <string role="key" value="_idevice"></string>
+                 <reference key="54"></reference>
+                 <string role="key" value="_instruc"></string>
+                 <string value=""></string>
+                 <string role="key" value="_name"></string>
+                 <string value=""></string>
+                 <string role="key" value="anchor_names"></string>
+                 <list></list>
+                 <string role="key" value="content_w_resourcePaths"></string>
+                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Outlook es una parte de Microsoft Office que te ayuda a manejar tus correos, contactos, calendarios y tareas de manera fácil. Si eres nuevo en la tecnología o ya sabes mucho, Outlook está hecho para todos.&lt;br /&gt;En tu Bandeja de Entrada, recibes tus correos, y en la Bandeja de Salida, ves los correos que estás enviando. Los Contactos te permiten tener organizada tu lista de personas importantes, y el Calendario te ayuda a planificar eventos y recordatorios.&lt;br /&gt;Este manual te enseñará paso a paso cómo iniciar sesión en Outlook, solo necesitas tu correo y contraseña. Te mostraremos cómo enviar correos y organizar tus contactos. Además, aprenderás a usar el Calendario para no olvidar fechas importantes.&lt;br /&gt;Si alguna vez te preguntas cómo adjuntar archivos a tus correos, también te lo explicaremos. Queremos que encuentres en Outlook una herramienta fácil de usar que te ayude a ser más eficiente en la comunicación y organización de tus tareas.&lt;/p&gt;&lt;/div&gt;"></unicode>
+                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                 <int value="4"></int>
+                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                 <int value="2"></int>
+                 <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                 <int value="3"></int>
+                 <string role="key" value="htmlTag"></string>
+                 <string value="div"></string>
+                 <string role="key" value="images"></string>
+                 <instance class="exe.engine.galleryidevice.GalleryImages">
+                  <dictionary>
+                   <string role="key" value=".listitems"></string>
+                   <list></list>
+                   <string role="key" value="idevice"></string>
+                   <reference key="55"></reference>
+                  </dictionary>
+                 </instance>
+                 <string role="key" value="intlinks_to_anchors"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="nextImageId"></string>
+                 <int value="0"></int>
+                 <string role="key" value="parentNode"></string>
+                 <none></none>
+                </dictionary>
+               </instance>
+              </list>
+              <string role="key" value="icon"></string>
+              <unicode value=""></unicode>
+              <string role="key" value="id"></string>
+              <unicode value="107"></unicode>
+              <string role="key" value="ideviceCategory"></string>
+              <unicode value="Text and Tasks"></unicode>
+              <string role="key" value="lastIdevice"></string>
+              <bool value="0"></bool>
+              <string role="key" value="nextFieldId"></string>
+              <int value="3"></int>
+              <string role="key" value="originalicon"></string>
+              <string value=""></string>
+              <string role="key" value="parentNode"></string>
+              <reference key="56"></reference>
+              <string role="key" value="systemResources"></string>
+              <list></list>
+              <string role="key" value="undo"></string>
+              <bool value="1"></bool>
+              <string role="key" value="userResources"></string>
+              <list></list>
+              <string role="key" value="version"></string>
+              <int value="0"></int>
+             </dictionary>
+            </instance>
+            <instance class="exe.engine.fileattachidevice.FileAttachIdeviceInc" reference="57">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="File Attachments"></unicode>
+              <string role="key" value="_author"></string>
+              <unicode value="Toughra Technologies FZ LLC."></unicode>
+              <string role="key" value="_purpose"></string>
+              <unicode value="File Attachments Idevice."></unicode>
+              <string role="key" value="_tip"></string>
+              <string value=""></string>
+              <string role="key" value="_typeName"></string>
+              <unicode value="File Attachments"></unicode>
+              <string role="key" value="edit"></string>
+              <bool value="0"></bool>
+              <string role="key" value="emphasis"></string>
+              <int value="1"></int>
+              <string role="key" value="exe.engine.fileattachidevice.FileAttachIdeviceInc.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="fileAttachmentFields"></string>
+              <list>
+               <instance class="exe.engine.extendedfieldengine.FileField" reference="58">
+                <dictionary>
+                 <string role="key" value="_id"></string>
+                 <int value="83"></int>
+                 <string role="key" value="_idevice"></string>
+                 <reference key="57"></reference>
+                 <string role="key" value="_instruc"></string>
+                 <string value="File Field Help"></string>
+                 <string role="key" value="_name"></string>
+                 <string value="File Field"></string>
+                 <string role="key" value="alwaysNameTo"></string>
+                 <none></none>
+                 <string role="key" value="exe.engine.extendedfieldengine.FileField.persistenceVersion"></string>
+                 <int value="5"></int>
+                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                 <int value="4"></int>
+                 <string role="key" value="fileDescription"></string>
+                 <instance class="exe.engine.field.TextField">
+                  <dictionary>
+                   <string role="key" value="_id"></string>
+                   <int value="84"></int>
+                   <string role="key" value="_idevice"></string>
+                   <reference key="58"></reference>
+                   <string role="key" value="_instruc"></string>
+                   <string value=""></string>
+                   <string role="key" value="_name"></string>
+                   <string value="Description"></string>
+                   <string role="key" value="content"></string>
+                   <unicode value="Manual Outlook.pdf"></unicode>
+                   <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                   <int value="4"></int>
+                  </dictionary>
+                 </instance>
+                 <string role="key" value="fileInstruc"></string>
+                 <unicode value="Subir un fichero. Elimine los caracteres especiales del nombre del fichero y la ruta del archivo."></unicode>
+                 <string role="key" value="fileResource"></string>
+                 <instance class="exe.engine.resource.Resource" reference="60">
+                  <dictionary>
+                   <string role="key" value="_idevice"></string>
+                   <reference key="57"></reference>
+                   <string role="key" value="_package"></string>
+                   <reference key="2"></reference>
+                   <string role="key" value="_storageName"></string>
+                   <string value="Manual Outlook.pdf"></string>
+                   <string role="key" value="_userName"></string>
+                   <string value="D:\\Repositorios LudoLab\\PagInclusion\\PagInclusion\\OAsHTML\\Inclusion\\Herramientas_para_Gestion_Correo\\Herramientas_pargestion_de_correo_electronico\\Manual Outlook.pdf"></string>
+                   <string role="key" value="checksum"></string>
+                   <string value="4b5a4111657779466847d7d306ef0f9e"></string>
+                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                   <int value="2"></int>
+                   <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                   <int value="2"></int>
+                   <string role="key" value="warningMsg"></string>
+                   <string value=""></string>
+                  </dictionary>
+                 </instance>
+                </dictionary>
+               </instance>
+              </list>
+              <string role="key" value="fileAttachmentsDesc"></string>
+              <list></list>
+              <string role="key" value="icon"></string>
+              <string value="assignment"></string>
+              <string role="key" value="id"></string>
+              <unicode value="108"></unicode>
+              <string role="key" value="introHTML"></string>
+              <instance class="exe.engine.field.TextAreaField" reference="59">
+               <dictionary>
+                <string role="key" value="_id"></string>
+                <int value="82"></int>
+                <string role="key" value="_idevice"></string>
+                <reference key="57"></reference>
+                <string role="key" value="_instruc"></string>
+                <string value="Instructions"></string>
+                <string role="key" value="_name"></string>
+                <string value="Instructions"></string>
+                <string role="key" value="anchor_names"></string>
+                <list></list>
+                <string role="key" value="anchors_linked_from_fields"></string>
+                <dictionary></dictionary>
+                <string role="key" value="content_w_resourcePaths"></string>
+                <unicode content="true" value=""></unicode>
+                <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                <int value="4"></int>
+                <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                <int value="2"></int>
+                <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                <int value="3"></int>
+                <string role="key" value="htmlTag"></string>
+                <string value="div"></string>
+                <string role="key" value="images"></string>
+                <instance class="exe.engine.galleryidevice.GalleryImages">
+                 <dictionary>
+                  <string role="key" value=".listitems"></string>
+                  <list></list>
+                  <string role="key" value="idevice"></string>
+                  <reference key="59"></reference>
+                 </dictionary>
+                </instance>
+                <string role="key" value="intlinks_to_anchors"></string>
+                <dictionary></dictionary>
+                <string role="key" value="nextImageId"></string>
+                <int value="0"></int>
+                <string role="key" value="parentNode"></string>
+                <none></none>
+               </dictionary>
+              </instance>
+              <string role="key" value="lastIdevice"></string>
+              <bool value="0"></bool>
+              <string role="key" value="message"></string>
+              <string value=""></string>
+              <string role="key" value="originalicon"></string>
+              <string value=""></string>
+              <string role="key" value="parentNode"></string>
+              <reference key="56"></reference>
+              <string role="key" value="showDesc"></string>
+              <instance class="exe.engine.extendedfieldengine.ChoiceField">
+               <dictionary>
+                <string role="key" value="_id"></string>
+                <int value="81"></int>
+                <string role="key" value="_idevice"></string>
+                <reference key="57"></reference>
+                <string role="key" value="_instruc"></string>
+                <string value="Show Description"></string>
+                <string role="key" value="_name"></string>
+                <string value="Show description and link"></string>
+                <string role="key" value="content"></string>
+                <unicode value="yes"></unicode>
+                <string role="key" value="exe.engine.extendedfieldengine.ChoiceField.persistenceVersion"></string>
+                <int value="3"></int>
+                <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                <int value="4"></int>
+                <string role="key" value="options"></string>
+                <list>
+                 <list>
+                  <string value="yes"></string>
+                  <string value="Yes"></string>
+                 </list>
+                 <list>
+                  <string value="no"></string>
+                  <string value="No"></string>
+                 </list>
+                </list>
+               </dictionary>
+              </instance>
+              <string role="key" value="systemResources"></string>
+              <list></list>
+              <string role="key" value="undo"></string>
+              <bool value="0"></bool>
+              <string role="key" value="userResources"></string>
+              <list>
+               <reference key="60"></reference>
+              </list>
+              <string role="key" value="version"></string>
+              <int value="0"></int>
+             </dictionary>
+            </instance>
+           </list>
            <string role="key" value="_id"></string>
            <unicode value="21"></unicode>
            <string role="key" value="_package"></string>
@@ -2565,17 +3110,145 @@ text through the text editing buttons associated with the field."></unicode>
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:Introducci%C3%B3n:Herramientas%20para%20la%20gesti%C3%B3n%20de%20correo%20electr%C3%B3nico:Outlook"></string>
            <string role="key" value="parent"></string>
-           <reference key="19"></reference>
+           <reference key="11"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
            <list></list>
            <string role="key" value="children"></string>
            <list>
-            <instance class="exe.engine.node.Node" reference="60">
+            <instance class="exe.engine.node.Node" reference="63">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Clase 1"></unicode>
               <string role="key" value="idevices"></string>
-              <list></list>
+              <list>
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="61">
+                <dictionary>
+                 <string role="key" value="_title"></string>
+                 <unicode value="Registro en Outlook"></unicode>
+                 <string role="key" value="_attributes"></string>
+                 <list>
+                  <tuple>
+                   <string value="title"></string>
+                   <list>
+                    <string value="Title"></string>
+                    <int value="0"></int>
+                    <int value="0"></int>
+                   </list>
+                  </tuple>
+                  <tuple>
+                   <string value="category"></string>
+                   <list>
+                    <string value="Category"></string>
+                    <int value="0"></int>
+                    <int value="1"></int>
+                   </list>
+                  </tuple>
+                  <tuple>
+                   <string value="css-class"></string>
+                   <list>
+                    <string value="CSS class"></string>
+                    <int value="0"></int>
+                    <int value="2"></int>
+                   </list>
+                  </tuple>
+                  <tuple>
+                   <string value="icon"></string>
+                   <list>
+                    <string value="Icon"></string>
+                    <int value="0"></int>
+                    <int value="3"></int>
+                   </list>
+                  </tuple>
+                 </list>
+                 <string role="key" value="_author"></string>
+                 <string value=""></string>
+                 <string role="key" value="_iDeviceDir"></string>
+                 <string value="text"></string>
+                 <string role="key" value="_purpose"></string>
+                 <string value=""></string>
+                 <string role="key" value="_tip"></string>
+                 <string value=""></string>
+                 <string role="key" value="_typeName"></string>
+                 <unicode value="Text"></unicode>
+                 <string role="key" value="_valid"></string>
+                 <bool value="1"></bool>
+                 <string role="key" value="class_"></string>
+                 <unicode value="text"></unicode>
+                 <string role="key" value="edit"></string>
+                 <bool value="0"></bool>
+                 <string role="key" value="emphasis"></string>
+                 <int value="1"></int>
+                 <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+                 <int value="1"></int>
+                 <string role="key" value="fields"></string>
+                 <list>
+                  <instance class="exe.engine.field.TextAreaField" reference="62">
+                   <dictionary>
+                    <string role="key" value="_id"></string>
+                    <unicode value="150_2"></unicode>
+                    <string role="key" value="_idevice"></string>
+                    <reference key="61"></reference>
+                    <string role="key" value="_instruc"></string>
+                    <string value=""></string>
+                    <string role="key" value="_name"></string>
+                    <string value=""></string>
+                    <string role="key" value="anchor_names"></string>
+                    <list></list>
+                    <string role="key" value="anchors_linked_from_fields"></string>
+                    <dictionary></dictionary>
+                    <string role="key" value="content_w_resourcePaths"></string>
+                    <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: center;&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;314&quot; src=&quot;https://www.youtube.com/embed/zuktA_c1SnM&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                    <int value="4"></int>
+                    <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                    <int value="2"></int>
+                    <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                    <int value="3"></int>
+                    <string role="key" value="htmlTag"></string>
+                    <string value="div"></string>
+                    <string role="key" value="images"></string>
+                    <instance class="exe.engine.galleryidevice.GalleryImages">
+                     <dictionary>
+                      <string role="key" value=".listitems"></string>
+                      <list></list>
+                      <string role="key" value="idevice"></string>
+                      <reference key="62"></reference>
+                     </dictionary>
+                    </instance>
+                    <string role="key" value="intlinks_to_anchors"></string>
+                    <dictionary></dictionary>
+                    <string role="key" value="nextImageId"></string>
+                    <int value="0"></int>
+                    <string role="key" value="parentNode"></string>
+                    <reference key="63"></reference>
+                   </dictionary>
+                  </instance>
+                 </list>
+                 <string role="key" value="icon"></string>
+                 <unicode value=""></unicode>
+                 <string role="key" value="id"></string>
+                 <unicode value="96"></unicode>
+                 <string role="key" value="ideviceCategory"></string>
+                 <unicode value="Text and Tasks"></unicode>
+                 <string role="key" value="lastIdevice"></string>
+                 <bool value="0"></bool>
+                 <string role="key" value="nextFieldId"></string>
+                 <int value="3"></int>
+                 <string role="key" value="originalicon"></string>
+                 <string value=""></string>
+                 <string role="key" value="parentNode"></string>
+                 <reference key="63"></reference>
+                 <string role="key" value="systemResources"></string>
+                 <list></list>
+                 <string role="key" value="undo"></string>
+                 <bool value="1"></bool>
+                 <string role="key" value="userResources"></string>
+                 <list></list>
+                 <string role="key" value="version"></string>
+                 <int value="0"></int>
+                </dictionary>
+               </instance>
+              </list>
               <string role="key" value="_id"></string>
               <unicode value="32"></unicode>
               <string role="key" value="_package"></string>
@@ -2589,19 +3262,147 @@ text through the text editing buttons associated with the field."></unicode>
               <string role="key" value="last_full_node_path"></string>
               <string value="exe-node:Introducci%C3%B3n:Herramientas%20para%20la%20gesti%C3%B3n%20de%20correo%20electr%C3%B3nico:Outlook:Clase%201"></string>
               <string role="key" value="parent"></string>
-              <reference key="50"></reference>
+              <reference key="56"></reference>
               <string role="key" value="top_anchors_linked_from_fields"></string>
               <list></list>
               <string role="key" value="children"></string>
               <list></list>
              </dictionary>
             </instance>
-            <instance class="exe.engine.node.Node" reference="61">
+            <instance class="exe.engine.node.Node" reference="66">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Clase 2"></unicode>
               <string role="key" value="idevices"></string>
-              <list></list>
+              <list>
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="64">
+                <dictionary>
+                 <string role="key" value="_title"></string>
+                 <unicode value="Iniciar Sesión"></unicode>
+                 <string role="key" value="_attributes"></string>
+                 <list>
+                  <tuple>
+                   <string value="title"></string>
+                   <list>
+                    <string value="Title"></string>
+                    <int value="0"></int>
+                    <int value="0"></int>
+                   </list>
+                  </tuple>
+                  <tuple>
+                   <string value="category"></string>
+                   <list>
+                    <string value="Category"></string>
+                    <int value="0"></int>
+                    <int value="1"></int>
+                   </list>
+                  </tuple>
+                  <tuple>
+                   <string value="css-class"></string>
+                   <list>
+                    <string value="CSS class"></string>
+                    <int value="0"></int>
+                    <int value="2"></int>
+                   </list>
+                  </tuple>
+                  <tuple>
+                   <string value="icon"></string>
+                   <list>
+                    <string value="Icon"></string>
+                    <int value="0"></int>
+                    <int value="3"></int>
+                   </list>
+                  </tuple>
+                 </list>
+                 <string role="key" value="_author"></string>
+                 <string value=""></string>
+                 <string role="key" value="_iDeviceDir"></string>
+                 <string value="text"></string>
+                 <string role="key" value="_purpose"></string>
+                 <string value=""></string>
+                 <string role="key" value="_tip"></string>
+                 <string value=""></string>
+                 <string role="key" value="_typeName"></string>
+                 <unicode value="Text"></unicode>
+                 <string role="key" value="_valid"></string>
+                 <bool value="1"></bool>
+                 <string role="key" value="class_"></string>
+                 <unicode value="text"></unicode>
+                 <string role="key" value="edit"></string>
+                 <bool value="0"></bool>
+                 <string role="key" value="emphasis"></string>
+                 <int value="1"></int>
+                 <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+                 <int value="1"></int>
+                 <string role="key" value="fields"></string>
+                 <list>
+                  <instance class="exe.engine.field.TextAreaField" reference="65">
+                   <dictionary>
+                    <string role="key" value="_id"></string>
+                    <unicode value="151_2"></unicode>
+                    <string role="key" value="_idevice"></string>
+                    <reference key="64"></reference>
+                    <string role="key" value="_instruc"></string>
+                    <string value=""></string>
+                    <string role="key" value="_name"></string>
+                    <string value=""></string>
+                    <string role="key" value="anchor_names"></string>
+                    <list></list>
+                    <string role="key" value="anchors_linked_from_fields"></string>
+                    <dictionary></dictionary>
+                    <string role="key" value="content_w_resourcePaths"></string>
+                    <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: center;&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;314&quot; src=&quot;https://www.youtube.com/embed/YXDvORWDWss&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                    <int value="4"></int>
+                    <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                    <int value="2"></int>
+                    <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                    <int value="3"></int>
+                    <string role="key" value="htmlTag"></string>
+                    <string value="div"></string>
+                    <string role="key" value="images"></string>
+                    <instance class="exe.engine.galleryidevice.GalleryImages">
+                     <dictionary>
+                      <string role="key" value=".listitems"></string>
+                      <list></list>
+                      <string role="key" value="idevice"></string>
+                      <reference key="65"></reference>
+                     </dictionary>
+                    </instance>
+                    <string role="key" value="intlinks_to_anchors"></string>
+                    <dictionary></dictionary>
+                    <string role="key" value="nextImageId"></string>
+                    <int value="0"></int>
+                    <string role="key" value="parentNode"></string>
+                    <reference key="66"></reference>
+                   </dictionary>
+                  </instance>
+                 </list>
+                 <string role="key" value="icon"></string>
+                 <unicode value=""></unicode>
+                 <string role="key" value="id"></string>
+                 <unicode value="97"></unicode>
+                 <string role="key" value="ideviceCategory"></string>
+                 <unicode value="Text and Tasks"></unicode>
+                 <string role="key" value="lastIdevice"></string>
+                 <bool value="0"></bool>
+                 <string role="key" value="nextFieldId"></string>
+                 <int value="3"></int>
+                 <string role="key" value="originalicon"></string>
+                 <string value=""></string>
+                 <string role="key" value="parentNode"></string>
+                 <reference key="66"></reference>
+                 <string role="key" value="systemResources"></string>
+                 <list></list>
+                 <string role="key" value="undo"></string>
+                 <bool value="1"></bool>
+                 <string role="key" value="userResources"></string>
+                 <list></list>
+                 <string role="key" value="version"></string>
+                 <int value="0"></int>
+                </dictionary>
+               </instance>
+              </list>
               <string role="key" value="_id"></string>
               <unicode value="33"></unicode>
               <string role="key" value="_package"></string>
@@ -2615,19 +3416,147 @@ text through the text editing buttons associated with the field."></unicode>
               <string role="key" value="last_full_node_path"></string>
               <string value="exe-node:Introducci%C3%B3n:Herramientas%20para%20la%20gesti%C3%B3n%20de%20correo%20electr%C3%B3nico:Outlook:Clase%202"></string>
               <string role="key" value="parent"></string>
-              <reference key="50"></reference>
+              <reference key="56"></reference>
               <string role="key" value="top_anchors_linked_from_fields"></string>
               <list></list>
               <string role="key" value="children"></string>
               <list></list>
              </dictionary>
             </instance>
-            <instance class="exe.engine.node.Node" reference="62">
+            <instance class="exe.engine.node.Node" reference="69">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Clase 3"></unicode>
               <string role="key" value="idevices"></string>
-              <list></list>
+              <list>
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="67">
+                <dictionary>
+                 <string role="key" value="_title"></string>
+                 <unicode value="Exploración de interfaz"></unicode>
+                 <string role="key" value="_attributes"></string>
+                 <list>
+                  <tuple>
+                   <string value="title"></string>
+                   <list>
+                    <string value="Title"></string>
+                    <int value="0"></int>
+                    <int value="0"></int>
+                   </list>
+                  </tuple>
+                  <tuple>
+                   <string value="category"></string>
+                   <list>
+                    <string value="Category"></string>
+                    <int value="0"></int>
+                    <int value="1"></int>
+                   </list>
+                  </tuple>
+                  <tuple>
+                   <string value="css-class"></string>
+                   <list>
+                    <string value="CSS class"></string>
+                    <int value="0"></int>
+                    <int value="2"></int>
+                   </list>
+                  </tuple>
+                  <tuple>
+                   <string value="icon"></string>
+                   <list>
+                    <string value="Icon"></string>
+                    <int value="0"></int>
+                    <int value="3"></int>
+                   </list>
+                  </tuple>
+                 </list>
+                 <string role="key" value="_author"></string>
+                 <string value=""></string>
+                 <string role="key" value="_iDeviceDir"></string>
+                 <string value="text"></string>
+                 <string role="key" value="_purpose"></string>
+                 <string value=""></string>
+                 <string role="key" value="_tip"></string>
+                 <string value=""></string>
+                 <string role="key" value="_typeName"></string>
+                 <unicode value="Text"></unicode>
+                 <string role="key" value="_valid"></string>
+                 <bool value="1"></bool>
+                 <string role="key" value="class_"></string>
+                 <unicode value="text"></unicode>
+                 <string role="key" value="edit"></string>
+                 <bool value="0"></bool>
+                 <string role="key" value="emphasis"></string>
+                 <int value="1"></int>
+                 <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+                 <int value="1"></int>
+                 <string role="key" value="fields"></string>
+                 <list>
+                  <instance class="exe.engine.field.TextAreaField" reference="68">
+                   <dictionary>
+                    <string role="key" value="_id"></string>
+                    <unicode value="152_2"></unicode>
+                    <string role="key" value="_idevice"></string>
+                    <reference key="67"></reference>
+                    <string role="key" value="_instruc"></string>
+                    <string value=""></string>
+                    <string role="key" value="_name"></string>
+                    <string value=""></string>
+                    <string role="key" value="anchor_names"></string>
+                    <list></list>
+                    <string role="key" value="anchors_linked_from_fields"></string>
+                    <dictionary></dictionary>
+                    <string role="key" value="content_w_resourcePaths"></string>
+                    <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: center;&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;314&quot; src=&quot;https://www.youtube.com/embed/zOtqsH9Mdz4&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                    <int value="4"></int>
+                    <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                    <int value="2"></int>
+                    <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                    <int value="3"></int>
+                    <string role="key" value="htmlTag"></string>
+                    <string value="div"></string>
+                    <string role="key" value="images"></string>
+                    <instance class="exe.engine.galleryidevice.GalleryImages">
+                     <dictionary>
+                      <string role="key" value=".listitems"></string>
+                      <list></list>
+                      <string role="key" value="idevice"></string>
+                      <reference key="68"></reference>
+                     </dictionary>
+                    </instance>
+                    <string role="key" value="intlinks_to_anchors"></string>
+                    <dictionary></dictionary>
+                    <string role="key" value="nextImageId"></string>
+                    <int value="0"></int>
+                    <string role="key" value="parentNode"></string>
+                    <reference key="69"></reference>
+                   </dictionary>
+                  </instance>
+                 </list>
+                 <string role="key" value="icon"></string>
+                 <unicode value=""></unicode>
+                 <string role="key" value="id"></string>
+                 <unicode value="98"></unicode>
+                 <string role="key" value="ideviceCategory"></string>
+                 <unicode value="Text and Tasks"></unicode>
+                 <string role="key" value="lastIdevice"></string>
+                 <bool value="0"></bool>
+                 <string role="key" value="nextFieldId"></string>
+                 <int value="3"></int>
+                 <string role="key" value="originalicon"></string>
+                 <string value=""></string>
+                 <string role="key" value="parentNode"></string>
+                 <reference key="69"></reference>
+                 <string role="key" value="systemResources"></string>
+                 <list></list>
+                 <string role="key" value="undo"></string>
+                 <bool value="1"></bool>
+                 <string role="key" value="userResources"></string>
+                 <list></list>
+                 <string role="key" value="version"></string>
+                 <int value="0"></int>
+                </dictionary>
+               </instance>
+              </list>
               <string role="key" value="_id"></string>
               <unicode value="34"></unicode>
               <string role="key" value="_package"></string>
@@ -2641,19 +3570,147 @@ text through the text editing buttons associated with the field."></unicode>
               <string role="key" value="last_full_node_path"></string>
               <string value="exe-node:Introducci%C3%B3n:Herramientas%20para%20la%20gesti%C3%B3n%20de%20correo%20electr%C3%B3nico:Outlook:Clase%203"></string>
               <string role="key" value="parent"></string>
-              <reference key="50"></reference>
+              <reference key="56"></reference>
               <string role="key" value="top_anchors_linked_from_fields"></string>
               <list></list>
               <string role="key" value="children"></string>
               <list></list>
              </dictionary>
             </instance>
-            <instance class="exe.engine.node.Node" reference="63">
+            <instance class="exe.engine.node.Node" reference="72">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Clase 4"></unicode>
               <string role="key" value="idevices"></string>
-              <list></list>
+              <list>
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="70">
+                <dictionary>
+                 <string role="key" value="_title"></string>
+                 <unicode value="Envío de correos"></unicode>
+                 <string role="key" value="_attributes"></string>
+                 <list>
+                  <tuple>
+                   <string value="title"></string>
+                   <list>
+                    <string value="Title"></string>
+                    <int value="0"></int>
+                    <int value="0"></int>
+                   </list>
+                  </tuple>
+                  <tuple>
+                   <string value="category"></string>
+                   <list>
+                    <string value="Category"></string>
+                    <int value="0"></int>
+                    <int value="1"></int>
+                   </list>
+                  </tuple>
+                  <tuple>
+                   <string value="css-class"></string>
+                   <list>
+                    <string value="CSS class"></string>
+                    <int value="0"></int>
+                    <int value="2"></int>
+                   </list>
+                  </tuple>
+                  <tuple>
+                   <string value="icon"></string>
+                   <list>
+                    <string value="Icon"></string>
+                    <int value="0"></int>
+                    <int value="3"></int>
+                   </list>
+                  </tuple>
+                 </list>
+                 <string role="key" value="_author"></string>
+                 <string value=""></string>
+                 <string role="key" value="_iDeviceDir"></string>
+                 <string value="text"></string>
+                 <string role="key" value="_purpose"></string>
+                 <string value=""></string>
+                 <string role="key" value="_tip"></string>
+                 <string value=""></string>
+                 <string role="key" value="_typeName"></string>
+                 <unicode value="Text"></unicode>
+                 <string role="key" value="_valid"></string>
+                 <bool value="1"></bool>
+                 <string role="key" value="class_"></string>
+                 <unicode value="text"></unicode>
+                 <string role="key" value="edit"></string>
+                 <bool value="0"></bool>
+                 <string role="key" value="emphasis"></string>
+                 <int value="1"></int>
+                 <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+                 <int value="1"></int>
+                 <string role="key" value="fields"></string>
+                 <list>
+                  <instance class="exe.engine.field.TextAreaField" reference="71">
+                   <dictionary>
+                    <string role="key" value="_id"></string>
+                    <unicode value="153_2"></unicode>
+                    <string role="key" value="_idevice"></string>
+                    <reference key="70"></reference>
+                    <string role="key" value="_instruc"></string>
+                    <string value=""></string>
+                    <string role="key" value="_name"></string>
+                    <string value=""></string>
+                    <string role="key" value="anchor_names"></string>
+                    <list></list>
+                    <string role="key" value="anchors_linked_from_fields"></string>
+                    <dictionary></dictionary>
+                    <string role="key" value="content_w_resourcePaths"></string>
+                    <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: center;&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;314&quot; src=&quot;https://www.youtube.com/embed/dmYs5QkkJyY&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                    <int value="4"></int>
+                    <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                    <int value="2"></int>
+                    <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                    <int value="3"></int>
+                    <string role="key" value="htmlTag"></string>
+                    <string value="div"></string>
+                    <string role="key" value="images"></string>
+                    <instance class="exe.engine.galleryidevice.GalleryImages">
+                     <dictionary>
+                      <string role="key" value=".listitems"></string>
+                      <list></list>
+                      <string role="key" value="idevice"></string>
+                      <reference key="71"></reference>
+                     </dictionary>
+                    </instance>
+                    <string role="key" value="intlinks_to_anchors"></string>
+                    <dictionary></dictionary>
+                    <string role="key" value="nextImageId"></string>
+                    <int value="0"></int>
+                    <string role="key" value="parentNode"></string>
+                    <reference key="72"></reference>
+                   </dictionary>
+                  </instance>
+                 </list>
+                 <string role="key" value="icon"></string>
+                 <unicode value=""></unicode>
+                 <string role="key" value="id"></string>
+                 <unicode value="99"></unicode>
+                 <string role="key" value="ideviceCategory"></string>
+                 <unicode value="Text and Tasks"></unicode>
+                 <string role="key" value="lastIdevice"></string>
+                 <bool value="0"></bool>
+                 <string role="key" value="nextFieldId"></string>
+                 <int value="3"></int>
+                 <string role="key" value="originalicon"></string>
+                 <string value=""></string>
+                 <string role="key" value="parentNode"></string>
+                 <reference key="72"></reference>
+                 <string role="key" value="systemResources"></string>
+                 <list></list>
+                 <string role="key" value="undo"></string>
+                 <bool value="1"></bool>
+                 <string role="key" value="userResources"></string>
+                 <list></list>
+                 <string role="key" value="version"></string>
+                 <int value="0"></int>
+                </dictionary>
+               </instance>
+              </list>
               <string role="key" value="_id"></string>
               <unicode value="35"></unicode>
               <string role="key" value="_package"></string>
@@ -2667,19 +3724,147 @@ text through the text editing buttons associated with the field."></unicode>
               <string role="key" value="last_full_node_path"></string>
               <string value="exe-node:Introducci%C3%B3n:Herramientas%20para%20la%20gesti%C3%B3n%20de%20correo%20electr%C3%B3nico:Outlook:Clase%204"></string>
               <string role="key" value="parent"></string>
-              <reference key="50"></reference>
+              <reference key="56"></reference>
               <string role="key" value="top_anchors_linked_from_fields"></string>
               <list></list>
               <string role="key" value="children"></string>
               <list></list>
              </dictionary>
             </instance>
-            <instance class="exe.engine.node.Node" reference="64">
+            <instance class="exe.engine.node.Node" reference="75">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Clase 5"></unicode>
               <string role="key" value="idevices"></string>
-              <list></list>
+              <list>
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="73">
+                <dictionary>
+                 <string role="key" value="_title"></string>
+                 <unicode value="Adjuntar archivos y responder correos"></unicode>
+                 <string role="key" value="_attributes"></string>
+                 <list>
+                  <tuple>
+                   <string value="title"></string>
+                   <list>
+                    <string value="Title"></string>
+                    <int value="0"></int>
+                    <int value="0"></int>
+                   </list>
+                  </tuple>
+                  <tuple>
+                   <string value="category"></string>
+                   <list>
+                    <string value="Category"></string>
+                    <int value="0"></int>
+                    <int value="1"></int>
+                   </list>
+                  </tuple>
+                  <tuple>
+                   <string value="css-class"></string>
+                   <list>
+                    <string value="CSS class"></string>
+                    <int value="0"></int>
+                    <int value="2"></int>
+                   </list>
+                  </tuple>
+                  <tuple>
+                   <string value="icon"></string>
+                   <list>
+                    <string value="Icon"></string>
+                    <int value="0"></int>
+                    <int value="3"></int>
+                   </list>
+                  </tuple>
+                 </list>
+                 <string role="key" value="_author"></string>
+                 <string value=""></string>
+                 <string role="key" value="_iDeviceDir"></string>
+                 <string value="text"></string>
+                 <string role="key" value="_purpose"></string>
+                 <string value=""></string>
+                 <string role="key" value="_tip"></string>
+                 <string value=""></string>
+                 <string role="key" value="_typeName"></string>
+                 <unicode value="Text"></unicode>
+                 <string role="key" value="_valid"></string>
+                 <bool value="1"></bool>
+                 <string role="key" value="class_"></string>
+                 <unicode value="text"></unicode>
+                 <string role="key" value="edit"></string>
+                 <bool value="0"></bool>
+                 <string role="key" value="emphasis"></string>
+                 <int value="1"></int>
+                 <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+                 <int value="1"></int>
+                 <string role="key" value="fields"></string>
+                 <list>
+                  <instance class="exe.engine.field.TextAreaField" reference="74">
+                   <dictionary>
+                    <string role="key" value="_id"></string>
+                    <unicode value="154_2"></unicode>
+                    <string role="key" value="_idevice"></string>
+                    <reference key="73"></reference>
+                    <string role="key" value="_instruc"></string>
+                    <string value=""></string>
+                    <string role="key" value="_name"></string>
+                    <string value=""></string>
+                    <string role="key" value="anchor_names"></string>
+                    <list></list>
+                    <string role="key" value="anchors_linked_from_fields"></string>
+                    <dictionary></dictionary>
+                    <string role="key" value="content_w_resourcePaths"></string>
+                    <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: center;&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;314&quot; src=&quot;https://www.youtube.com/embed/DIN0cn9x9Vg&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                    <int value="4"></int>
+                    <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                    <int value="2"></int>
+                    <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                    <int value="3"></int>
+                    <string role="key" value="htmlTag"></string>
+                    <string value="div"></string>
+                    <string role="key" value="images"></string>
+                    <instance class="exe.engine.galleryidevice.GalleryImages">
+                     <dictionary>
+                      <string role="key" value=".listitems"></string>
+                      <list></list>
+                      <string role="key" value="idevice"></string>
+                      <reference key="74"></reference>
+                     </dictionary>
+                    </instance>
+                    <string role="key" value="intlinks_to_anchors"></string>
+                    <dictionary></dictionary>
+                    <string role="key" value="nextImageId"></string>
+                    <int value="0"></int>
+                    <string role="key" value="parentNode"></string>
+                    <reference key="75"></reference>
+                   </dictionary>
+                  </instance>
+                 </list>
+                 <string role="key" value="icon"></string>
+                 <unicode value=""></unicode>
+                 <string role="key" value="id"></string>
+                 <unicode value="100"></unicode>
+                 <string role="key" value="ideviceCategory"></string>
+                 <unicode value="Text and Tasks"></unicode>
+                 <string role="key" value="lastIdevice"></string>
+                 <bool value="0"></bool>
+                 <string role="key" value="nextFieldId"></string>
+                 <int value="3"></int>
+                 <string role="key" value="originalicon"></string>
+                 <string value=""></string>
+                 <string role="key" value="parentNode"></string>
+                 <reference key="75"></reference>
+                 <string role="key" value="systemResources"></string>
+                 <list></list>
+                 <string role="key" value="undo"></string>
+                 <bool value="1"></bool>
+                 <string role="key" value="userResources"></string>
+                 <list></list>
+                 <string role="key" value="version"></string>
+                 <int value="0"></int>
+                </dictionary>
+               </instance>
+              </list>
               <string role="key" value="_id"></string>
               <unicode value="36"></unicode>
               <string role="key" value="_package"></string>
@@ -2693,19 +3878,147 @@ text through the text editing buttons associated with the field."></unicode>
               <string role="key" value="last_full_node_path"></string>
               <string value="exe-node:Introducci%C3%B3n:Herramientas%20para%20la%20gesti%C3%B3n%20de%20correo%20electr%C3%B3nico:Outlook:Clase%205"></string>
               <string role="key" value="parent"></string>
-              <reference key="50"></reference>
+              <reference key="56"></reference>
               <string role="key" value="top_anchors_linked_from_fields"></string>
               <list></list>
               <string role="key" value="children"></string>
               <list></list>
              </dictionary>
             </instance>
-            <instance class="exe.engine.node.Node" reference="65">
+            <instance class="exe.engine.node.Node" reference="78">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Clase 6"></unicode>
               <string role="key" value="idevices"></string>
-              <list></list>
+              <list>
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="76">
+                <dictionary>
+                 <string role="key" value="_title"></string>
+                 <unicode value="Barra de búsqueda"></unicode>
+                 <string role="key" value="_attributes"></string>
+                 <list>
+                  <tuple>
+                   <string value="title"></string>
+                   <list>
+                    <string value="Title"></string>
+                    <int value="0"></int>
+                    <int value="0"></int>
+                   </list>
+                  </tuple>
+                  <tuple>
+                   <string value="category"></string>
+                   <list>
+                    <string value="Category"></string>
+                    <int value="0"></int>
+                    <int value="1"></int>
+                   </list>
+                  </tuple>
+                  <tuple>
+                   <string value="css-class"></string>
+                   <list>
+                    <string value="CSS class"></string>
+                    <int value="0"></int>
+                    <int value="2"></int>
+                   </list>
+                  </tuple>
+                  <tuple>
+                   <string value="icon"></string>
+                   <list>
+                    <string value="Icon"></string>
+                    <int value="0"></int>
+                    <int value="3"></int>
+                   </list>
+                  </tuple>
+                 </list>
+                 <string role="key" value="_author"></string>
+                 <string value=""></string>
+                 <string role="key" value="_iDeviceDir"></string>
+                 <string value="text"></string>
+                 <string role="key" value="_purpose"></string>
+                 <string value=""></string>
+                 <string role="key" value="_tip"></string>
+                 <string value=""></string>
+                 <string role="key" value="_typeName"></string>
+                 <unicode value="Text"></unicode>
+                 <string role="key" value="_valid"></string>
+                 <bool value="1"></bool>
+                 <string role="key" value="class_"></string>
+                 <unicode value="text"></unicode>
+                 <string role="key" value="edit"></string>
+                 <bool value="0"></bool>
+                 <string role="key" value="emphasis"></string>
+                 <int value="1"></int>
+                 <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+                 <int value="1"></int>
+                 <string role="key" value="fields"></string>
+                 <list>
+                  <instance class="exe.engine.field.TextAreaField" reference="77">
+                   <dictionary>
+                    <string role="key" value="_id"></string>
+                    <unicode value="155_2"></unicode>
+                    <string role="key" value="_idevice"></string>
+                    <reference key="76"></reference>
+                    <string role="key" value="_instruc"></string>
+                    <string value=""></string>
+                    <string role="key" value="_name"></string>
+                    <string value=""></string>
+                    <string role="key" value="anchor_names"></string>
+                    <list></list>
+                    <string role="key" value="anchors_linked_from_fields"></string>
+                    <dictionary></dictionary>
+                    <string role="key" value="content_w_resourcePaths"></string>
+                    <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: center;&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;314&quot; src=&quot;https://www.youtube.com/embed/DywRIMgE5q4&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                    <int value="4"></int>
+                    <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                    <int value="2"></int>
+                    <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                    <int value="3"></int>
+                    <string role="key" value="htmlTag"></string>
+                    <string value="div"></string>
+                    <string role="key" value="images"></string>
+                    <instance class="exe.engine.galleryidevice.GalleryImages">
+                     <dictionary>
+                      <string role="key" value=".listitems"></string>
+                      <list></list>
+                      <string role="key" value="idevice"></string>
+                      <reference key="77"></reference>
+                     </dictionary>
+                    </instance>
+                    <string role="key" value="intlinks_to_anchors"></string>
+                    <dictionary></dictionary>
+                    <string role="key" value="nextImageId"></string>
+                    <int value="0"></int>
+                    <string role="key" value="parentNode"></string>
+                    <reference key="78"></reference>
+                   </dictionary>
+                  </instance>
+                 </list>
+                 <string role="key" value="icon"></string>
+                 <unicode value=""></unicode>
+                 <string role="key" value="id"></string>
+                 <unicode value="101"></unicode>
+                 <string role="key" value="ideviceCategory"></string>
+                 <unicode value="Text and Tasks"></unicode>
+                 <string role="key" value="lastIdevice"></string>
+                 <bool value="0"></bool>
+                 <string role="key" value="nextFieldId"></string>
+                 <int value="3"></int>
+                 <string role="key" value="originalicon"></string>
+                 <string value=""></string>
+                 <string role="key" value="parentNode"></string>
+                 <reference key="78"></reference>
+                 <string role="key" value="systemResources"></string>
+                 <list></list>
+                 <string role="key" value="undo"></string>
+                 <bool value="1"></bool>
+                 <string role="key" value="userResources"></string>
+                 <list></list>
+                 <string role="key" value="version"></string>
+                 <int value="0"></int>
+                </dictionary>
+               </instance>
+              </list>
               <string role="key" value="_id"></string>
               <unicode value="37"></unicode>
               <string role="key" value="_package"></string>
@@ -2719,19 +4032,147 @@ text through the text editing buttons associated with the field."></unicode>
               <string role="key" value="last_full_node_path"></string>
               <string value="exe-node:Introducci%C3%B3n:Herramientas%20para%20la%20gesti%C3%B3n%20de%20correo%20electr%C3%B3nico:Outlook:Clase%206"></string>
               <string role="key" value="parent"></string>
-              <reference key="50"></reference>
+              <reference key="56"></reference>
               <string role="key" value="top_anchors_linked_from_fields"></string>
               <list></list>
               <string role="key" value="children"></string>
               <list></list>
              </dictionary>
             </instance>
-            <instance class="exe.engine.node.Node" reference="66">
+            <instance class="exe.engine.node.Node" reference="81">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Clase 7"></unicode>
               <string role="key" value="idevices"></string>
-              <list></list>
+              <list>
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="79">
+                <dictionary>
+                 <string role="key" value="_title"></string>
+                 <unicode value="Firma de Correo"></unicode>
+                 <string role="key" value="_attributes"></string>
+                 <list>
+                  <tuple>
+                   <string value="title"></string>
+                   <list>
+                    <string value="Title"></string>
+                    <int value="0"></int>
+                    <int value="0"></int>
+                   </list>
+                  </tuple>
+                  <tuple>
+                   <string value="category"></string>
+                   <list>
+                    <string value="Category"></string>
+                    <int value="0"></int>
+                    <int value="1"></int>
+                   </list>
+                  </tuple>
+                  <tuple>
+                   <string value="css-class"></string>
+                   <list>
+                    <string value="CSS class"></string>
+                    <int value="0"></int>
+                    <int value="2"></int>
+                   </list>
+                  </tuple>
+                  <tuple>
+                   <string value="icon"></string>
+                   <list>
+                    <string value="Icon"></string>
+                    <int value="0"></int>
+                    <int value="3"></int>
+                   </list>
+                  </tuple>
+                 </list>
+                 <string role="key" value="_author"></string>
+                 <string value=""></string>
+                 <string role="key" value="_iDeviceDir"></string>
+                 <string value="text"></string>
+                 <string role="key" value="_purpose"></string>
+                 <string value=""></string>
+                 <string role="key" value="_tip"></string>
+                 <string value=""></string>
+                 <string role="key" value="_typeName"></string>
+                 <unicode value="Text"></unicode>
+                 <string role="key" value="_valid"></string>
+                 <bool value="1"></bool>
+                 <string role="key" value="class_"></string>
+                 <unicode value="text"></unicode>
+                 <string role="key" value="edit"></string>
+                 <bool value="0"></bool>
+                 <string role="key" value="emphasis"></string>
+                 <int value="1"></int>
+                 <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+                 <int value="1"></int>
+                 <string role="key" value="fields"></string>
+                 <list>
+                  <instance class="exe.engine.field.TextAreaField" reference="80">
+                   <dictionary>
+                    <string role="key" value="_id"></string>
+                    <unicode value="156_2"></unicode>
+                    <string role="key" value="_idevice"></string>
+                    <reference key="79"></reference>
+                    <string role="key" value="_instruc"></string>
+                    <string value=""></string>
+                    <string role="key" value="_name"></string>
+                    <string value=""></string>
+                    <string role="key" value="anchor_names"></string>
+                    <list></list>
+                    <string role="key" value="anchors_linked_from_fields"></string>
+                    <dictionary></dictionary>
+                    <string role="key" value="content_w_resourcePaths"></string>
+                    <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: center;&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;314&quot; src=&quot;https://www.youtube.com/embed/nXik6G_sz8A&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                    <int value="4"></int>
+                    <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                    <int value="2"></int>
+                    <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                    <int value="3"></int>
+                    <string role="key" value="htmlTag"></string>
+                    <string value="div"></string>
+                    <string role="key" value="images"></string>
+                    <instance class="exe.engine.galleryidevice.GalleryImages">
+                     <dictionary>
+                      <string role="key" value=".listitems"></string>
+                      <list></list>
+                      <string role="key" value="idevice"></string>
+                      <reference key="80"></reference>
+                     </dictionary>
+                    </instance>
+                    <string role="key" value="intlinks_to_anchors"></string>
+                    <dictionary></dictionary>
+                    <string role="key" value="nextImageId"></string>
+                    <int value="0"></int>
+                    <string role="key" value="parentNode"></string>
+                    <reference key="81"></reference>
+                   </dictionary>
+                  </instance>
+                 </list>
+                 <string role="key" value="icon"></string>
+                 <unicode value=""></unicode>
+                 <string role="key" value="id"></string>
+                 <unicode value="102"></unicode>
+                 <string role="key" value="ideviceCategory"></string>
+                 <unicode value="Text and Tasks"></unicode>
+                 <string role="key" value="lastIdevice"></string>
+                 <bool value="0"></bool>
+                 <string role="key" value="nextFieldId"></string>
+                 <int value="3"></int>
+                 <string role="key" value="originalicon"></string>
+                 <string value=""></string>
+                 <string role="key" value="parentNode"></string>
+                 <reference key="81"></reference>
+                 <string role="key" value="systemResources"></string>
+                 <list></list>
+                 <string role="key" value="undo"></string>
+                 <bool value="1"></bool>
+                 <string role="key" value="userResources"></string>
+                 <list></list>
+                 <string role="key" value="version"></string>
+                 <int value="0"></int>
+                </dictionary>
+               </instance>
+              </list>
               <string role="key" value="_id"></string>
               <unicode value="38"></unicode>
               <string role="key" value="_package"></string>
@@ -2745,19 +4186,147 @@ text through the text editing buttons associated with the field."></unicode>
               <string role="key" value="last_full_node_path"></string>
               <string value="exe-node:Introducci%C3%B3n:Herramientas%20para%20la%20gesti%C3%B3n%20de%20correo%20electr%C3%B3nico:Outlook:Clase%207"></string>
               <string role="key" value="parent"></string>
-              <reference key="50"></reference>
+              <reference key="56"></reference>
               <string role="key" value="top_anchors_linked_from_fields"></string>
               <list></list>
               <string role="key" value="children"></string>
               <list></list>
              </dictionary>
             </instance>
-            <instance class="exe.engine.node.Node" reference="67">
+            <instance class="exe.engine.node.Node" reference="84">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Clase 8"></unicode>
               <string role="key" value="idevices"></string>
-              <list></list>
+              <list>
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="82">
+                <dictionary>
+                 <string role="key" value="_title"></string>
+                 <unicode value="Calendario"></unicode>
+                 <string role="key" value="_attributes"></string>
+                 <list>
+                  <tuple>
+                   <string value="title"></string>
+                   <list>
+                    <string value="Title"></string>
+                    <int value="0"></int>
+                    <int value="0"></int>
+                   </list>
+                  </tuple>
+                  <tuple>
+                   <string value="category"></string>
+                   <list>
+                    <string value="Category"></string>
+                    <int value="0"></int>
+                    <int value="1"></int>
+                   </list>
+                  </tuple>
+                  <tuple>
+                   <string value="css-class"></string>
+                   <list>
+                    <string value="CSS class"></string>
+                    <int value="0"></int>
+                    <int value="2"></int>
+                   </list>
+                  </tuple>
+                  <tuple>
+                   <string value="icon"></string>
+                   <list>
+                    <string value="Icon"></string>
+                    <int value="0"></int>
+                    <int value="3"></int>
+                   </list>
+                  </tuple>
+                 </list>
+                 <string role="key" value="_author"></string>
+                 <string value=""></string>
+                 <string role="key" value="_iDeviceDir"></string>
+                 <string value="text"></string>
+                 <string role="key" value="_purpose"></string>
+                 <string value=""></string>
+                 <string role="key" value="_tip"></string>
+                 <string value=""></string>
+                 <string role="key" value="_typeName"></string>
+                 <unicode value="Text"></unicode>
+                 <string role="key" value="_valid"></string>
+                 <bool value="1"></bool>
+                 <string role="key" value="class_"></string>
+                 <unicode value="text"></unicode>
+                 <string role="key" value="edit"></string>
+                 <bool value="0"></bool>
+                 <string role="key" value="emphasis"></string>
+                 <int value="1"></int>
+                 <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+                 <int value="1"></int>
+                 <string role="key" value="fields"></string>
+                 <list>
+                  <instance class="exe.engine.field.TextAreaField" reference="83">
+                   <dictionary>
+                    <string role="key" value="_id"></string>
+                    <unicode value="157_2"></unicode>
+                    <string role="key" value="_idevice"></string>
+                    <reference key="82"></reference>
+                    <string role="key" value="_instruc"></string>
+                    <string value=""></string>
+                    <string role="key" value="_name"></string>
+                    <string value=""></string>
+                    <string role="key" value="anchor_names"></string>
+                    <list></list>
+                    <string role="key" value="anchors_linked_from_fields"></string>
+                    <dictionary></dictionary>
+                    <string role="key" value="content_w_resourcePaths"></string>
+                    <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: center;&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;314&quot; src=&quot;https://www.youtube.com/embed/Qj-vNzbvkgE&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                    <int value="4"></int>
+                    <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                    <int value="2"></int>
+                    <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                    <int value="3"></int>
+                    <string role="key" value="htmlTag"></string>
+                    <string value="div"></string>
+                    <string role="key" value="images"></string>
+                    <instance class="exe.engine.galleryidevice.GalleryImages">
+                     <dictionary>
+                      <string role="key" value=".listitems"></string>
+                      <list></list>
+                      <string role="key" value="idevice"></string>
+                      <reference key="83"></reference>
+                     </dictionary>
+                    </instance>
+                    <string role="key" value="intlinks_to_anchors"></string>
+                    <dictionary></dictionary>
+                    <string role="key" value="nextImageId"></string>
+                    <int value="0"></int>
+                    <string role="key" value="parentNode"></string>
+                    <reference key="84"></reference>
+                   </dictionary>
+                  </instance>
+                 </list>
+                 <string role="key" value="icon"></string>
+                 <unicode value=""></unicode>
+                 <string role="key" value="id"></string>
+                 <unicode value="103"></unicode>
+                 <string role="key" value="ideviceCategory"></string>
+                 <unicode value="Text and Tasks"></unicode>
+                 <string role="key" value="lastIdevice"></string>
+                 <bool value="0"></bool>
+                 <string role="key" value="nextFieldId"></string>
+                 <int value="3"></int>
+                 <string role="key" value="originalicon"></string>
+                 <string value=""></string>
+                 <string role="key" value="parentNode"></string>
+                 <reference key="84"></reference>
+                 <string role="key" value="systemResources"></string>
+                 <list></list>
+                 <string role="key" value="undo"></string>
+                 <bool value="1"></bool>
+                 <string role="key" value="userResources"></string>
+                 <list></list>
+                 <string role="key" value="version"></string>
+                 <int value="0"></int>
+                </dictionary>
+               </instance>
+              </list>
               <string role="key" value="_id"></string>
               <unicode value="39"></unicode>
               <string role="key" value="_package"></string>
@@ -2771,19 +4340,147 @@ text through the text editing buttons associated with the field."></unicode>
               <string role="key" value="last_full_node_path"></string>
               <string value="exe-node:Introducci%C3%B3n:Herramientas%20para%20la%20gesti%C3%B3n%20de%20correo%20electr%C3%B3nico:Outlook:Clase%208"></string>
               <string role="key" value="parent"></string>
-              <reference key="50"></reference>
+              <reference key="56"></reference>
               <string role="key" value="top_anchors_linked_from_fields"></string>
               <list></list>
               <string role="key" value="children"></string>
               <list></list>
              </dictionary>
             </instance>
-            <instance class="exe.engine.node.Node" reference="68">
+            <instance class="exe.engine.node.Node" reference="87">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Clase 9"></unicode>
               <string role="key" value="idevices"></string>
-              <list></list>
+              <list>
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="85">
+                <dictionary>
+                 <string role="key" value="_title"></string>
+                 <unicode value="Contactos"></unicode>
+                 <string role="key" value="_attributes"></string>
+                 <list>
+                  <tuple>
+                   <string value="title"></string>
+                   <list>
+                    <string value="Title"></string>
+                    <int value="0"></int>
+                    <int value="0"></int>
+                   </list>
+                  </tuple>
+                  <tuple>
+                   <string value="category"></string>
+                   <list>
+                    <string value="Category"></string>
+                    <int value="0"></int>
+                    <int value="1"></int>
+                   </list>
+                  </tuple>
+                  <tuple>
+                   <string value="css-class"></string>
+                   <list>
+                    <string value="CSS class"></string>
+                    <int value="0"></int>
+                    <int value="2"></int>
+                   </list>
+                  </tuple>
+                  <tuple>
+                   <string value="icon"></string>
+                   <list>
+                    <string value="Icon"></string>
+                    <int value="0"></int>
+                    <int value="3"></int>
+                   </list>
+                  </tuple>
+                 </list>
+                 <string role="key" value="_author"></string>
+                 <string value=""></string>
+                 <string role="key" value="_iDeviceDir"></string>
+                 <string value="text"></string>
+                 <string role="key" value="_purpose"></string>
+                 <string value=""></string>
+                 <string role="key" value="_tip"></string>
+                 <string value=""></string>
+                 <string role="key" value="_typeName"></string>
+                 <unicode value="Text"></unicode>
+                 <string role="key" value="_valid"></string>
+                 <bool value="1"></bool>
+                 <string role="key" value="class_"></string>
+                 <unicode value="text"></unicode>
+                 <string role="key" value="edit"></string>
+                 <bool value="0"></bool>
+                 <string role="key" value="emphasis"></string>
+                 <int value="1"></int>
+                 <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+                 <int value="1"></int>
+                 <string role="key" value="fields"></string>
+                 <list>
+                  <instance class="exe.engine.field.TextAreaField" reference="86">
+                   <dictionary>
+                    <string role="key" value="_id"></string>
+                    <unicode value="158_2"></unicode>
+                    <string role="key" value="_idevice"></string>
+                    <reference key="85"></reference>
+                    <string role="key" value="_instruc"></string>
+                    <string value=""></string>
+                    <string role="key" value="_name"></string>
+                    <string value=""></string>
+                    <string role="key" value="anchor_names"></string>
+                    <list></list>
+                    <string role="key" value="anchors_linked_from_fields"></string>
+                    <dictionary></dictionary>
+                    <string role="key" value="content_w_resourcePaths"></string>
+                    <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: center;&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;314&quot; src=&quot;https://www.youtube.com/embed/XJ77bdvDMr0&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                    <int value="4"></int>
+                    <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                    <int value="2"></int>
+                    <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                    <int value="3"></int>
+                    <string role="key" value="htmlTag"></string>
+                    <string value="div"></string>
+                    <string role="key" value="images"></string>
+                    <instance class="exe.engine.galleryidevice.GalleryImages">
+                     <dictionary>
+                      <string role="key" value=".listitems"></string>
+                      <list></list>
+                      <string role="key" value="idevice"></string>
+                      <reference key="86"></reference>
+                     </dictionary>
+                    </instance>
+                    <string role="key" value="intlinks_to_anchors"></string>
+                    <dictionary></dictionary>
+                    <string role="key" value="nextImageId"></string>
+                    <int value="0"></int>
+                    <string role="key" value="parentNode"></string>
+                    <reference key="87"></reference>
+                   </dictionary>
+                  </instance>
+                 </list>
+                 <string role="key" value="icon"></string>
+                 <unicode value=""></unicode>
+                 <string role="key" value="id"></string>
+                 <unicode value="104"></unicode>
+                 <string role="key" value="ideviceCategory"></string>
+                 <unicode value="Text and Tasks"></unicode>
+                 <string role="key" value="lastIdevice"></string>
+                 <bool value="0"></bool>
+                 <string role="key" value="nextFieldId"></string>
+                 <int value="3"></int>
+                 <string role="key" value="originalicon"></string>
+                 <string value=""></string>
+                 <string role="key" value="parentNode"></string>
+                 <reference key="87"></reference>
+                 <string role="key" value="systemResources"></string>
+                 <list></list>
+                 <string role="key" value="undo"></string>
+                 <bool value="1"></bool>
+                 <string role="key" value="userResources"></string>
+                 <list></list>
+                 <string role="key" value="version"></string>
+                 <int value="0"></int>
+                </dictionary>
+               </instance>
+              </list>
               <string role="key" value="_id"></string>
               <unicode value="40"></unicode>
               <string role="key" value="_package"></string>
@@ -2797,19 +4494,147 @@ text through the text editing buttons associated with the field."></unicode>
               <string role="key" value="last_full_node_path"></string>
               <string value="exe-node:Introducci%C3%B3n:Herramientas%20para%20la%20gesti%C3%B3n%20de%20correo%20electr%C3%B3nico:Outlook:Clase%209"></string>
               <string role="key" value="parent"></string>
-              <reference key="50"></reference>
+              <reference key="56"></reference>
               <string role="key" value="top_anchors_linked_from_fields"></string>
               <list></list>
               <string role="key" value="children"></string>
               <list></list>
              </dictionary>
             </instance>
-            <instance class="exe.engine.node.Node" reference="69">
+            <instance class="exe.engine.node.Node" reference="90">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Clase 10"></unicode>
               <string role="key" value="idevices"></string>
-              <list></list>
+              <list>
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="88">
+                <dictionary>
+                 <string role="key" value="_title"></string>
+                 <unicode value="Cerrar Sesión"></unicode>
+                 <string role="key" value="_attributes"></string>
+                 <list>
+                  <tuple>
+                   <string value="title"></string>
+                   <list>
+                    <string value="Title"></string>
+                    <int value="0"></int>
+                    <int value="0"></int>
+                   </list>
+                  </tuple>
+                  <tuple>
+                   <string value="category"></string>
+                   <list>
+                    <string value="Category"></string>
+                    <int value="0"></int>
+                    <int value="1"></int>
+                   </list>
+                  </tuple>
+                  <tuple>
+                   <string value="css-class"></string>
+                   <list>
+                    <string value="CSS class"></string>
+                    <int value="0"></int>
+                    <int value="2"></int>
+                   </list>
+                  </tuple>
+                  <tuple>
+                   <string value="icon"></string>
+                   <list>
+                    <string value="Icon"></string>
+                    <int value="0"></int>
+                    <int value="3"></int>
+                   </list>
+                  </tuple>
+                 </list>
+                 <string role="key" value="_author"></string>
+                 <string value=""></string>
+                 <string role="key" value="_iDeviceDir"></string>
+                 <string value="text"></string>
+                 <string role="key" value="_purpose"></string>
+                 <string value=""></string>
+                 <string role="key" value="_tip"></string>
+                 <string value=""></string>
+                 <string role="key" value="_typeName"></string>
+                 <unicode value="Text"></unicode>
+                 <string role="key" value="_valid"></string>
+                 <bool value="1"></bool>
+                 <string role="key" value="class_"></string>
+                 <unicode value="text"></unicode>
+                 <string role="key" value="edit"></string>
+                 <bool value="0"></bool>
+                 <string role="key" value="emphasis"></string>
+                 <int value="1"></int>
+                 <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+                 <int value="1"></int>
+                 <string role="key" value="fields"></string>
+                 <list>
+                  <instance class="exe.engine.field.TextAreaField" reference="89">
+                   <dictionary>
+                    <string role="key" value="_id"></string>
+                    <unicode value="159_2"></unicode>
+                    <string role="key" value="_idevice"></string>
+                    <reference key="88"></reference>
+                    <string role="key" value="_instruc"></string>
+                    <string value=""></string>
+                    <string role="key" value="_name"></string>
+                    <string value=""></string>
+                    <string role="key" value="anchor_names"></string>
+                    <list></list>
+                    <string role="key" value="anchors_linked_from_fields"></string>
+                    <dictionary></dictionary>
+                    <string role="key" value="content_w_resourcePaths"></string>
+                    <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: center;&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;314&quot; src=&quot;https://www.youtube.com/embed/_mc5DxxO2wE&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                    <int value="4"></int>
+                    <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                    <int value="2"></int>
+                    <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                    <int value="3"></int>
+                    <string role="key" value="htmlTag"></string>
+                    <string value="div"></string>
+                    <string role="key" value="images"></string>
+                    <instance class="exe.engine.galleryidevice.GalleryImages">
+                     <dictionary>
+                      <string role="key" value=".listitems"></string>
+                      <list></list>
+                      <string role="key" value="idevice"></string>
+                      <reference key="89"></reference>
+                     </dictionary>
+                    </instance>
+                    <string role="key" value="intlinks_to_anchors"></string>
+                    <dictionary></dictionary>
+                    <string role="key" value="nextImageId"></string>
+                    <int value="0"></int>
+                    <string role="key" value="parentNode"></string>
+                    <reference key="90"></reference>
+                   </dictionary>
+                  </instance>
+                 </list>
+                 <string role="key" value="icon"></string>
+                 <unicode value=""></unicode>
+                 <string role="key" value="id"></string>
+                 <unicode value="105"></unicode>
+                 <string role="key" value="ideviceCategory"></string>
+                 <unicode value="Text and Tasks"></unicode>
+                 <string role="key" value="lastIdevice"></string>
+                 <bool value="0"></bool>
+                 <string role="key" value="nextFieldId"></string>
+                 <int value="3"></int>
+                 <string role="key" value="originalicon"></string>
+                 <string value=""></string>
+                 <string role="key" value="parentNode"></string>
+                 <reference key="90"></reference>
+                 <string role="key" value="systemResources"></string>
+                 <list></list>
+                 <string role="key" value="undo"></string>
+                 <bool value="1"></bool>
+                 <string role="key" value="userResources"></string>
+                 <list></list>
+                 <string role="key" value="version"></string>
+                 <int value="0"></int>
+                </dictionary>
+               </instance>
+              </list>
               <string role="key" value="_id"></string>
               <unicode value="41"></unicode>
               <string role="key" value="_package"></string>
@@ -2823,7 +4648,7 @@ text through the text editing buttons associated with the field."></unicode>
               <string role="key" value="last_full_node_path"></string>
               <string value="exe-node:Introducci%C3%B3n:Herramientas%20para%20la%20gesti%C3%B3n%20de%20correo%20electr%C3%B3nico:Outlook:Clase%2010"></string>
               <string role="key" value="parent"></string>
-              <reference key="50"></reference>
+              <reference key="56"></reference>
               <string role="key" value="top_anchors_linked_from_fields"></string>
               <list></list>
               <string role="key" value="children"></string>
@@ -2836,13 +4661,13 @@ text through the text editing buttons associated with the field."></unicode>
         </list>
        </dictionary>
       </instance>
-      <instance class="exe.engine.node.Node" reference="53">
+      <instance class="exe.engine.node.Node" reference="93">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="Autoevaluación"></unicode>
         <string role="key" value="idevices"></string>
         <list>
-         <instance class="exe.engine.freetextidevice.FreeTextIdevice" reference="51">
+         <instance class="exe.engine.freetextidevice.FreeTextIdevice" reference="91">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Free Text"></unicode>
@@ -2858,12 +4683,12 @@ delivered."></unicode>
            <string role="key" value="childs"></string>
            <list></list>
            <string role="key" value="content"></string>
-           <instance class="exe.engine.field.TextAreaField" reference="52">
+           <instance class="exe.engine.field.TextAreaField" reference="92">
             <dictionary>
              <string role="key" value="_id"></string>
              <int value="85"></int>
              <string role="key" value="_idevice"></string>
-             <reference key="51"></reference>
+             <reference key="91"></reference>
              <string role="key" value="_instruc"></string>
              <unicode value="Use this field to enter text. This 
 iDevice has no emphasis applied although limited formatting can be applied to 
@@ -2892,7 +4717,7 @@ text through the text editing buttons associated with the field."></unicode>
                <string role="key" value=".listitems"></string>
                <list></list>
                <string role="key" value="idevice"></string>
-               <reference key="52"></reference>
+               <reference key="92"></reference>
               </dictionary>
              </instance>
              <string role="key" value="intlinks_to_anchors"></string>
@@ -2900,7 +4725,7 @@ text through the text editing buttons associated with the field."></unicode>
              <string role="key" value="nextImageId"></string>
              <int value="0"></int>
              <string role="key" value="parentNode"></string>
-             <reference key="53"></reference>
+             <reference key="93"></reference>
             </dictionary>
            </instance>
            <string role="key" value="edit"></string>
@@ -2920,7 +4745,7 @@ text through the text editing buttons associated with the field."></unicode>
            <string role="key" value="parent"></string>
            <none></none>
            <string role="key" value="parentNode"></string>
-           <reference key="53"></reference>
+           <reference key="93"></reference>
            <string role="key" value="systemResources"></string>
            <list></list>
            <string role="key" value="type"></string>
@@ -2967,7 +4792,7 @@ and select the size of the area to display it in."></unicode>
            <string role="key" value="originalicon"></string>
            <string value=""></string>
            <string role="key" value="parentNode"></string>
-           <reference key="53"></reference>
+           <reference key="93"></reference>
            <string role="key" value="systemResources"></string>
            <list></list>
            <string role="key" value="undo"></string>
@@ -3001,13 +4826,13 @@ and select the size of the area to display it in."></unicode>
         <list></list>
        </dictionary>
       </instance>
-      <instance class="exe.engine.node.Node" reference="56">
+      <instance class="exe.engine.node.Node" reference="96">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="Descarga"></unicode>
         <string role="key" value="idevices"></string>
         <list>
-         <instance class="exe.engine.jsidevice.JsIdevice" reference="54">
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="94">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value=""></unicode>
@@ -3080,12 +4905,12 @@ and select the size of the area to display it in."></unicode>
            <int value="1"></int>
            <string role="key" value="fields"></string>
            <list>
-            <instance class="exe.engine.field.TextAreaField" reference="55">
+            <instance class="exe.engine.field.TextAreaField" reference="95">
              <dictionary>
               <string role="key" value="_id"></string>
               <unicode value="72_2"></unicode>
               <string role="key" value="_idevice"></string>
-              <reference key="54"></reference>
+              <reference key="94"></reference>
               <string role="key" value="_instruc"></string>
               <string value=""></string>
               <string role="key" value="_name"></string>
@@ -3099,15 +4924,15 @@ and select the size of the area to display it in."></unicode>
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;th&gt;Título&lt;/th&gt;
-&lt;td&gt;Herramientas para la creación de infografías&lt;/td&gt;
+&lt;td&gt;Herramientas para gestión de correo electrónico&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;th&gt;Descripción&lt;/th&gt;
-&lt;td&gt;Herramientas para la creación de infografías&lt;/td&gt;
+&lt;td&gt;Herramientas para gestión de correo electrónico&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;th&gt;Autor&lt;/th&gt;
-&lt;td&gt;María Belén Guacapiña Cevallos&lt;/td&gt;
+&lt;td&gt;Ludolab&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;th&gt;Licencia&lt;/th&gt;
@@ -3130,7 +4955,7 @@ and select the size of the area to display it in."></unicode>
                 <string role="key" value=".listitems"></string>
                 <list></list>
                 <string role="key" value="idevice"></string>
-                <reference key="55"></reference>
+                <reference key="95"></reference>
                </dictionary>
               </instance>
               <string role="key" value="intlinks_to_anchors"></string>
@@ -3138,7 +4963,7 @@ and select the size of the area to display it in."></unicode>
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <reference key="56"></reference>
+              <reference key="96"></reference>
              </dictionary>
             </instance>
            </list>
@@ -3155,7 +4980,7 @@ and select the size of the area to display it in."></unicode>
            <string role="key" value="originalicon"></string>
            <string value=""></string>
            <string role="key" value="parentNode"></string>
-           <reference key="56"></reference>
+           <reference key="96"></reference>
            <string role="key" value="systemResources"></string>
            <list></list>
            <string role="key" value="undo"></string>
@@ -3187,13 +5012,13 @@ and select the size of the area to display it in."></unicode>
         <list></list>
        </dictionary>
       </instance>
-      <instance class="exe.engine.node.Node" reference="59">
+      <instance class="exe.engine.node.Node" reference="99">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="Bibliografía"></unicode>
         <string role="key" value="idevices"></string>
         <list>
-         <instance class="exe.engine.jsidevice.JsIdevice" reference="57">
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="97">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value=""></unicode>
@@ -3262,12 +5087,12 @@ and select the size of the area to display it in."></unicode>
            <int value="1"></int>
            <string role="key" value="fields"></string>
            <list>
-            <instance class="exe.engine.field.TextAreaField" reference="58">
+            <instance class="exe.engine.field.TextAreaField" reference="98">
              <dictionary>
               <string role="key" value="_id"></string>
               <unicode value="56_2"></unicode>
               <string role="key" value="_idevice"></string>
-              <reference key="57"></reference>
+              <reference key="97"></reference>
               <string role="key" value="_instruc"></string>
               <string value=""></string>
               <string role="key" value="_name"></string>
@@ -3297,7 +5122,7 @@ and select the size of the area to display it in."></unicode>
                 <string role="key" value=".listitems"></string>
                 <list></list>
                 <string role="key" value="idevice"></string>
-                <reference key="58"></reference>
+                <reference key="98"></reference>
                </dictionary>
               </instance>
               <string role="key" value="intlinks_to_anchors"></string>
@@ -3305,7 +5130,7 @@ and select the size of the area to display it in."></unicode>
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <reference key="59"></reference>
+              <reference key="99"></reference>
              </dictionary>
             </instance>
            </list>
@@ -3322,7 +5147,7 @@ and select the size of the area to display it in."></unicode>
            <string role="key" value="originalicon"></string>
            <string value=""></string>
            <string role="key" value="parentNode"></string>
-           <reference key="59"></reference>
+           <reference key="99"></reference>
            <string role="key" value="systemResources"></string>
            <list></list>
            <string role="key" value="undo"></string>
@@ -3358,59 +5183,59 @@ and select the size of the area to display it in."></unicode>
     </dictionary>
    </instance>
    <unicode role="key" value="10"></unicode>
-   <reference key="59"></reference>
+   <reference key="99"></reference>
    <unicode role="key" value="17"></unicode>
-   <reference key="56"></reference>
+   <reference key="96"></reference>
    <unicode role="key" value="19"></unicode>
-   <reference key="19"></reference>
-   <unicode role="key" value="20"></unicode>
    <reference key="11"></reference>
+   <unicode role="key" value="20"></unicode>
+   <reference key="16"></reference>
    <unicode role="key" value="21"></unicode>
-   <reference key="50"></reference>
+   <reference key="56"></reference>
    <unicode role="key" value="22"></unicode>
-   <reference key="22"></reference>
+   <reference key="26"></reference>
    <unicode role="key" value="23"></unicode>
-   <reference key="25"></reference>
+   <reference key="29"></reference>
    <unicode role="key" value="24"></unicode>
-   <reference key="28"></reference>
+   <reference key="32"></reference>
    <unicode role="key" value="25"></unicode>
-   <reference key="31"></reference>
+   <reference key="35"></reference>
    <unicode role="key" value="26"></unicode>
-   <reference key="34"></reference>
+   <reference key="38"></reference>
    <unicode role="key" value="27"></unicode>
-   <reference key="37"></reference>
+   <reference key="41"></reference>
    <unicode role="key" value="28"></unicode>
-   <reference key="40"></reference>
+   <reference key="44"></reference>
    <unicode role="key" value="29"></unicode>
-   <reference key="46"></reference>
+   <reference key="50"></reference>
    <unicode role="key" value="3"></unicode>
    <reference key="8"></reference>
    <unicode role="key" value="30"></unicode>
-   <reference key="49"></reference>
-   <unicode role="key" value="31"></unicode>
-   <reference key="43"></reference>
-   <unicode role="key" value="32"></unicode>
-   <reference key="60"></reference>
-   <unicode role="key" value="33"></unicode>
-   <reference key="61"></reference>
-   <unicode role="key" value="34"></unicode>
-   <reference key="62"></reference>
-   <unicode role="key" value="35"></unicode>
-   <reference key="63"></reference>
-   <unicode role="key" value="36"></unicode>
-   <reference key="64"></reference>
-   <unicode role="key" value="37"></unicode>
-   <reference key="65"></reference>
-   <unicode role="key" value="38"></unicode>
-   <reference key="66"></reference>
-   <unicode role="key" value="39"></unicode>
-   <reference key="67"></reference>
-   <unicode role="key" value="40"></unicode>
-   <reference key="68"></reference>
-   <unicode role="key" value="41"></unicode>
-   <reference key="69"></reference>
-   <unicode role="key" value="7"></unicode>
    <reference key="53"></reference>
+   <unicode role="key" value="31"></unicode>
+   <reference key="47"></reference>
+   <unicode role="key" value="32"></unicode>
+   <reference key="63"></reference>
+   <unicode role="key" value="33"></unicode>
+   <reference key="66"></reference>
+   <unicode role="key" value="34"></unicode>
+   <reference key="69"></reference>
+   <unicode role="key" value="35"></unicode>
+   <reference key="72"></reference>
+   <unicode role="key" value="36"></unicode>
+   <reference key="75"></reference>
+   <unicode role="key" value="37"></unicode>
+   <reference key="78"></reference>
+   <unicode role="key" value="38"></unicode>
+   <reference key="81"></reference>
+   <unicode role="key" value="39"></unicode>
+   <reference key="84"></reference>
+   <unicode role="key" value="40"></unicode>
+   <reference key="87"></reference>
+   <unicode role="key" value="41"></unicode>
+   <reference key="90"></reference>
+   <unicode role="key" value="7"></unicode>
+   <reference key="93"></reference>
   </dictionary>
   <string role="key" value="_objectives"></string>
   <unicode value=""></unicode>
@@ -3421,7 +5246,7 @@ and select the size of the area to display it in."></unicode>
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="11"></reference>
+  <reference key="56"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
@@ -3793,7 +5618,7 @@ and select the size of the area to display it in."></unicode>
        <instance class="exe.engine.lom.lomsubs.contributeSub">
         <dictionary>
          <string role="key" value="date"></string>
-         <instance class="exe.engine.lom.lomsubs.dateSub" reference="70">
+         <instance class="exe.engine.lom.lomsubs.dateSub" reference="100">
           <dictionary>
            <string role="key" value="dateTime"></string>
            <instance class="exe.engine.lom.lomsubs.DateTimeValueSub">
@@ -3832,7 +5657,7 @@ and select the size of the area to display it in."></unicode>
          </instance>
          <string role="key" value="entity"></string>
          <list>
-          <instance class="exe.engine.lom.lomsubs.entitySub" reference="71">
+          <instance class="exe.engine.lom.lomsubs.entitySub" reference="101">
            <dictionary>
             <string role="key" value="extensiontype_"></string>
             <none></none>
@@ -3847,7 +5672,7 @@ and select the size of the area to display it in."></unicode>
            <string role="key" value="extensiontype_"></string>
            <none></none>
            <string role="key" value="source"></string>
-           <instance class="exe.engine.lom.lomsubs.sourceValueSub" reference="72">
+           <instance class="exe.engine.lom.lomsubs.sourceValueSub" reference="102">
             <dictionary>
              <string role="key" value="extensiontype_"></string>
              <none></none>
@@ -3897,10 +5722,10 @@ and select the size of the area to display it in."></unicode>
        <instance class="exe.engine.lom.lomsubs.contributeMetaSub">
         <dictionary>
          <string role="key" value="date"></string>
-         <reference key="70"></reference>
+         <reference key="100"></reference>
          <string role="key" value="entity"></string>
          <list>
-          <reference key="71"></reference>
+          <reference key="101"></reference>
          </list>
          <string role="key" value="role"></string>
          <instance class="exe.engine.lom.lomsubs.roleSub">
@@ -3908,7 +5733,7 @@ and select the size of the area to display it in."></unicode>
            <string role="key" value="extensiontype_"></string>
            <none></none>
            <string role="key" value="source"></string>
-           <reference key="72"></reference>
+           <reference key="102"></reference>
            <string role="key" value="uniqueElementName"></string>
            <string value="role"></string>
            <string role="key" value="value"></string>
@@ -5247,20 +7072,29 @@ and select the size of the area to display it in."></unicode>
   <string role="key" value="mxmlwidth"></string>
   <string value=""></string>
   <string role="key" value="release"></string>
-  <string value="2.8.1"></string>
+  <string value="2.9"></string>
   <string role="key" value="resources"></string>
   <dictionary>
    <string role="key" value="0f391fd84b77a2f6690c2fad9cf49dde"></string>
    <list>
-    <reference key="18"></reference>
+    <reference key="23"></reference>
    </list>
    <string role="key" value="1983916dac084b9c5cf6f9e27c1c2f24"></string>
    <list>
-    <reference key="14"></reference>
+    <reference key="12"></reference>
+    <reference key="19"></reference>
+   </list>
+   <string role="key" value="4b5a4111657779466847d7d306ef0f9e"></string>
+   <list>
+    <reference key="60"></reference>
    </list>
    <string role="key" value="5375c29db5e32723720292eb69617273"></string>
    <list>
     <reference key="5"></reference>
+   </list>
+   <string role="key" value="c6a36d3b3b638b81311a2328d1fb407e"></string>
+   <list>
+    <reference key="13"></reference>
    </list>
   </dictionary>
   <string role="key" value="root"></string>
