@@ -169,7 +169,7 @@ header .navbar.navbar-light .nav-link.active {
 
 .quick-info {
   position: relative;
-  margin-top: -100px;
+  margin-top: 50px;
   z-index: 9;
 }
 
